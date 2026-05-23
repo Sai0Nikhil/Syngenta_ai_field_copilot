@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>AI Field Copilot — UI mockup</title>
+<style>
+  :root {
+    --forest: #2C5F2D;
+    --moss:   #97BC62;
+    --cream:  #F5F5F5;
+    --ink:    #1B2B1B;
+    --gray:   #555;
+    --light:  #E8EFE0;
+    --warn:   #E08A1F;
+    --danger: #C24A3A;
+    --white:  #fff;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0; background: #eef2ec;
+    font-family: -apple-system, "Segoe UI", Roboto, sans-serif;
+    color: var(--ink);
+  }
+  header {
+    background: var(--forest); color: var(--white);
+    padding: 18px 28px; display: flex; align-items: center; justify-content: space-between;
+  }
+  header h1 { margin: 0; font-family: Georgia, serif; font-size: 22px; }
+  header .meta { font-size: 13px; color: var(--moss); }
+  nav.tabs {
+    background: var(--white); padding: 0 28px; border-bottom: 1px solid var(--light);
+    display: flex; gap: 4px;
+  }
+  nav.tabs button {
+    background: transparent; border: none; padding: 14px 20px; cursor: pointer;
+    font-size: 14px; color: var(--gray); border-bottom: 3px solid transparent;
+  }
+  nav.tabs button.active { color: var(--forest); border-bottom-color: var(--forest); font-weight: 600; }
+  main { padding: 28px; max-width: 1200px; margin: 0 auto; }
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  /* Today's Plan */
+  .greeting { font-family: Georgia, serif; font-size: 26px; color: var(--ink); margin: 0 0 4px; }
+  .sub { color: var(--gray); font-size: 14px; margin-bottom: 22px; }
+  .metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-bottom: 24px; }
+  .metric {
+    background: var(--white); padding: 16px; border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06); text-align: center;
+  }
+  .metric .v { font-size: 30px; font-weight: 700; color: var(--forest); font-family: Georgia, serif; }
+  .metric .l { font-size: 11px; color: var(--gray); text-transform: uppercase; letter-spacing: 0.5px; }
+  .card {
+    background: var(--white); border-left: 6px solid var(--forest); border-radius: 8px;
+    padding: 14px 18px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    cursor: pointer; transition: transform 0.1s ease;
+  }
+  .card:hover { transform: translateY(-1px); box-shadow: 0 3px 8px rgba(0,0,0,0.10); }
+  .card h4 { margin: 0 0 4px; color: var(--forest); font-family: Georgia, serif; font-size: 17px; }
+  .card .meta { font-size: 12px; color: var(--gray); margin-bottom: 8px; }
+  .card .score {
+    float: right; background: var(--forest); color: var(--white);
+    padding: 3px 10px; border-radius: 12px; font-size: 13px; font-weight: 600;
+  }
+  .chip {
+    display: inline-block; padding: 3px 9px; border-radius: 12px; font-size: 12px;
+    background: var(--light); color: var(--forest); margin-right: 6px;
+  }
+  .chip.warn   { background: #fff3d6; color: #8a5a00; }
+  .chip.danger { background: #fde0e0; color: #a02020; }
+
+  /* Heatmap */
+  .heatmap {
+    background: var(--white); border-radius: 8px; padding: 24px; height: 460px;
+    position: relative; box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  }
+  .heatmap svg { width: 100%; height: 100%; }
+
+  /* Retailer 360 */
+  .r360 { display: grid; grid-template-columns: 2fr 1fr; gap: 24px; }
+  .r360 .col { background: var(--white); border-radius: 8px; padding: 22px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+  .r360 h3 { font-family: Georgia, serif; color: var(--forest); margin: 0 0 12px; }
+  .r360 .row { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid var(--light); }
+  .r360 .row:last-child { border: none; }
+  .actions button {
+    width: 100%; padding: 10px; margin-bottom: 8px; background: var(--forest);
+    color: var(--white); border: none; border-radius: 6px; font-size: 14px; cursor: pointer;
+  }
+  .actions button.secondary { background: var(--white); color: var(--forest); border: 1px solid var(--forest); }
+  .sparkline { width: 100%; height: 100px; margin-top: 12px; }
+  .product { padding: 10px 0; border-top: 1px solid var(--light); }
+  .product:first-child { border-top: none; }
+  .product .name { font-weight: 600; }
+  .product .bar { height: 6px; background: var(--light); border-radius: 3px; margin-top: 6px; overflow: hidden; }
+  .product .fill { height: 100%; background: var(--forest); }
+
+  /* Insights */
+  .imp-bar { display: flex; align-items: center; padding: 6px 0; }
+  .imp-bar .lab { width: 180px; font-size: 13px; color: var(--ink); }
+  .imp-bar .track { flex: 1; background: var(--light); border-radius: 3px; height: 14px; position: relative; }
+  .imp-bar .fill { background: var(--forest); height: 100%; border-radius: 3px; }
+  .imp-bar .val { margin-left: 8px; font-size: 12px; color: var(--forest); font-weight: 600; width: 40px; }
+
+  footer { text-align: center; color: var(--gray); font-size: 12px; padding: 20px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>AI Field Copilot</h1>
+  <div class="meta">REP04 · Karnataka &amp; Andhra Pradesh · Friday, 22 May 2026</div>
+</header>
+
+<nav class="tabs">
+  <button class="active" onclick="show('plan', this)">Today's Plan</button>
+  <button onclick="show('heatmap', this)">Risk Heatmap</button>
+  <button onclick="show('r360', this)">Retailer 360</button>
+  <button onclick="show('insights', this)">Insights</button>
+</nav>
+
+<main>
+
+<!-- Today's Plan -->
+<section id="plan" class="panel active">
+  <h2 class="greeting">Good morning, REP04</h2>
+  <div class="sub">10 priority visits today &middot; based on weather, pest activity, and account signals.</div>
+
+  <div class="metrics">
+    <div class="metric"><div class="v">96</div><div class="l">Retailers in scope</div></div>
+    <div class="metric"><div class="v">10</div><div class="l">Suggested visits</div></div>
+    <div class="metric"><div class="v">3</div><div class="l">High-pest districts</div></div>
+    <div class="metric"><div class="v">27</div><div class="l">Overdue (30d+)</div></div>
+  </div>
+
+  <div class="card" onclick="show('r360', document.querySelectorAll('nav.tabs button')[2])">
+    <h4>Dharwad Agri 30 <span style="font-size:12px;color:#888;font-weight:400;">· Dharwad, Karnataka</span>
+      <span class="score">100</span>
+    </h4>
+    <div class="meta">Maize &middot; Tier A &middot; &#8377;2,80,000/mo</div>
+    <div>
+      <span class="chip warn">45d since visit</span>
+      <span class="chip danger">high pest activity</span>
+      <span class="chip">Tier A account</span>
+      <span class="chip">&#8377;280k/mo</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h4>Belgaum Agri 41 <span style="font-size:12px;color:#888;font-weight:400;">· Belgaum, Karnataka</span>
+      <span class="score">88</span>
+    </h4>
+    <div class="meta">Chilli &middot; Tier A &middot; &#8377;2,40,000/mo</div>
+    <div>
+      <span class="chip">32mm rain (7d)</span>
+      <span class="chip warn">pest activity</span>
+      <span class="chip">Tier A account</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h4>Nellore Agri 90 <span style="font-size:12px;color:#888;font-weight:400;">· Nellore, Andhra Pradesh</span>
+      <span class="score">81</span>
+    </h4>
+    <div class="meta">Cotton &middot; Tier A &middot; &#8377;2,10,000/mo</div>
+    <div>
+      <span class="chip warn">38d since visit</span>
+      <span class="chip">&#8377;210k/mo</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h4>Prakasam Agri 78 <span style="font-size:12px;color:#888;font-weight:400;">· Prakasam, Andhra Pradesh</span>
+      <span class="score">67</span>
+    </h4>
+    <div class="meta">Cotton &middot; Tier A &middot; &#8377;1,80,000/mo</div>
+    <div>
+      <span class="chip warn">31d since visit</span>
+      <span class="chip">Tier A account</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h4>Kadapa Agri 84 <span style="font-size:12px;color:#888;font-weight:400;">· Kadapa, Andhra Pradesh</span>
+      <span class="score">66</span>
+    </h4>
+    <div class="meta">Cotton &middot; Tier A &middot; &#8377;1,75,000/mo</div>
+    <div>
+      <span class="chip warn">pest activity</span>
+      <span class="chip">Tier A account</span>
+    </div>
+  </div>
+</section>
+
+<!-- Risk Heatmap -->
+<section id="heatmap" class="panel">
+  <h2 class="greeting">Regional risk heatmap</h2>
+  <div class="sub">Combined pest + weather signal by district. Sized by avg priority score.</div>
+
+  <div class="heatmap">
+    <svg viewBox="0 0 600 460">
+      <!-- Stylized region outline (Karnataka + AP) -->
+      <path d="M80,80 L120,60 L200,70 L280,55 L340,90 L380,140 L370,220 L390,300 L350,360 L290,400 L220,390 L150,370 L100,310 L70,230 L60,150 Z"
+            fill="#f0f5ec" stroke="#c8d4c0" stroke-width="2" />
+
+      <!-- District labels and circles (size ~ priority, color ~ risk) -->
+      <!-- Karnataka -->
+      <circle cx="155" cy="200" r="22" fill="#C24A3A" opacity="0.7"/><text x="155" y="240" text-anchor="middle" font-size="11" fill="#1B2B1B">Dharwad</text>
+      <circle cx="195" cy="170" r="14" fill="#E08A1F" opacity="0.7"/><text x="195" y="148" text-anchor="middle" font-size="10" fill="#1B2B1B">Belgaum</text>
+      <circle cx="230" cy="225" r="12" fill="#2C5F2D" opacity="0.7"/><text x="230" y="252" text-anchor="middle" font-size="10" fill="#1B2B1B">Haveri</text>
+      <circle cx="200" cy="270" r="16" fill="#E08A1F" opacity="0.7"/><text x="200" y="298" text-anchor="middle" font-size="10" fill="#1B2B1B">Davangere</text>
+      <circle cx="260" cy="290" r="14" fill="#2C5F2D" opacity="0.7"/><text x="260" y="318" text-anchor="middle" font-size="10" fill="#1B2B1B">Bellary</text>
+      <circle cx="270" cy="260" r="18" fill="#C24A3A" opacity="0.7"/><text x="270" y="232" text-anchor="middle" font-size="10" fill="#1B2B1B">Raichur</text>
+      <circle cx="305" cy="220" r="10" fill="#2C5F2D" opacity="0.7"/><text x="305" y="208" text-anchor="middle" font-size="10" fill="#1B2B1B">Bidar</text>
+
+      <!-- Andhra -->
+      <circle cx="340" cy="280" r="14" fill="#E08A1F" opacity="0.7"/><text x="340" y="308" text-anchor="middle" font-size="10" fill="#1B2B1B">Kurnool</text>
+      <circle cx="320" cy="320" r="12" fill="#2C5F2D" opacity="0.7"/><text x="320" y="346" text-anchor="middle" font-size="10" fill="#1B2B1B">Anantapur</text>
+      <circle cx="370" cy="320" r="15" fill="#C24A3A" opacity="0.7"/><text x="370" y="346" text-anchor="middle" font-size="10" fill="#1B2B1B">Kadapa</text>
+      <circle cx="360" cy="265" r="18" fill="#E08A1F" opacity="0.7"/><text x="360" y="238" text-anchor="middle" font-size="10" fill="#1B2B1B">Guntur</text>
+      <circle cx="390" cy="290" r="16" fill="#C24A3A" opacity="0.7"/><text x="395" y="277" text-anchor="middle" font-size="10" fill="#1B2B1B">Prakasam</text>
+      <circle cx="400" cy="335" r="13" fill="#2C5F2D" opacity="0.7"/><text x="400" y="362" text-anchor="middle" font-size="10" fill="#1B2B1B">Nellore</text>
+
+      <!-- Legend -->
+      <g transform="translate(440, 50)">
+        <text x="0" y="0" font-size="12" font-weight="600" fill="#1B2B1B">Pest events</text>
+        <circle cx="10" cy="20" r="6" fill="#2C5F2D" opacity="0.7"/><text x="22" y="24" font-size="11" fill="#555">low</text>
+        <circle cx="10" cy="40" r="6" fill="#E08A1F" opacity="0.7"/><text x="22" y="44" font-size="11" fill="#555">medium</text>
+        <circle cx="10" cy="60" r="6" fill="#C24A3A" opacity="0.7"/><text x="22" y="64" font-size="11" fill="#555">high</text>
+      </g>
+    </svg>
+  </div>
+</section>
+
+<!-- Retailer 360 -->
+<section id="r360" class="panel">
+  <h2 class="greeting">Dharwad Agri 30</h2>
+  <div class="sub">Dharwad, Karnataka &middot; Maize &middot; Tier A &middot; Priority score 100/100</div>
+
+  <div class="r360">
+    <div class="col">
+      <h3>Sales trend (12 months)</h3>
+      <svg class="sparkline" viewBox="0 0 600 100" preserveAspectRatio="none">
+        <polyline fill="none" stroke="#2C5F2D" stroke-width="2"
+          points="0,70 50,60 100,65 150,40 200,30 250,50 300,55 350,35 400,28 450,42 500,38 550,25 600,20"/>
+        <circle cx="600" cy="20" r="4" fill="#2C5F2D"/>
+      </svg>
+      <div style="display:flex; justify-content:space-between; font-size:11px; color:var(--gray); margin-top:4px;">
+        <span>Jun '25</span><span>Dec '25</span><span>May '26</span>
+      </div>
+
+      <h3 style="margin-top:24px;">Recommended products</h3>
+      <div class="product">
+        <div class="name">NK Maize Hybrid Seed</div>
+        <div class="bar"><div class="fill" style="width:88%"></div></div>
+        <div style="font-size:11px;color:var(--gray);margin-top:4px;">Past 12 months: 920 units</div>
+      </div>
+      <div class="product">
+        <div class="name">Callisto Herbicide</div>
+        <div class="bar"><div class="fill" style="width:62%"></div></div>
+        <div style="font-size:11px;color:var(--gray);margin-top:4px;">Past 12 months: 650 units</div>
+      </div>
+      <div class="product">
+        <div class="name">Force Insecticide</div>
+        <div class="bar"><div class="fill" style="width:44%"></div></div>
+        <div style="font-size:11px;color:var(--gray);margin-top:4px;">Past 12 months: 460 units</div>
+      </div>
+    </div>
+
+    <div class="col">
+      <h3>Account</h3>
+      <div class="row"><span>Tier</span><span><strong>A</strong></span></div>
+      <div class="row"><span>Avg monthly sales</span><span><strong>&#8377;2,80,000</strong></span></div>
+      <div class="row"><span>Credit score</span><span><strong>88</strong>/100</span></div>
+      <div class="row"><span>Days since visit</span><span><strong>45</strong></span></div>
+      <div class="row"><span>Pest pressure (14d)</span><span><strong>3 events</strong></span></div>
+
+      <div class="actions" style="margin-top:18px;">
+        <button>Call retailer</button>
+        <button class="secondary">Navigate</button>
+        <button class="secondary">Log visit</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Insights -->
+<section id="insights" class="panel">
+  <h2 class="greeting">Why these recommendations</h2>
+  <div class="sub">Global feature importance · holdout ROC-AUC 0.815 on 5,760 rows.</div>
+
+  <div style="background:var(--white); border-radius:8px; padding:24px; box-shadow:0 1px 3px rgba(0,0,0,0.05);">
+    <div class="imp-bar"><div class="lab">avg_monthly_sales</div><div class="track"><div class="fill" style="width:100%"></div></div><div class="val">27</div></div>
+    <div class="imp-bar"><div class="lab">days_since_visit</div><div class="track"><div class="fill" style="width:74%"></div></div><div class="val">20</div></div>
+    <div class="imp-bar"><div class="lab">recent_humidity</div><div class="track"><div class="fill" style="width:66%"></div></div><div class="val">18</div></div>
+    <div class="imp-bar"><div class="lab">recent_rain_7d</div><div class="track"><div class="fill" style="width:55%"></div></div><div class="val">15</div></div>
+    <div class="imp-bar"><div class="lab">credit_score</div><div class="track"><div class="fill" style="width:33%"></div></div><div class="val">9</div></div>
+    <div class="imp-bar"><div class="lab">tier</div><div class="track"><div class="fill" style="width:15%"></div></div><div class="val">4</div></div>
+    <div class="imp-bar"><div class="lab">crop_cotton</div><div class="track"><div class="fill" style="width:9%"></div></div><div class="val">3</div></div>
+    <div class="imp-bar"><div class="lab">pest_pressure</div><div class="track"><div class="fill" style="width:8%"></div></div><div class="val">2</div></div>
+    <div class="imp-bar"><div class="lab">crop_chilli</div><div class="track"><div class="fill" style="width:7%"></div></div><div class="val">2</div></div>
+    <div class="imp-bar"><div class="lab">crop_maize</div><div class="track"><div class="fill" style="width:2%"></div></div><div class="val">1</div></div>
+  </div>
+
+  <div class="metrics" style="margin-top:20px;">
+    <div class="metric"><div class="v">0.815</div><div class="l">Holdout ROC-AUC</div></div>
+    <div class="metric"><div class="v">96</div><div class="l">Retailers tracked</div></div>
+    <div class="metric"><div class="v">16</div><div class="l">Districts covered</div></div>
+    <div class="metric"><div class="v">&lt;50ms</div><div class="l">Scoring latency</div></div>
+  </div>
+</section>
+
+</main>
+
+<footer>AI Field Copilot &middot; Hackathon mockup &middot; click the tabs to explore. Cards are interactive — click Dharwad Agri 30 on the Today's Plan tab.</footer>
+
+<script>
+  function show(id, btn) {
+    document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+    document.getElementById(id).classList.add('active');
+    document.querySelectorAll('nav.tabs button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+</script>
+</body>
+</html>

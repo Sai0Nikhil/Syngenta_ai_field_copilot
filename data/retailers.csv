@@ -1,0 +1,97 @@
+retailer_id,retailer_name,district,state,lat,lon,primary_crop,tier,avg_monthly_sales_inr,days_since_last_visit,credit_score
+R0001,Bellary Agri 1,Bellary,Karnataka,15.0006,77.0392,chilli,B,184194,33,93
+R0002,Bellary Agri 2,Bellary,Karnataka,15.1842,76.6869,cotton,A,325929,13,55
+R0003,Bellary Agri 3,Bellary,Karnataka,14.9023,76.7704,chilli,A,304951,79,91
+R0004,Bellary Agri 4,Bellary,Karnataka,15.1136,76.8101,cotton,A,259949,30,50
+R0005,Bellary Agri 5,Bellary,Karnataka,15.0591,76.7487,cotton,B,123707,56,71
+R0006,Bellary Agri 6,Bellary,Karnataka,15.0685,76.843,chilli,A,239191,14,66
+R0007,Bellary Agri 7,Bellary,Karnataka,14.9514,77.1321,cotton,A,280870,70,55
+R0008,Raichur Agri 8,Raichur,Karnataka,16.0511,77.1398,chilli,A,229600,75,92
+R0009,Raichur Agri 9,Raichur,Karnataka,16.3827,77.5382,chilli,B,191722,12,74
+R0010,Raichur Agri 10,Raichur,Karnataka,16.1401,77.2098,chilli,A,231277,22,67
+R0011,Raichur Agri 11,Raichur,Karnataka,16.2725,77.3721,cotton,C,77435,79,65
+R0012,Raichur Agri 12,Raichur,Karnataka,16.4498,77.425,chilli,A,238943,36,85
+R0013,Raichur Agri 13,Raichur,Karnataka,16.0695,77.1211,chilli,A,210017,9,70
+R0014,Raichur Agri 14,Raichur,Karnataka,16.4116,77.3886,maize,C,74701,29,95
+R0015,Davangere Agri 15,Davangere,Karnataka,14.6583,75.9954,chilli,A,301740,52,59
+R0016,Davangere Agri 16,Davangere,Karnataka,14.4855,76.0475,chilli,B,169303,73,77
+R0017,Davangere Agri 17,Davangere,Karnataka,14.3257,76.1728,cotton,A,249400,48,82
+R0018,Davangere Agri 18,Davangere,Karnataka,14.2924,75.754,maize,C,64702,16,93
+R0019,Davangere Agri 19,Davangere,Karnataka,14.4068,76.1721,maize,C,73306,51,83
+R0020,Davangere Agri 20,Davangere,Karnataka,14.5561,75.7313,chilli,A,330049,3,84
+R0021,Haveri Agri 21,Haveri,Karnataka,14.6918,75.2331,cotton,A,218349,16,50
+R0022,Haveri Agri 22,Haveri,Karnataka,14.926,75.4078,cotton,B,178091,66,56
+R0023,Haveri Agri 23,Haveri,Karnataka,14.8495,75.2304,cotton,B,196471,66,60
+R0024,Haveri Agri 24,Haveri,Karnataka,14.8445,75.3983,maize,A,318058,2,57
+R0025,Haveri Agri 25,Haveri,Karnataka,14.574,75.593,cotton,A,201225,32,55
+R0026,Haveri Agri 26,Haveri,Karnataka,15.034,75.4204,chilli,A,294798,10,58
+R0027,Dharwad Agri 27,Dharwad,Karnataka,15.3405,75.1942,cotton,A,328255,23,77
+R0028,Dharwad Agri 28,Dharwad,Karnataka,15.5645,74.9575,cotton,A,322746,27,92
+R0029,Dharwad Agri 29,Dharwad,Karnataka,15.4337,74.882,cotton,A,269690,68,54
+R0030,Dharwad Agri 30,Dharwad,Karnataka,15.3231,74.8681,maize,A,348443,72,54
+R0031,Dharwad Agri 31,Dharwad,Karnataka,15.2417,74.7737,cotton,C,70866,31,71
+R0032,Gadag Agri 32,Gadag,Karnataka,15.2871,75.4512,maize,B,186002,64,86
+R0033,Gadag Agri 33,Gadag,Karnataka,15.5837,75.4802,cotton,B,167400,62,56
+R0034,Gadag Agri 34,Gadag,Karnataka,15.3856,75.8169,cotton,A,225753,56,53
+R0035,Gadag Agri 35,Gadag,Karnataka,15.3813,75.5547,cotton,C,91599,9,56
+R0036,Gadag Agri 36,Gadag,Karnataka,15.4043,75.5959,chilli,B,139724,70,67
+R0037,Belgaum Agri 37,Belgaum,Karnataka,16.006,74.676,chilli,C,79523,58,56
+R0038,Belgaum Agri 38,Belgaum,Karnataka,16.0865,74.7112,chilli,A,323423,3,65
+R0039,Belgaum Agri 39,Belgaum,Karnataka,15.7089,74.4485,chilli,A,294615,63,53
+R0040,Belgaum Agri 40,Belgaum,Karnataka,15.7346,74.64,chilli,C,41130,51,79
+R0041,Belgaum Agri 41,Belgaum,Karnataka,15.6794,74.3964,chilli,A,331382,64,53
+R0042,Belgaum Agri 42,Belgaum,Karnataka,15.976,74.2766,cotton,A,324266,9,87
+R0043,Bidar Agri 43,Bidar,Karnataka,17.6914,77.5339,maize,A,318463,22,61
+R0044,Bidar Agri 44,Bidar,Karnataka,17.8649,77.7508,chilli,C,75631,32,86
+R0045,Bidar Agri 45,Bidar,Karnataka,17.8726,77.5718,chilli,C,60836,12,83
+R0046,Bidar Agri 46,Bidar,Karnataka,17.9979,77.4371,chilli,B,176716,28,66
+R0047,Bidar Agri 47,Bidar,Karnataka,17.8211,77.6559,maize,B,197284,60,54
+R0048,Bidar Agri 48,Bidar,Karnataka,17.6996,77.3866,chilli,A,335170,14,66
+R0049,Guntur Agri 49,Guntur,Andhra Pradesh,16.2408,80.2649,cotton,C,76066,33,84
+R0050,Guntur Agri 50,Guntur,Andhra Pradesh,16.3899,80.4633,cotton,A,317317,3,92
+R0051,Guntur Agri 51,Guntur,Andhra Pradesh,16.1137,80.2395,chilli,B,110407,35,85
+R0052,Guntur Agri 52,Guntur,Andhra Pradesh,16.1613,80.3574,chilli,B,187721,79,93
+R0053,Guntur Agri 53,Guntur,Andhra Pradesh,16.3003,80.6387,cotton,B,178403,66,53
+R0054,Krishna Agri 54,Krishna,Andhra Pradesh,16.2698,80.7556,cotton,B,185060,7,90
+R0055,Krishna Agri 55,Krishna,Andhra Pradesh,16.5438,80.5838,cotton,B,124715,58,50
+R0056,Krishna Agri 56,Krishna,Andhra Pradesh,16.286,80.5546,chilli,B,118147,71,85
+R0057,Krishna Agri 57,Krishna,Andhra Pradesh,16.4221,80.8195,chilli,B,106818,7,52
+R0058,Krishna Agri 58,Krishna,Andhra Pradesh,16.6015,80.5468,cotton,B,150140,33,85
+R0059,Kurnool Agri 59,Kurnool,Andhra Pradesh,16.0113,78.2751,cotton,B,121030,32,61
+R0060,Kurnool Agri 60,Kurnool,Andhra Pradesh,15.9473,77.9531,cotton,C,52995,24,76
+R0061,Kurnool Agri 61,Kurnool,Andhra Pradesh,15.6586,78.1376,cotton,B,170111,36,74
+R0062,Kurnool Agri 62,Kurnool,Andhra Pradesh,15.6788,78.2462,cotton,A,286777,30,72
+R0063,Kurnool Agri 63,Kurnool,Andhra Pradesh,15.5908,77.8836,chilli,B,159325,30,71
+R0064,Kurnool Agri 64,Kurnool,Andhra Pradesh,15.7546,78.0417,chilli,C,76396,37,93
+R0065,Anantapur Agri 65,Anantapur,Andhra Pradesh,14.8695,77.4806,chilli,C,54470,16,87
+R0066,Anantapur Agri 66,Anantapur,Andhra Pradesh,14.4852,77.5673,cotton,B,179180,6,70
+R0067,Anantapur Agri 67,Anantapur,Andhra Pradesh,14.6236,77.6383,maize,A,308132,16,66
+R0068,Anantapur Agri 68,Anantapur,Andhra Pradesh,14.691,77.7533,chilli,A,268619,2,93
+R0069,Anantapur Agri 69,Anantapur,Andhra Pradesh,14.6466,77.8244,cotton,B,143303,48,71
+R0070,Anantapur Agri 70,Anantapur,Andhra Pradesh,14.6846,77.6834,cotton,B,105339,40,70
+R0071,Anantapur Agri 71,Anantapur,Andhra Pradesh,14.4946,77.5602,maize,B,195008,72,74
+R0072,Prakasam Agri 72,Prakasam,Andhra Pradesh,15.3826,79.513,cotton,B,131240,80,50
+R0073,Prakasam Agri 73,Prakasam,Andhra Pradesh,15.4909,79.6133,chilli,B,150196,57,70
+R0074,Prakasam Agri 74,Prakasam,Andhra Pradesh,15.3536,79.7069,maize,A,271819,29,60
+R0075,Prakasam Agri 75,Prakasam,Andhra Pradesh,15.4299,79.6196,cotton,B,188785,67,55
+R0076,Prakasam Agri 76,Prakasam,Andhra Pradesh,15.2103,79.4096,cotton,B,163138,41,51
+R0077,Prakasam Agri 77,Prakasam,Andhra Pradesh,15.5229,79.3464,chilli,A,289108,80,76
+R0078,Prakasam Agri 78,Prakasam,Andhra Pradesh,15.4572,79.502,cotton,A,341817,26,75
+R0079,Chittoor Agri 79,Chittoor,Andhra Pradesh,13.3562,78.9604,chilli,C,42907,15,94
+R0080,Chittoor Agri 80,Chittoor,Andhra Pradesh,13.0916,79.2752,maize,C,66328,73,79
+R0081,Chittoor Agri 81,Chittoor,Andhra Pradesh,13.4609,79.1487,chilli,A,283606,69,78
+R0082,Chittoor Agri 82,Chittoor,Andhra Pradesh,13.3823,79.1249,cotton,A,304649,56,60
+R0083,Chittoor Agri 83,Chittoor,Andhra Pradesh,13.0966,78.9746,cotton,A,288866,59,90
+R0084,Kadapa Agri 84,Kadapa,Andhra Pradesh,14.5304,78.7113,cotton,A,313311,64,54
+R0085,Kadapa Agri 85,Kadapa,Andhra Pradesh,14.3849,79.0205,cotton,B,162942,36,55
+R0086,Kadapa Agri 86,Kadapa,Andhra Pradesh,14.564,78.9272,chilli,B,161247,51,54
+R0087,Kadapa Agri 87,Kadapa,Andhra Pradesh,14.45,78.6051,maize,A,213477,71,76
+R0088,Kadapa Agri 88,Kadapa,Andhra Pradesh,14.6454,78.9568,maize,A,346225,4,74
+R0089,Kadapa Agri 89,Kadapa,Andhra Pradesh,14.5937,79.0007,maize,A,224422,40,76
+R0090,Nellore Agri 90,Nellore,Andhra Pradesh,14.6419,79.9811,cotton,A,326330,79,67
+R0091,Nellore Agri 91,Nellore,Andhra Pradesh,14.3611,80.0766,maize,C,55217,51,75
+R0092,Nellore Agri 92,Nellore,Andhra Pradesh,14.6834,80.0041,cotton,A,285047,18,75
+R0093,Nellore Agri 93,Nellore,Andhra Pradesh,14.5144,79.8048,cotton,C,54209,12,79
+R0094,Nellore Agri 94,Nellore,Andhra Pradesh,14.3567,79.9643,chilli,B,176396,50,71
+R0095,Nellore Agri 95,Nellore,Andhra Pradesh,14.569,80.153,cotton,A,238771,37,66
+R0096,Nellore Agri 96,Nellore,Andhra Pradesh,14.5675,79.763,cotton,A,286576,4,72

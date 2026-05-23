@@ -1,0 +1,3457 @@
+month,retailer_id,product,units_sold
+2026-05,R0001,Amistar Top Fungicide,30
+2026-04,R0001,Amistar Top Fungicide,43
+2026-03,R0001,Amistar Top Fungicide,42
+2026-01,R0001,Amistar Top Fungicide,56
+2026-01,R0001,Amistar Top Fungicide,75
+2025-12,R0001,Amistar Top Fungicide,125
+2025-11,R0001,Amistar Top Fungicide,86
+2025-10,R0001,Amistar Top Fungicide,75
+2025-09,R0001,Amistar Top Fungicide,54
+2025-08,R0001,Amistar Top Fungicide,54
+2025-07,R0001,Amistar Top Fungicide,18
+2025-06,R0001,Amistar Top Fungicide,31
+2026-05,R0001,Karate Zeon Insecticide,45
+2026-04,R0001,Karate Zeon Insecticide,42
+2026-03,R0001,Karate Zeon Insecticide,42
+2026-01,R0001,Karate Zeon Insecticide,81
+2026-01,R0001,Karate Zeon Insecticide,109
+2025-12,R0001,Karate Zeon Insecticide,90
+2025-11,R0001,Karate Zeon Insecticide,91
+2025-10,R0001,Karate Zeon Insecticide,63
+2025-09,R0001,Karate Zeon Insecticide,49
+2025-08,R0001,Karate Zeon Insecticide,34
+2025-07,R0001,Karate Zeon Insecticide,34
+2025-06,R0001,Karate Zeon Insecticide,34
+2026-05,R0001,Cruiser Seed Treatment,36
+2026-04,R0001,Cruiser Seed Treatment,39
+2026-03,R0001,Cruiser Seed Treatment,58
+2026-01,R0001,Cruiser Seed Treatment,64
+2026-01,R0001,Cruiser Seed Treatment,69
+2025-12,R0001,Cruiser Seed Treatment,70
+2025-11,R0001,Cruiser Seed Treatment,65
+2025-10,R0001,Cruiser Seed Treatment,91
+2025-09,R0001,Cruiser Seed Treatment,35
+2025-08,R0001,Cruiser Seed Treatment,36
+2025-07,R0001,Cruiser Seed Treatment,25
+2025-06,R0001,Cruiser Seed Treatment,21
+2026-05,R0002,Tihan Insecticide,71
+2026-04,R0002,Tihan Insecticide,108
+2026-03,R0002,Tihan Insecticide,112
+2026-01,R0002,Tihan Insecticide,78
+2026-01,R0002,Tihan Insecticide,129
+2025-12,R0002,Tihan Insecticide,121
+2025-11,R0002,Tihan Insecticide,174
+2025-10,R0002,Tihan Insecticide,109
+2025-09,R0002,Tihan Insecticide,70
+2025-08,R0002,Tihan Insecticide,58
+2025-07,R0002,Tihan Insecticide,70
+2025-06,R0002,Tihan Insecticide,72
+2026-05,R0002,Polo Insecticide,52
+2026-04,R0002,Polo Insecticide,58
+2026-03,R0002,Polo Insecticide,114
+2026-01,R0002,Polo Insecticide,119
+2026-01,R0002,Polo Insecticide,83
+2025-12,R0002,Polo Insecticide,175
+2025-11,R0002,Polo Insecticide,182
+2025-10,R0002,Polo Insecticide,108
+2025-09,R0002,Polo Insecticide,87
+2025-08,R0002,Polo Insecticide,77
+2025-07,R0002,Polo Insecticide,41
+2025-06,R0002,Polo Insecticide,72
+2026-05,R0002,Cruiser Cotton Seed,80
+2026-04,R0002,Cruiser Cotton Seed,92
+2026-03,R0002,Cruiser Cotton Seed,130
+2026-01,R0002,Cruiser Cotton Seed,94
+2026-01,R0002,Cruiser Cotton Seed,163
+2025-12,R0002,Cruiser Cotton Seed,91
+2025-11,R0002,Cruiser Cotton Seed,182
+2025-10,R0002,Cruiser Cotton Seed,124
+2025-09,R0002,Cruiser Cotton Seed,78
+2025-08,R0002,Cruiser Cotton Seed,83
+2025-07,R0002,Cruiser Cotton Seed,80
+2025-06,R0002,Cruiser Cotton Seed,67
+2026-05,R0003,Amistar Top Fungicide,47
+2026-04,R0003,Amistar Top Fungicide,94
+2026-03,R0003,Amistar Top Fungicide,71
+2026-01,R0003,Amistar Top Fungicide,96
+2026-01,R0003,Amistar Top Fungicide,80
+2025-12,R0003,Amistar Top Fungicide,143
+2025-11,R0003,Amistar Top Fungicide,159
+2025-10,R0003,Amistar Top Fungicide,175
+2025-09,R0003,Amistar Top Fungicide,97
+2025-08,R0003,Amistar Top Fungicide,69
+2025-07,R0003,Amistar Top Fungicide,61
+2025-06,R0003,Amistar Top Fungicide,50
+2026-05,R0003,Karate Zeon Insecticide,50
+2026-04,R0003,Karate Zeon Insecticide,106
+2026-03,R0003,Karate Zeon Insecticide,82
+2026-01,R0003,Karate Zeon Insecticide,114
+2026-01,R0003,Karate Zeon Insecticide,98
+2025-12,R0003,Karate Zeon Insecticide,171
+2025-11,R0003,Karate Zeon Insecticide,168
+2025-10,R0003,Karate Zeon Insecticide,83
+2025-09,R0003,Karate Zeon Insecticide,70
+2025-08,R0003,Karate Zeon Insecticide,81
+2025-07,R0003,Karate Zeon Insecticide,52
+2025-06,R0003,Karate Zeon Insecticide,58
+2026-05,R0003,Cruiser Seed Treatment,32
+2026-04,R0003,Cruiser Seed Treatment,115
+2026-03,R0003,Cruiser Seed Treatment,57
+2026-01,R0003,Cruiser Seed Treatment,132
+2026-01,R0003,Cruiser Seed Treatment,96
+2025-12,R0003,Cruiser Seed Treatment,94
+2025-11,R0003,Cruiser Seed Treatment,165
+2025-10,R0003,Cruiser Seed Treatment,91
+2025-09,R0003,Cruiser Seed Treatment,90
+2025-08,R0003,Cruiser Seed Treatment,59
+2025-07,R0003,Cruiser Seed Treatment,47
+2025-06,R0003,Cruiser Seed Treatment,75
+2026-05,R0004,Tihan Insecticide,58
+2026-04,R0004,Tihan Insecticide,59
+2026-03,R0004,Tihan Insecticide,93
+2026-01,R0004,Tihan Insecticide,136
+2026-01,R0004,Tihan Insecticide,86
+2025-12,R0004,Tihan Insecticide,103
+2025-11,R0004,Tihan Insecticide,79
+2025-10,R0004,Tihan Insecticide,152
+2025-09,R0004,Tihan Insecticide,66
+2025-08,R0004,Tihan Insecticide,72
+2025-07,R0004,Tihan Insecticide,43
+2025-06,R0004,Tihan Insecticide,58
+2026-05,R0004,Polo Insecticide,49
+2026-04,R0004,Polo Insecticide,51
+2026-03,R0004,Polo Insecticide,50
+2026-01,R0004,Polo Insecticide,95
+2026-01,R0004,Polo Insecticide,113
+2025-12,R0004,Polo Insecticide,144
+2025-11,R0004,Polo Insecticide,117
+2025-10,R0004,Polo Insecticide,101
+2025-09,R0004,Polo Insecticide,64
+2025-08,R0004,Polo Insecticide,51
+2025-07,R0004,Polo Insecticide,63
+2025-06,R0004,Polo Insecticide,38
+2026-05,R0004,Cruiser Cotton Seed,51
+2026-04,R0004,Cruiser Cotton Seed,56
+2026-03,R0004,Cruiser Cotton Seed,77
+2026-01,R0004,Cruiser Cotton Seed,91
+2026-01,R0004,Cruiser Cotton Seed,82
+2025-12,R0004,Cruiser Cotton Seed,145
+2025-11,R0004,Cruiser Cotton Seed,90
+2025-10,R0004,Cruiser Cotton Seed,87
+2025-09,R0004,Cruiser Cotton Seed,65
+2025-08,R0004,Cruiser Cotton Seed,70
+2025-07,R0004,Cruiser Cotton Seed,30
+2025-06,R0004,Cruiser Cotton Seed,30
+2026-05,R0005,Tihan Insecticide,22
+2026-04,R0005,Tihan Insecticide,28
+2026-03,R0005,Tihan Insecticide,39
+2026-01,R0005,Tihan Insecticide,62
+2026-01,R0005,Tihan Insecticide,38
+2025-12,R0005,Tihan Insecticide,59
+2025-11,R0005,Tihan Insecticide,51
+2025-10,R0005,Tihan Insecticide,35
+2025-09,R0005,Tihan Insecticide,26
+2025-08,R0005,Tihan Insecticide,40
+2025-07,R0005,Tihan Insecticide,27
+2025-06,R0005,Tihan Insecticide,24
+2026-05,R0005,Polo Insecticide,23
+2026-04,R0005,Polo Insecticide,41
+2026-03,R0005,Polo Insecticide,39
+2026-01,R0005,Polo Insecticide,46
+2026-01,R0005,Polo Insecticide,64
+2025-12,R0005,Polo Insecticide,47
+2025-11,R0005,Polo Insecticide,54
+2025-10,R0005,Polo Insecticide,46
+2025-09,R0005,Polo Insecticide,30
+2025-08,R0005,Polo Insecticide,21
+2025-07,R0005,Polo Insecticide,17
+2025-06,R0005,Polo Insecticide,21
+2026-05,R0005,Cruiser Cotton Seed,33
+2026-04,R0005,Cruiser Cotton Seed,27
+2026-03,R0005,Cruiser Cotton Seed,32
+2026-01,R0005,Cruiser Cotton Seed,55
+2026-01,R0005,Cruiser Cotton Seed,38
+2025-12,R0005,Cruiser Cotton Seed,65
+2025-11,R0005,Cruiser Cotton Seed,34
+2025-10,R0005,Cruiser Cotton Seed,68
+2025-09,R0005,Cruiser Cotton Seed,26
+2025-08,R0005,Cruiser Cotton Seed,30
+2025-07,R0005,Cruiser Cotton Seed,27
+2025-06,R0005,Cruiser Cotton Seed,16
+2026-05,R0006,Amistar Top Fungicide,71
+2026-04,R0006,Amistar Top Fungicide,40
+2026-03,R0006,Amistar Top Fungicide,113
+2026-01,R0006,Amistar Top Fungicide,108
+2026-01,R0006,Amistar Top Fungicide,111
+2025-12,R0006,Amistar Top Fungicide,105
+2025-11,R0006,Amistar Top Fungicide,105
+2025-10,R0006,Amistar Top Fungicide,80
+2025-09,R0006,Amistar Top Fungicide,68
+2025-08,R0006,Amistar Top Fungicide,55
+2025-07,R0006,Amistar Top Fungicide,29
+2025-06,R0006,Amistar Top Fungicide,44
+2026-05,R0006,Karate Zeon Insecticide,46
+2026-04,R0006,Karate Zeon Insecticide,41
+2026-03,R0006,Karate Zeon Insecticide,73
+2026-01,R0006,Karate Zeon Insecticide,88
+2026-01,R0006,Karate Zeon Insecticide,96
+2025-12,R0006,Karate Zeon Insecticide,90
+2025-11,R0006,Karate Zeon Insecticide,60
+2025-10,R0006,Karate Zeon Insecticide,71
+2025-09,R0006,Karate Zeon Insecticide,66
+2025-08,R0006,Karate Zeon Insecticide,42
+2025-07,R0006,Karate Zeon Insecticide,48
+2025-06,R0006,Karate Zeon Insecticide,39
+2026-05,R0006,Cruiser Seed Treatment,66
+2026-04,R0006,Cruiser Seed Treatment,47
+2026-03,R0006,Cruiser Seed Treatment,99
+2026-01,R0006,Cruiser Seed Treatment,109
+2026-01,R0006,Cruiser Seed Treatment,117
+2025-12,R0006,Cruiser Seed Treatment,90
+2025-11,R0006,Cruiser Seed Treatment,78
+2025-10,R0006,Cruiser Seed Treatment,125
+2025-09,R0006,Cruiser Seed Treatment,52
+2025-08,R0006,Cruiser Seed Treatment,94
+2025-07,R0006,Cruiser Seed Treatment,30
+2025-06,R0006,Cruiser Seed Treatment,59
+2026-05,R0007,Tihan Insecticide,58
+2026-04,R0007,Tihan Insecticide,59
+2026-03,R0007,Tihan Insecticide,73
+2026-01,R0007,Tihan Insecticide,75
+2026-01,R0007,Tihan Insecticide,82
+2025-12,R0007,Tihan Insecticide,79
+2025-11,R0007,Tihan Insecticide,90
+2025-10,R0007,Tihan Insecticide,64
+2025-09,R0007,Tihan Insecticide,81
+2025-08,R0007,Tihan Insecticide,82
+2025-07,R0007,Tihan Insecticide,53
+2025-06,R0007,Tihan Insecticide,45
+2026-05,R0007,Polo Insecticide,53
+2026-04,R0007,Polo Insecticide,65
+2026-03,R0007,Polo Insecticide,88
+2026-01,R0007,Polo Insecticide,95
+2026-01,R0007,Polo Insecticide,77
+2025-12,R0007,Polo Insecticide,190
+2025-11,R0007,Polo Insecticide,116
+2025-10,R0007,Polo Insecticide,86
+2025-09,R0007,Polo Insecticide,102
+2025-08,R0007,Polo Insecticide,80
+2025-07,R0007,Polo Insecticide,52
+2025-06,R0007,Polo Insecticide,48
+2026-05,R0007,Cruiser Cotton Seed,69
+2026-04,R0007,Cruiser Cotton Seed,62
+2026-03,R0007,Cruiser Cotton Seed,68
+2026-01,R0007,Cruiser Cotton Seed,126
+2026-01,R0007,Cruiser Cotton Seed,116
+2025-12,R0007,Cruiser Cotton Seed,87
+2025-11,R0007,Cruiser Cotton Seed,119
+2025-10,R0007,Cruiser Cotton Seed,99
+2025-09,R0007,Cruiser Cotton Seed,78
+2025-08,R0007,Cruiser Cotton Seed,48
+2025-07,R0007,Cruiser Cotton Seed,42
+2025-06,R0007,Cruiser Cotton Seed,37
+2026-05,R0008,Amistar Top Fungicide,54
+2026-04,R0008,Amistar Top Fungicide,50
+2026-03,R0008,Amistar Top Fungicide,89
+2026-01,R0008,Amistar Top Fungicide,79
+2026-01,R0008,Amistar Top Fungicide,81
+2025-12,R0008,Amistar Top Fungicide,111
+2025-11,R0008,Amistar Top Fungicide,93
+2025-10,R0008,Amistar Top Fungicide,77
+2025-09,R0008,Amistar Top Fungicide,52
+2025-08,R0008,Amistar Top Fungicide,58
+2025-07,R0008,Amistar Top Fungicide,47
+2025-06,R0008,Amistar Top Fungicide,31
+2026-05,R0008,Karate Zeon Insecticide,36
+2026-04,R0008,Karate Zeon Insecticide,48
+2026-03,R0008,Karate Zeon Insecticide,56
+2026-01,R0008,Karate Zeon Insecticide,87
+2026-01,R0008,Karate Zeon Insecticide,115
+2025-12,R0008,Karate Zeon Insecticide,78
+2025-11,R0008,Karate Zeon Insecticide,102
+2025-10,R0008,Karate Zeon Insecticide,94
+2025-09,R0008,Karate Zeon Insecticide,60
+2025-08,R0008,Karate Zeon Insecticide,59
+2025-07,R0008,Karate Zeon Insecticide,73
+2025-06,R0008,Karate Zeon Insecticide,43
+2026-05,R0008,Cruiser Seed Treatment,39
+2026-04,R0008,Cruiser Seed Treatment,40
+2026-03,R0008,Cruiser Seed Treatment,57
+2026-01,R0008,Cruiser Seed Treatment,106
+2026-01,R0008,Cruiser Seed Treatment,130
+2025-12,R0008,Cruiser Seed Treatment,130
+2025-11,R0008,Cruiser Seed Treatment,80
+2025-10,R0008,Cruiser Seed Treatment,93
+2025-09,R0008,Cruiser Seed Treatment,87
+2025-08,R0008,Cruiser Seed Treatment,79
+2025-07,R0008,Cruiser Seed Treatment,56
+2025-06,R0008,Cruiser Seed Treatment,37
+2026-05,R0009,Amistar Top Fungicide,32
+2026-04,R0009,Amistar Top Fungicide,62
+2026-03,R0009,Amistar Top Fungicide,63
+2026-01,R0009,Amistar Top Fungicide,79
+2026-01,R0009,Amistar Top Fungicide,55
+2025-12,R0009,Amistar Top Fungicide,65
+2025-11,R0009,Amistar Top Fungicide,63
+2025-10,R0009,Amistar Top Fungicide,88
+2025-09,R0009,Amistar Top Fungicide,60
+2025-08,R0009,Amistar Top Fungicide,46
+2025-07,R0009,Amistar Top Fungicide,41
+2025-06,R0009,Amistar Top Fungicide,38
+2026-05,R0009,Karate Zeon Insecticide,27
+2026-04,R0009,Karate Zeon Insecticide,38
+2026-03,R0009,Karate Zeon Insecticide,46
+2026-01,R0009,Karate Zeon Insecticide,105
+2026-01,R0009,Karate Zeon Insecticide,107
+2025-12,R0009,Karate Zeon Insecticide,68
+2025-11,R0009,Karate Zeon Insecticide,62
+2025-10,R0009,Karate Zeon Insecticide,49
+2025-09,R0009,Karate Zeon Insecticide,56
+2025-08,R0009,Karate Zeon Insecticide,46
+2025-07,R0009,Karate Zeon Insecticide,42
+2025-06,R0009,Karate Zeon Insecticide,42
+2026-05,R0009,Cruiser Seed Treatment,38
+2026-04,R0009,Cruiser Seed Treatment,41
+2026-03,R0009,Cruiser Seed Treatment,69
+2026-01,R0009,Cruiser Seed Treatment,95
+2026-01,R0009,Cruiser Seed Treatment,72
+2025-12,R0009,Cruiser Seed Treatment,121
+2025-11,R0009,Cruiser Seed Treatment,93
+2025-10,R0009,Cruiser Seed Treatment,68
+2025-09,R0009,Cruiser Seed Treatment,76
+2025-08,R0009,Cruiser Seed Treatment,43
+2025-07,R0009,Cruiser Seed Treatment,37
+2025-06,R0009,Cruiser Seed Treatment,28
+2026-05,R0010,Amistar Top Fungicide,41
+2026-04,R0010,Amistar Top Fungicide,84
+2026-03,R0010,Amistar Top Fungicide,70
+2026-01,R0010,Amistar Top Fungicide,123
+2026-01,R0010,Amistar Top Fungicide,86
+2025-12,R0010,Amistar Top Fungicide,96
+2025-11,R0010,Amistar Top Fungicide,94
+2025-10,R0010,Amistar Top Fungicide,115
+2025-09,R0010,Amistar Top Fungicide,82
+2025-08,R0010,Amistar Top Fungicide,48
+2025-07,R0010,Amistar Top Fungicide,29
+2025-06,R0010,Amistar Top Fungicide,28
+2026-05,R0010,Karate Zeon Insecticide,52
+2026-04,R0010,Karate Zeon Insecticide,38
+2026-03,R0010,Karate Zeon Insecticide,77
+2026-01,R0010,Karate Zeon Insecticide,128
+2026-01,R0010,Karate Zeon Insecticide,77
+2025-12,R0010,Karate Zeon Insecticide,116
+2025-11,R0010,Karate Zeon Insecticide,83
+2025-10,R0010,Karate Zeon Insecticide,49
+2025-09,R0010,Karate Zeon Insecticide,70
+2025-08,R0010,Karate Zeon Insecticide,64
+2025-07,R0010,Karate Zeon Insecticide,53
+2025-06,R0010,Karate Zeon Insecticide,45
+2026-05,R0010,Cruiser Seed Treatment,47
+2026-04,R0010,Cruiser Seed Treatment,58
+2026-03,R0010,Cruiser Seed Treatment,97
+2026-01,R0010,Cruiser Seed Treatment,115
+2026-01,R0010,Cruiser Seed Treatment,97
+2025-12,R0010,Cruiser Seed Treatment,130
+2025-11,R0010,Cruiser Seed Treatment,71
+2025-10,R0010,Cruiser Seed Treatment,72
+2025-09,R0010,Cruiser Seed Treatment,62
+2025-08,R0010,Cruiser Seed Treatment,66
+2025-07,R0010,Cruiser Seed Treatment,67
+2025-06,R0010,Cruiser Seed Treatment,54
+2026-05,R0011,Tihan Insecticide,18
+2026-04,R0011,Tihan Insecticide,19
+2026-03,R0011,Tihan Insecticide,26
+2026-01,R0011,Tihan Insecticide,31
+2026-01,R0011,Tihan Insecticide,40
+2025-12,R0011,Tihan Insecticide,26
+2025-11,R0011,Tihan Insecticide,27
+2025-10,R0011,Tihan Insecticide,17
+2025-09,R0011,Tihan Insecticide,39
+2025-08,R0011,Tihan Insecticide,17
+2025-07,R0011,Tihan Insecticide,15
+2025-06,R0011,Tihan Insecticide,17
+2026-05,R0011,Polo Insecticide,21
+2026-04,R0011,Polo Insecticide,18
+2026-03,R0011,Polo Insecticide,25
+2026-01,R0011,Polo Insecticide,25
+2026-01,R0011,Polo Insecticide,22
+2025-12,R0011,Polo Insecticide,36
+2025-11,R0011,Polo Insecticide,30
+2025-10,R0011,Polo Insecticide,28
+2025-09,R0011,Polo Insecticide,28
+2025-08,R0011,Polo Insecticide,20
+2025-07,R0011,Polo Insecticide,18
+2025-06,R0011,Polo Insecticide,12
+2026-05,R0011,Cruiser Cotton Seed,12
+2026-04,R0011,Cruiser Cotton Seed,18
+2026-03,R0011,Cruiser Cotton Seed,24
+2026-01,R0011,Cruiser Cotton Seed,34
+2026-01,R0011,Cruiser Cotton Seed,21
+2025-12,R0011,Cruiser Cotton Seed,37
+2025-11,R0011,Cruiser Cotton Seed,24
+2025-10,R0011,Cruiser Cotton Seed,29
+2025-09,R0011,Cruiser Cotton Seed,24
+2025-08,R0011,Cruiser Cotton Seed,10
+2025-07,R0011,Cruiser Cotton Seed,11
+2025-06,R0011,Cruiser Cotton Seed,12
+2026-05,R0012,Amistar Top Fungicide,36
+2026-04,R0012,Amistar Top Fungicide,37
+2026-03,R0012,Amistar Top Fungicide,63
+2026-01,R0012,Amistar Top Fungicide,82
+2026-01,R0012,Amistar Top Fungicide,94
+2025-12,R0012,Amistar Top Fungicide,78
+2025-11,R0012,Amistar Top Fungicide,99
+2025-10,R0012,Amistar Top Fungicide,72
+2025-09,R0012,Amistar Top Fungicide,83
+2025-08,R0012,Amistar Top Fungicide,45
+2025-07,R0012,Amistar Top Fungicide,36
+2025-06,R0012,Amistar Top Fungicide,29
+2026-05,R0012,Karate Zeon Insecticide,34
+2026-04,R0012,Karate Zeon Insecticide,66
+2026-03,R0012,Karate Zeon Insecticide,56
+2026-01,R0012,Karate Zeon Insecticide,97
+2026-01,R0012,Karate Zeon Insecticide,77
+2025-12,R0012,Karate Zeon Insecticide,121
+2025-11,R0012,Karate Zeon Insecticide,116
+2025-10,R0012,Karate Zeon Insecticide,74
+2025-09,R0012,Karate Zeon Insecticide,96
+2025-08,R0012,Karate Zeon Insecticide,72
+2025-07,R0012,Karate Zeon Insecticide,51
+2025-06,R0012,Karate Zeon Insecticide,40
+2026-05,R0012,Cruiser Seed Treatment,41
+2026-04,R0012,Cruiser Seed Treatment,40
+2026-03,R0012,Cruiser Seed Treatment,44
+2026-01,R0012,Cruiser Seed Treatment,66
+2026-01,R0012,Cruiser Seed Treatment,109
+2025-12,R0012,Cruiser Seed Treatment,74
+2025-11,R0012,Cruiser Seed Treatment,91
+2025-10,R0012,Cruiser Seed Treatment,60
+2025-09,R0012,Cruiser Seed Treatment,48
+2025-08,R0012,Cruiser Seed Treatment,97
+2025-07,R0012,Cruiser Seed Treatment,43
+2025-06,R0012,Cruiser Seed Treatment,51
+2026-05,R0013,Amistar Top Fungicide,34
+2026-04,R0013,Amistar Top Fungicide,48
+2026-03,R0013,Amistar Top Fungicide,49
+2026-01,R0013,Amistar Top Fungicide,64
+2026-01,R0013,Amistar Top Fungicide,105
+2025-12,R0013,Amistar Top Fungicide,67
+2025-11,R0013,Amistar Top Fungicide,69
+2025-10,R0013,Amistar Top Fungicide,68
+2025-09,R0013,Amistar Top Fungicide,54
+2025-08,R0013,Amistar Top Fungicide,30
+2025-07,R0013,Amistar Top Fungicide,29
+2025-06,R0013,Amistar Top Fungicide,30
+2026-05,R0013,Karate Zeon Insecticide,49
+2026-04,R0013,Karate Zeon Insecticide,45
+2026-03,R0013,Karate Zeon Insecticide,58
+2026-01,R0013,Karate Zeon Insecticide,79
+2026-01,R0013,Karate Zeon Insecticide,76
+2025-12,R0013,Karate Zeon Insecticide,66
+2025-11,R0013,Karate Zeon Insecticide,120
+2025-10,R0013,Karate Zeon Insecticide,76
+2025-09,R0013,Karate Zeon Insecticide,72
+2025-08,R0013,Karate Zeon Insecticide,46
+2025-07,R0013,Karate Zeon Insecticide,38
+2025-06,R0013,Karate Zeon Insecticide,38
+2026-05,R0013,Cruiser Seed Treatment,41
+2026-04,R0013,Cruiser Seed Treatment,54
+2026-03,R0013,Cruiser Seed Treatment,80
+2026-01,R0013,Cruiser Seed Treatment,122
+2026-01,R0013,Cruiser Seed Treatment,101
+2025-12,R0013,Cruiser Seed Treatment,113
+2025-11,R0013,Cruiser Seed Treatment,61
+2025-10,R0013,Cruiser Seed Treatment,67
+2025-09,R0013,Cruiser Seed Treatment,46
+2025-08,R0013,Cruiser Seed Treatment,59
+2025-07,R0013,Cruiser Seed Treatment,37
+2025-06,R0013,Cruiser Seed Treatment,28
+2026-05,R0014,Callisto Herbicide,15
+2026-04,R0014,Callisto Herbicide,14
+2026-03,R0014,Callisto Herbicide,25
+2026-01,R0014,Callisto Herbicide,29
+2026-01,R0014,Callisto Herbicide,21
+2025-12,R0014,Callisto Herbicide,35
+2025-11,R0014,Callisto Herbicide,24
+2025-10,R0014,Callisto Herbicide,26
+2025-09,R0014,Callisto Herbicide,20
+2025-08,R0014,Callisto Herbicide,14
+2025-07,R0014,Callisto Herbicide,15
+2025-06,R0014,Callisto Herbicide,12
+2026-05,R0014,Force Insecticide,16
+2026-04,R0014,Force Insecticide,15
+2026-03,R0014,Force Insecticide,31
+2026-01,R0014,Force Insecticide,26
+2026-01,R0014,Force Insecticide,34
+2025-12,R0014,Force Insecticide,25
+2025-11,R0014,Force Insecticide,32
+2025-10,R0014,Force Insecticide,17
+2025-09,R0014,Force Insecticide,19
+2025-08,R0014,Force Insecticide,15
+2025-07,R0014,Force Insecticide,11
+2025-06,R0014,Force Insecticide,12
+2026-05,R0014,NK Maize Hybrid Seed,12
+2026-04,R0014,NK Maize Hybrid Seed,26
+2026-03,R0014,NK Maize Hybrid Seed,21
+2026-01,R0014,NK Maize Hybrid Seed,20
+2026-01,R0014,NK Maize Hybrid Seed,20
+2025-12,R0014,NK Maize Hybrid Seed,32
+2025-11,R0014,NK Maize Hybrid Seed,27
+2025-10,R0014,NK Maize Hybrid Seed,22
+2025-09,R0014,NK Maize Hybrid Seed,35
+2025-08,R0014,NK Maize Hybrid Seed,13
+2025-07,R0014,NK Maize Hybrid Seed,16
+2025-06,R0014,NK Maize Hybrid Seed,18
+2026-05,R0015,Amistar Top Fungicide,52
+2026-04,R0015,Amistar Top Fungicide,49
+2026-03,R0015,Amistar Top Fungicide,102
+2026-01,R0015,Amistar Top Fungicide,117
+2026-01,R0015,Amistar Top Fungicide,129
+2025-12,R0015,Amistar Top Fungicide,110
+2025-11,R0015,Amistar Top Fungicide,145
+2025-10,R0015,Amistar Top Fungicide,118
+2025-09,R0015,Amistar Top Fungicide,122
+2025-08,R0015,Amistar Top Fungicide,83
+2025-07,R0015,Amistar Top Fungicide,52
+2025-06,R0015,Amistar Top Fungicide,38
+2026-05,R0015,Karate Zeon Insecticide,90
+2026-04,R0015,Karate Zeon Insecticide,79
+2026-03,R0015,Karate Zeon Insecticide,98
+2026-01,R0015,Karate Zeon Insecticide,133
+2026-01,R0015,Karate Zeon Insecticide,152
+2025-12,R0015,Karate Zeon Insecticide,100
+2025-11,R0015,Karate Zeon Insecticide,154
+2025-10,R0015,Karate Zeon Insecticide,102
+2025-09,R0015,Karate Zeon Insecticide,62
+2025-08,R0015,Karate Zeon Insecticide,56
+2025-07,R0015,Karate Zeon Insecticide,46
+2025-06,R0015,Karate Zeon Insecticide,46
+2026-05,R0015,Cruiser Seed Treatment,50
+2026-04,R0015,Cruiser Seed Treatment,104
+2026-03,R0015,Cruiser Seed Treatment,54
+2026-01,R0015,Cruiser Seed Treatment,123
+2026-01,R0015,Cruiser Seed Treatment,89
+2025-12,R0015,Cruiser Seed Treatment,152
+2025-11,R0015,Cruiser Seed Treatment,98
+2025-10,R0015,Cruiser Seed Treatment,87
+2025-09,R0015,Cruiser Seed Treatment,88
+2025-08,R0015,Cruiser Seed Treatment,60
+2025-07,R0015,Cruiser Seed Treatment,64
+2025-06,R0015,Cruiser Seed Treatment,51
+2026-05,R0016,Amistar Top Fungicide,32
+2026-04,R0016,Amistar Top Fungicide,40
+2026-03,R0016,Amistar Top Fungicide,47
+2026-01,R0016,Amistar Top Fungicide,64
+2026-01,R0016,Amistar Top Fungicide,60
+2025-12,R0016,Amistar Top Fungicide,69
+2025-11,R0016,Amistar Top Fungicide,81
+2025-10,R0016,Amistar Top Fungicide,39
+2025-09,R0016,Amistar Top Fungicide,64
+2025-08,R0016,Amistar Top Fungicide,22
+2025-07,R0016,Amistar Top Fungicide,29
+2025-06,R0016,Amistar Top Fungicide,37
+2026-05,R0016,Karate Zeon Insecticide,31
+2026-04,R0016,Karate Zeon Insecticide,32
+2026-03,R0016,Karate Zeon Insecticide,42
+2026-01,R0016,Karate Zeon Insecticide,78
+2026-01,R0016,Karate Zeon Insecticide,54
+2025-12,R0016,Karate Zeon Insecticide,64
+2025-11,R0016,Karate Zeon Insecticide,98
+2025-10,R0016,Karate Zeon Insecticide,62
+2025-09,R0016,Karate Zeon Insecticide,66
+2025-08,R0016,Karate Zeon Insecticide,47
+2025-07,R0016,Karate Zeon Insecticide,31
+2025-06,R0016,Karate Zeon Insecticide,30
+2026-05,R0016,Cruiser Seed Treatment,22
+2026-04,R0016,Cruiser Seed Treatment,46
+2026-03,R0016,Cruiser Seed Treatment,65
+2026-01,R0016,Cruiser Seed Treatment,51
+2026-01,R0016,Cruiser Seed Treatment,56
+2025-12,R0016,Cruiser Seed Treatment,65
+2025-11,R0016,Cruiser Seed Treatment,94
+2025-10,R0016,Cruiser Seed Treatment,51
+2025-09,R0016,Cruiser Seed Treatment,34
+2025-08,R0016,Cruiser Seed Treatment,33
+2025-07,R0016,Cruiser Seed Treatment,43
+2025-06,R0016,Cruiser Seed Treatment,33
+2026-05,R0017,Tihan Insecticide,40
+2026-04,R0017,Tihan Insecticide,42
+2026-03,R0017,Tihan Insecticide,63
+2026-01,R0017,Tihan Insecticide,112
+2026-01,R0017,Tihan Insecticide,113
+2025-12,R0017,Tihan Insecticide,116
+2025-11,R0017,Tihan Insecticide,46
+2025-10,R0017,Tihan Insecticide,102
+2025-09,R0017,Tihan Insecticide,83
+2025-08,R0017,Tihan Insecticide,42
+2025-07,R0017,Tihan Insecticide,38
+2025-06,R0017,Tihan Insecticide,52
+2026-05,R0017,Polo Insecticide,44
+2026-04,R0017,Polo Insecticide,49
+2026-03,R0017,Polo Insecticide,77
+2026-01,R0017,Polo Insecticide,101
+2026-01,R0017,Polo Insecticide,140
+2025-12,R0017,Polo Insecticide,126
+2025-11,R0017,Polo Insecticide,101
+2025-10,R0017,Polo Insecticide,62
+2025-09,R0017,Polo Insecticide,50
+2025-08,R0017,Polo Insecticide,50
+2025-07,R0017,Polo Insecticide,62
+2025-06,R0017,Polo Insecticide,53
+2026-05,R0017,Cruiser Cotton Seed,48
+2026-04,R0017,Cruiser Cotton Seed,64
+2026-03,R0017,Cruiser Cotton Seed,65
+2026-01,R0017,Cruiser Cotton Seed,118
+2026-01,R0017,Cruiser Cotton Seed,104
+2025-12,R0017,Cruiser Cotton Seed,79
+2025-11,R0017,Cruiser Cotton Seed,99
+2025-10,R0017,Cruiser Cotton Seed,100
+2025-09,R0017,Cruiser Cotton Seed,97
+2025-08,R0017,Cruiser Cotton Seed,55
+2025-07,R0017,Cruiser Cotton Seed,43
+2025-06,R0017,Cruiser Cotton Seed,42
+2026-05,R0018,Callisto Herbicide,7
+2026-04,R0018,Callisto Herbicide,8
+2026-03,R0018,Callisto Herbicide,23
+2026-01,R0018,Callisto Herbicide,38
+2026-01,R0018,Callisto Herbicide,19
+2025-12,R0018,Callisto Herbicide,26
+2025-11,R0018,Callisto Herbicide,21
+2025-10,R0018,Callisto Herbicide,16
+2025-09,R0018,Callisto Herbicide,22
+2025-08,R0018,Callisto Herbicide,15
+2025-07,R0018,Callisto Herbicide,15
+2025-06,R0018,Callisto Herbicide,10
+2026-05,R0018,Force Insecticide,12
+2026-04,R0018,Force Insecticide,15
+2026-03,R0018,Force Insecticide,19
+2026-01,R0018,Force Insecticide,28
+2026-01,R0018,Force Insecticide,17
+2025-12,R0018,Force Insecticide,20
+2025-11,R0018,Force Insecticide,41
+2025-10,R0018,Force Insecticide,30
+2025-09,R0018,Force Insecticide,19
+2025-08,R0018,Force Insecticide,17
+2025-07,R0018,Force Insecticide,9
+2025-06,R0018,Force Insecticide,14
+2026-05,R0018,NK Maize Hybrid Seed,9
+2026-04,R0018,NK Maize Hybrid Seed,12
+2026-03,R0018,NK Maize Hybrid Seed,29
+2026-01,R0018,NK Maize Hybrid Seed,28
+2026-01,R0018,NK Maize Hybrid Seed,28
+2025-12,R0018,NK Maize Hybrid Seed,33
+2025-11,R0018,NK Maize Hybrid Seed,32
+2025-10,R0018,NK Maize Hybrid Seed,20
+2025-09,R0018,NK Maize Hybrid Seed,22
+2025-08,R0018,NK Maize Hybrid Seed,11
+2025-07,R0018,NK Maize Hybrid Seed,9
+2025-06,R0018,NK Maize Hybrid Seed,15
+2026-05,R0019,Callisto Herbicide,13
+2026-04,R0019,Callisto Herbicide,17
+2026-03,R0019,Callisto Herbicide,25
+2026-01,R0019,Callisto Herbicide,19
+2026-01,R0019,Callisto Herbicide,29
+2025-12,R0019,Callisto Herbicide,33
+2025-11,R0019,Callisto Herbicide,33
+2025-10,R0019,Callisto Herbicide,36
+2025-09,R0019,Callisto Herbicide,17
+2025-08,R0019,Callisto Herbicide,15
+2025-07,R0019,Callisto Herbicide,15
+2025-06,R0019,Callisto Herbicide,21
+2026-05,R0019,Force Insecticide,6
+2026-04,R0019,Force Insecticide,17
+2026-03,R0019,Force Insecticide,23
+2026-01,R0019,Force Insecticide,36
+2026-01,R0019,Force Insecticide,28
+2025-12,R0019,Force Insecticide,37
+2025-11,R0019,Force Insecticide,34
+2025-10,R0019,Force Insecticide,16
+2025-09,R0019,Force Insecticide,20
+2025-08,R0019,Force Insecticide,21
+2025-07,R0019,Force Insecticide,10
+2025-06,R0019,Force Insecticide,16
+2026-05,R0019,NK Maize Hybrid Seed,17
+2026-04,R0019,NK Maize Hybrid Seed,20
+2026-03,R0019,NK Maize Hybrid Seed,19
+2026-01,R0019,NK Maize Hybrid Seed,36
+2026-01,R0019,NK Maize Hybrid Seed,30
+2025-12,R0019,NK Maize Hybrid Seed,33
+2025-11,R0019,NK Maize Hybrid Seed,23
+2025-10,R0019,NK Maize Hybrid Seed,23
+2025-09,R0019,NK Maize Hybrid Seed,11
+2025-08,R0019,NK Maize Hybrid Seed,14
+2025-07,R0019,NK Maize Hybrid Seed,15
+2025-06,R0019,NK Maize Hybrid Seed,10
+2026-05,R0020,Amistar Top Fungicide,58
+2026-04,R0020,Amistar Top Fungicide,90
+2026-03,R0020,Amistar Top Fungicide,76
+2026-01,R0020,Amistar Top Fungicide,142
+2026-01,R0020,Amistar Top Fungicide,166
+2025-12,R0020,Amistar Top Fungicide,118
+2025-11,R0020,Amistar Top Fungicide,139
+2025-10,R0020,Amistar Top Fungicide,118
+2025-09,R0020,Amistar Top Fungicide,106
+2025-08,R0020,Amistar Top Fungicide,133
+2025-07,R0020,Amistar Top Fungicide,66
+2025-06,R0020,Amistar Top Fungicide,55
+2026-05,R0020,Karate Zeon Insecticide,46
+2026-04,R0020,Karate Zeon Insecticide,114
+2026-03,R0020,Karate Zeon Insecticide,99
+2026-01,R0020,Karate Zeon Insecticide,148
+2026-01,R0020,Karate Zeon Insecticide,148
+2025-12,R0020,Karate Zeon Insecticide,91
+2025-11,R0020,Karate Zeon Insecticide,164
+2025-10,R0020,Karate Zeon Insecticide,109
+2025-09,R0020,Karate Zeon Insecticide,88
+2025-08,R0020,Karate Zeon Insecticide,67
+2025-07,R0020,Karate Zeon Insecticide,55
+2025-06,R0020,Karate Zeon Insecticide,53
+2026-05,R0020,Cruiser Seed Treatment,51
+2026-04,R0020,Cruiser Seed Treatment,88
+2026-03,R0020,Cruiser Seed Treatment,97
+2026-01,R0020,Cruiser Seed Treatment,102
+2026-01,R0020,Cruiser Seed Treatment,160
+2025-12,R0020,Cruiser Seed Treatment,144
+2025-11,R0020,Cruiser Seed Treatment,131
+2025-10,R0020,Cruiser Seed Treatment,115
+2025-09,R0020,Cruiser Seed Treatment,80
+2025-08,R0020,Cruiser Seed Treatment,80
+2025-07,R0020,Cruiser Seed Treatment,67
+2025-06,R0020,Cruiser Seed Treatment,66
+2026-05,R0021,Tihan Insecticide,49
+2026-04,R0021,Tihan Insecticide,41
+2026-03,R0021,Tihan Insecticide,83
+2026-01,R0021,Tihan Insecticide,75
+2026-01,R0021,Tihan Insecticide,62
+2025-12,R0021,Tihan Insecticide,75
+2025-11,R0021,Tihan Insecticide,73
+2025-10,R0021,Tihan Insecticide,86
+2025-09,R0021,Tihan Insecticide,49
+2025-08,R0021,Tihan Insecticide,44
+2025-07,R0021,Tihan Insecticide,41
+2025-06,R0021,Tihan Insecticide,56
+2026-05,R0021,Polo Insecticide,54
+2026-04,R0021,Polo Insecticide,59
+2026-03,R0021,Polo Insecticide,42
+2026-01,R0021,Polo Insecticide,71
+2026-01,R0021,Polo Insecticide,90
+2025-12,R0021,Polo Insecticide,92
+2025-11,R0021,Polo Insecticide,75
+2025-10,R0021,Polo Insecticide,100
+2025-09,R0021,Polo Insecticide,56
+2025-08,R0021,Polo Insecticide,67
+2025-07,R0021,Polo Insecticide,52
+2025-06,R0021,Polo Insecticide,29
+2026-05,R0021,Cruiser Cotton Seed,24
+2026-04,R0021,Cruiser Cotton Seed,42
+2026-03,R0021,Cruiser Cotton Seed,49
+2026-01,R0021,Cruiser Cotton Seed,73
+2026-01,R0021,Cruiser Cotton Seed,56
+2025-12,R0021,Cruiser Cotton Seed,54
+2025-11,R0021,Cruiser Cotton Seed,106
+2025-10,R0021,Cruiser Cotton Seed,100
+2025-09,R0021,Cruiser Cotton Seed,80
+2025-08,R0021,Cruiser Cotton Seed,88
+2025-07,R0021,Cruiser Cotton Seed,34
+2025-06,R0021,Cruiser Cotton Seed,50
+2026-05,R0022,Tihan Insecticide,23
+2026-04,R0022,Tihan Insecticide,51
+2026-03,R0022,Tihan Insecticide,76
+2026-01,R0022,Tihan Insecticide,70
+2026-01,R0022,Tihan Insecticide,78
+2025-12,R0022,Tihan Insecticide,68
+2025-11,R0022,Tihan Insecticide,73
+2025-10,R0022,Tihan Insecticide,48
+2025-09,R0022,Tihan Insecticide,49
+2025-08,R0022,Tihan Insecticide,62
+2025-07,R0022,Tihan Insecticide,30
+2025-06,R0022,Tihan Insecticide,30
+2026-05,R0022,Polo Insecticide,31
+2026-04,R0022,Polo Insecticide,27
+2026-03,R0022,Polo Insecticide,51
+2026-01,R0022,Polo Insecticide,61
+2026-01,R0022,Polo Insecticide,40
+2025-12,R0022,Polo Insecticide,62
+2025-11,R0022,Polo Insecticide,98
+2025-10,R0022,Polo Insecticide,60
+2025-09,R0022,Polo Insecticide,45
+2025-08,R0022,Polo Insecticide,29
+2025-07,R0022,Polo Insecticide,25
+2025-06,R0022,Polo Insecticide,26
+2026-05,R0022,Cruiser Cotton Seed,35
+2026-04,R0022,Cruiser Cotton Seed,54
+2026-03,R0022,Cruiser Cotton Seed,52
+2026-01,R0022,Cruiser Cotton Seed,83
+2026-01,R0022,Cruiser Cotton Seed,47
+2025-12,R0022,Cruiser Cotton Seed,77
+2025-11,R0022,Cruiser Cotton Seed,68
+2025-10,R0022,Cruiser Cotton Seed,47
+2025-09,R0022,Cruiser Cotton Seed,53
+2025-08,R0022,Cruiser Cotton Seed,42
+2025-07,R0022,Cruiser Cotton Seed,36
+2025-06,R0022,Cruiser Cotton Seed,22
+2026-05,R0023,Tihan Insecticide,32
+2026-04,R0023,Tihan Insecticide,37
+2026-03,R0023,Tihan Insecticide,41
+2026-01,R0023,Tihan Insecticide,84
+2026-01,R0023,Tihan Insecticide,66
+2025-12,R0023,Tihan Insecticide,75
+2025-11,R0023,Tihan Insecticide,76
+2025-10,R0023,Tihan Insecticide,77
+2025-09,R0023,Tihan Insecticide,81
+2025-08,R0023,Tihan Insecticide,53
+2025-07,R0023,Tihan Insecticide,49
+2025-06,R0023,Tihan Insecticide,36
+2026-05,R0023,Polo Insecticide,59
+2026-04,R0023,Polo Insecticide,43
+2026-03,R0023,Polo Insecticide,61
+2026-01,R0023,Polo Insecticide,101
+2026-01,R0023,Polo Insecticide,64
+2025-12,R0023,Polo Insecticide,73
+2025-11,R0023,Polo Insecticide,66
+2025-10,R0023,Polo Insecticide,54
+2025-09,R0023,Polo Insecticide,60
+2025-08,R0023,Polo Insecticide,30
+2025-07,R0023,Polo Insecticide,30
+2025-06,R0023,Polo Insecticide,24
+2026-05,R0023,Cruiser Cotton Seed,58
+2026-04,R0023,Cruiser Cotton Seed,34
+2026-03,R0023,Cruiser Cotton Seed,55
+2026-01,R0023,Cruiser Cotton Seed,52
+2026-01,R0023,Cruiser Cotton Seed,65
+2025-12,R0023,Cruiser Cotton Seed,101
+2025-11,R0023,Cruiser Cotton Seed,112
+2025-10,R0023,Cruiser Cotton Seed,54
+2025-09,R0023,Cruiser Cotton Seed,46
+2025-08,R0023,Cruiser Cotton Seed,43
+2025-07,R0023,Cruiser Cotton Seed,49
+2025-06,R0023,Cruiser Cotton Seed,47
+2026-05,R0024,Callisto Herbicide,61
+2026-04,R0024,Callisto Herbicide,91
+2026-03,R0024,Callisto Herbicide,93
+2026-01,R0024,Callisto Herbicide,166
+2026-01,R0024,Callisto Herbicide,113
+2025-12,R0024,Callisto Herbicide,121
+2025-11,R0024,Callisto Herbicide,128
+2025-10,R0024,Callisto Herbicide,110
+2025-09,R0024,Callisto Herbicide,77
+2025-08,R0024,Callisto Herbicide,72
+2025-07,R0024,Callisto Herbicide,66
+2025-06,R0024,Callisto Herbicide,35
+2026-05,R0024,Force Insecticide,71
+2026-04,R0024,Force Insecticide,107
+2026-03,R0024,Force Insecticide,117
+2026-01,R0024,Force Insecticide,132
+2026-01,R0024,Force Insecticide,135
+2025-12,R0024,Force Insecticide,134
+2025-11,R0024,Force Insecticide,119
+2025-10,R0024,Force Insecticide,95
+2025-09,R0024,Force Insecticide,81
+2025-08,R0024,Force Insecticide,66
+2025-07,R0024,Force Insecticide,72
+2025-06,R0024,Force Insecticide,37
+2026-05,R0024,NK Maize Hybrid Seed,73
+2026-04,R0024,NK Maize Hybrid Seed,64
+2026-03,R0024,NK Maize Hybrid Seed,99
+2026-01,R0024,NK Maize Hybrid Seed,105
+2026-01,R0024,NK Maize Hybrid Seed,110
+2025-12,R0024,NK Maize Hybrid Seed,111
+2025-11,R0024,NK Maize Hybrid Seed,79
+2025-10,R0024,NK Maize Hybrid Seed,66
+2025-09,R0024,NK Maize Hybrid Seed,62
+2025-08,R0024,NK Maize Hybrid Seed,56
+2025-07,R0024,NK Maize Hybrid Seed,82
+2025-06,R0024,NK Maize Hybrid Seed,52
+2026-05,R0025,Tihan Insecticide,40
+2026-04,R0025,Tihan Insecticide,38
+2026-03,R0025,Tihan Insecticide,84
+2026-01,R0025,Tihan Insecticide,67
+2026-01,R0025,Tihan Insecticide,51
+2025-12,R0025,Tihan Insecticide,91
+2025-11,R0025,Tihan Insecticide,87
+2025-10,R0025,Tihan Insecticide,59
+2025-09,R0025,Tihan Insecticide,59
+2025-08,R0025,Tihan Insecticide,55
+2025-07,R0025,Tihan Insecticide,54
+2025-06,R0025,Tihan Insecticide,33
+2026-05,R0025,Polo Insecticide,46
+2026-04,R0025,Polo Insecticide,74
+2026-03,R0025,Polo Insecticide,54
+2026-01,R0025,Polo Insecticide,52
+2026-01,R0025,Polo Insecticide,77
+2025-12,R0025,Polo Insecticide,89
+2025-11,R0025,Polo Insecticide,75
+2025-10,R0025,Polo Insecticide,32
+2025-09,R0025,Polo Insecticide,55
+2025-08,R0025,Polo Insecticide,34
+2025-07,R0025,Polo Insecticide,29
+2025-06,R0025,Polo Insecticide,32
+2026-05,R0025,Cruiser Cotton Seed,45
+2026-04,R0025,Cruiser Cotton Seed,65
+2026-03,R0025,Cruiser Cotton Seed,52
+2026-01,R0025,Cruiser Cotton Seed,83
+2026-01,R0025,Cruiser Cotton Seed,88
+2025-12,R0025,Cruiser Cotton Seed,120
+2025-11,R0025,Cruiser Cotton Seed,109
+2025-10,R0025,Cruiser Cotton Seed,67
+2025-09,R0025,Cruiser Cotton Seed,45
+2025-08,R0025,Cruiser Cotton Seed,42
+2025-07,R0025,Cruiser Cotton Seed,30
+2025-06,R0025,Cruiser Cotton Seed,41
+2026-05,R0026,Amistar Top Fungicide,41
+2026-04,R0026,Amistar Top Fungicide,53
+2026-03,R0026,Amistar Top Fungicide,99
+2026-01,R0026,Amistar Top Fungicide,118
+2026-01,R0026,Amistar Top Fungicide,86
+2025-12,R0026,Amistar Top Fungicide,146
+2025-11,R0026,Amistar Top Fungicide,116
+2025-10,R0026,Amistar Top Fungicide,123
+2025-09,R0026,Amistar Top Fungicide,111
+2025-08,R0026,Amistar Top Fungicide,69
+2025-07,R0026,Amistar Top Fungicide,79
+2025-06,R0026,Amistar Top Fungicide,39
+2026-05,R0026,Karate Zeon Insecticide,56
+2026-04,R0026,Karate Zeon Insecticide,53
+2026-03,R0026,Karate Zeon Insecticide,102
+2026-01,R0026,Karate Zeon Insecticide,131
+2026-01,R0026,Karate Zeon Insecticide,114
+2025-12,R0026,Karate Zeon Insecticide,120
+2025-11,R0026,Karate Zeon Insecticide,102
+2025-10,R0026,Karate Zeon Insecticide,97
+2025-09,R0026,Karate Zeon Insecticide,117
+2025-08,R0026,Karate Zeon Insecticide,84
+2025-07,R0026,Karate Zeon Insecticide,88
+2025-06,R0026,Karate Zeon Insecticide,78
+2026-05,R0026,Cruiser Seed Treatment,71
+2026-04,R0026,Cruiser Seed Treatment,63
+2026-03,R0026,Cruiser Seed Treatment,67
+2026-01,R0026,Cruiser Seed Treatment,117
+2026-01,R0026,Cruiser Seed Treatment,96
+2025-12,R0026,Cruiser Seed Treatment,122
+2025-11,R0026,Cruiser Seed Treatment,105
+2025-10,R0026,Cruiser Seed Treatment,76
+2025-09,R0026,Cruiser Seed Treatment,83
+2025-08,R0026,Cruiser Seed Treatment,81
+2025-07,R0026,Cruiser Seed Treatment,56
+2025-06,R0026,Cruiser Seed Treatment,38
+2026-05,R0027,Tihan Insecticide,53
+2026-04,R0027,Tihan Insecticide,118
+2026-03,R0027,Tihan Insecticide,131
+2026-01,R0027,Tihan Insecticide,92
+2026-01,R0027,Tihan Insecticide,192
+2025-12,R0027,Tihan Insecticide,115
+2025-11,R0027,Tihan Insecticide,108
+2025-10,R0027,Tihan Insecticide,77
+2025-09,R0027,Tihan Insecticide,107
+2025-08,R0027,Tihan Insecticide,72
+2025-07,R0027,Tihan Insecticide,98
+2025-06,R0027,Tihan Insecticide,44
+2026-05,R0027,Polo Insecticide,40
+2026-04,R0027,Polo Insecticide,103
+2026-03,R0027,Polo Insecticide,139
+2026-01,R0027,Polo Insecticide,223
+2026-01,R0027,Polo Insecticide,104
+2025-12,R0027,Polo Insecticide,134
+2025-11,R0027,Polo Insecticide,151
+2025-10,R0027,Polo Insecticide,118
+2025-09,R0027,Polo Insecticide,113
+2025-08,R0027,Polo Insecticide,69
+2025-07,R0027,Polo Insecticide,45
+2025-06,R0027,Polo Insecticide,61
+2026-05,R0027,Cruiser Cotton Seed,75
+2026-04,R0027,Cruiser Cotton Seed,67
+2026-03,R0027,Cruiser Cotton Seed,107
+2026-01,R0027,Cruiser Cotton Seed,177
+2026-01,R0027,Cruiser Cotton Seed,119
+2025-12,R0027,Cruiser Cotton Seed,205
+2025-11,R0027,Cruiser Cotton Seed,202
+2025-10,R0027,Cruiser Cotton Seed,180
+2025-09,R0027,Cruiser Cotton Seed,117
+2025-08,R0027,Cruiser Cotton Seed,68
+2025-07,R0027,Cruiser Cotton Seed,80
+2025-06,R0027,Cruiser Cotton Seed,69
+2026-05,R0028,Tihan Insecticide,107
+2026-04,R0028,Tihan Insecticide,75
+2026-03,R0028,Tihan Insecticide,104
+2026-01,R0028,Tihan Insecticide,133
+2026-01,R0028,Tihan Insecticide,129
+2025-12,R0028,Tihan Insecticide,138
+2025-11,R0028,Tihan Insecticide,137
+2025-10,R0028,Tihan Insecticide,158
+2025-09,R0028,Tihan Insecticide,87
+2025-08,R0028,Tihan Insecticide,106
+2025-07,R0028,Tihan Insecticide,44
+2025-06,R0028,Tihan Insecticide,98
+2026-05,R0028,Polo Insecticide,76
+2026-04,R0028,Polo Insecticide,92
+2026-03,R0028,Polo Insecticide,63
+2026-01,R0028,Polo Insecticide,102
+2026-01,R0028,Polo Insecticide,136
+2025-12,R0028,Polo Insecticide,153
+2025-11,R0028,Polo Insecticide,135
+2025-10,R0028,Polo Insecticide,102
+2025-09,R0028,Polo Insecticide,151
+2025-08,R0028,Polo Insecticide,102
+2025-07,R0028,Polo Insecticide,56
+2025-06,R0028,Polo Insecticide,38
+2026-05,R0028,Cruiser Cotton Seed,77
+2026-04,R0028,Cruiser Cotton Seed,61
+2026-03,R0028,Cruiser Cotton Seed,70
+2026-01,R0028,Cruiser Cotton Seed,135
+2026-01,R0028,Cruiser Cotton Seed,183
+2025-12,R0028,Cruiser Cotton Seed,107
+2025-11,R0028,Cruiser Cotton Seed,159
+2025-10,R0028,Cruiser Cotton Seed,86
+2025-09,R0028,Cruiser Cotton Seed,78
+2025-08,R0028,Cruiser Cotton Seed,88
+2025-07,R0028,Cruiser Cotton Seed,72
+2025-06,R0028,Cruiser Cotton Seed,41
+2026-05,R0029,Tihan Insecticide,54
+2026-04,R0029,Tihan Insecticide,56
+2026-03,R0029,Tihan Insecticide,85
+2026-01,R0029,Tihan Insecticide,104
+2026-01,R0029,Tihan Insecticide,106
+2025-12,R0029,Tihan Insecticide,177
+2025-11,R0029,Tihan Insecticide,119
+2025-10,R0029,Tihan Insecticide,121
+2025-09,R0029,Tihan Insecticide,69
+2025-08,R0029,Tihan Insecticide,88
+2025-07,R0029,Tihan Insecticide,56
+2025-06,R0029,Tihan Insecticide,34
+2026-05,R0029,Polo Insecticide,57
+2026-04,R0029,Polo Insecticide,45
+2026-03,R0029,Polo Insecticide,77
+2026-01,R0029,Polo Insecticide,158
+2026-01,R0029,Polo Insecticide,56
+2025-12,R0029,Polo Insecticide,92
+2025-11,R0029,Polo Insecticide,95
+2025-10,R0029,Polo Insecticide,66
+2025-09,R0029,Polo Insecticide,104
+2025-08,R0029,Polo Insecticide,83
+2025-07,R0029,Polo Insecticide,30
+2025-06,R0029,Polo Insecticide,72
+2026-05,R0029,Cruiser Cotton Seed,54
+2026-04,R0029,Cruiser Cotton Seed,49
+2026-03,R0029,Cruiser Cotton Seed,113
+2026-01,R0029,Cruiser Cotton Seed,79
+2026-01,R0029,Cruiser Cotton Seed,95
+2025-12,R0029,Cruiser Cotton Seed,97
+2025-11,R0029,Cruiser Cotton Seed,200
+2025-10,R0029,Cruiser Cotton Seed,94
+2025-09,R0029,Cruiser Cotton Seed,48
+2025-08,R0029,Cruiser Cotton Seed,71
+2025-07,R0029,Cruiser Cotton Seed,57
+2025-06,R0029,Cruiser Cotton Seed,45
+2026-05,R0030,Callisto Herbicide,63
+2026-04,R0030,Callisto Herbicide,76
+2026-03,R0030,Callisto Herbicide,88
+2026-01,R0030,Callisto Herbicide,114
+2026-01,R0030,Callisto Herbicide,166
+2025-12,R0030,Callisto Herbicide,95
+2025-11,R0030,Callisto Herbicide,152
+2025-10,R0030,Callisto Herbicide,104
+2025-09,R0030,Callisto Herbicide,128
+2025-08,R0030,Callisto Herbicide,70
+2025-07,R0030,Callisto Herbicide,51
+2025-06,R0030,Callisto Herbicide,50
+2026-05,R0030,Force Insecticide,49
+2026-04,R0030,Force Insecticide,98
+2026-03,R0030,Force Insecticide,95
+2026-01,R0030,Force Insecticide,168
+2026-01,R0030,Force Insecticide,138
+2025-12,R0030,Force Insecticide,134
+2025-11,R0030,Force Insecticide,135
+2025-10,R0030,Force Insecticide,134
+2025-09,R0030,Force Insecticide,107
+2025-08,R0030,Force Insecticide,109
+2025-07,R0030,Force Insecticide,58
+2025-06,R0030,Force Insecticide,71
+2026-05,R0030,NK Maize Hybrid Seed,94
+2026-04,R0030,NK Maize Hybrid Seed,67
+2026-03,R0030,NK Maize Hybrid Seed,130
+2026-01,R0030,NK Maize Hybrid Seed,72
+2026-01,R0030,NK Maize Hybrid Seed,206
+2025-12,R0030,NK Maize Hybrid Seed,153
+2025-11,R0030,NK Maize Hybrid Seed,105
+2025-10,R0030,NK Maize Hybrid Seed,162
+2025-09,R0030,NK Maize Hybrid Seed,163
+2025-08,R0030,NK Maize Hybrid Seed,67
+2025-07,R0030,NK Maize Hybrid Seed,79
+2025-06,R0030,NK Maize Hybrid Seed,43
+2026-05,R0031,Tihan Insecticide,14
+2026-04,R0031,Tihan Insecticide,23
+2026-03,R0031,Tihan Insecticide,24
+2026-01,R0031,Tihan Insecticide,30
+2026-01,R0031,Tihan Insecticide,36
+2025-12,R0031,Tihan Insecticide,18
+2025-11,R0031,Tihan Insecticide,34
+2025-10,R0031,Tihan Insecticide,34
+2025-09,R0031,Tihan Insecticide,21
+2025-08,R0031,Tihan Insecticide,24
+2025-07,R0031,Tihan Insecticide,22
+2025-06,R0031,Tihan Insecticide,14
+2026-05,R0031,Polo Insecticide,14
+2026-04,R0031,Polo Insecticide,11
+2026-03,R0031,Polo Insecticide,20
+2026-01,R0031,Polo Insecticide,26
+2026-01,R0031,Polo Insecticide,36
+2025-12,R0031,Polo Insecticide,26
+2025-11,R0031,Polo Insecticide,26
+2025-10,R0031,Polo Insecticide,18
+2025-09,R0031,Polo Insecticide,13
+2025-08,R0031,Polo Insecticide,13
+2025-07,R0031,Polo Insecticide,12
+2025-06,R0031,Polo Insecticide,19
+2026-05,R0031,Cruiser Cotton Seed,13
+2026-04,R0031,Cruiser Cotton Seed,21
+2026-03,R0031,Cruiser Cotton Seed,31
+2026-01,R0031,Cruiser Cotton Seed,25
+2026-01,R0031,Cruiser Cotton Seed,23
+2025-12,R0031,Cruiser Cotton Seed,32
+2025-11,R0031,Cruiser Cotton Seed,23
+2025-10,R0031,Cruiser Cotton Seed,20
+2025-09,R0031,Cruiser Cotton Seed,21
+2025-08,R0031,Cruiser Cotton Seed,16
+2025-07,R0031,Cruiser Cotton Seed,14
+2025-06,R0031,Cruiser Cotton Seed,9
+2026-05,R0032,Callisto Herbicide,22
+2026-04,R0032,Callisto Herbicide,50
+2026-03,R0032,Callisto Herbicide,54
+2026-01,R0032,Callisto Herbicide,79
+2026-01,R0032,Callisto Herbicide,60
+2025-12,R0032,Callisto Herbicide,76
+2025-11,R0032,Callisto Herbicide,66
+2025-10,R0032,Callisto Herbicide,48
+2025-09,R0032,Callisto Herbicide,48
+2025-08,R0032,Callisto Herbicide,63
+2025-07,R0032,Callisto Herbicide,36
+2025-06,R0032,Callisto Herbicide,26
+2026-05,R0032,Force Insecticide,43
+2026-04,R0032,Force Insecticide,42
+2026-03,R0032,Force Insecticide,42
+2026-01,R0032,Force Insecticide,47
+2026-01,R0032,Force Insecticide,54
+2025-12,R0032,Force Insecticide,55
+2025-11,R0032,Force Insecticide,76
+2025-10,R0032,Force Insecticide,73
+2025-09,R0032,Force Insecticide,54
+2025-08,R0032,Force Insecticide,40
+2025-07,R0032,Force Insecticide,39
+2025-06,R0032,Force Insecticide,36
+2026-05,R0032,NK Maize Hybrid Seed,28
+2026-04,R0032,NK Maize Hybrid Seed,44
+2026-03,R0032,NK Maize Hybrid Seed,53
+2026-01,R0032,NK Maize Hybrid Seed,72
+2026-01,R0032,NK Maize Hybrid Seed,103
+2025-12,R0032,NK Maize Hybrid Seed,97
+2025-11,R0032,NK Maize Hybrid Seed,77
+2025-10,R0032,NK Maize Hybrid Seed,77
+2025-09,R0032,NK Maize Hybrid Seed,42
+2025-08,R0032,NK Maize Hybrid Seed,63
+2025-07,R0032,NK Maize Hybrid Seed,40
+2025-06,R0032,NK Maize Hybrid Seed,37
+2026-05,R0033,Tihan Insecticide,38
+2026-04,R0033,Tihan Insecticide,43
+2026-03,R0033,Tihan Insecticide,59
+2026-01,R0033,Tihan Insecticide,82
+2026-01,R0033,Tihan Insecticide,87
+2025-12,R0033,Tihan Insecticide,105
+2025-11,R0033,Tihan Insecticide,53
+2025-10,R0033,Tihan Insecticide,68
+2025-09,R0033,Tihan Insecticide,41
+2025-08,R0033,Tihan Insecticide,46
+2025-07,R0033,Tihan Insecticide,33
+2025-06,R0033,Tihan Insecticide,27
+2026-05,R0033,Polo Insecticide,44
+2026-04,R0033,Polo Insecticide,47
+2026-03,R0033,Polo Insecticide,73
+2026-01,R0033,Polo Insecticide,91
+2026-01,R0033,Polo Insecticide,66
+2025-12,R0033,Polo Insecticide,78
+2025-11,R0033,Polo Insecticide,47
+2025-10,R0033,Polo Insecticide,59
+2025-09,R0033,Polo Insecticide,42
+2025-08,R0033,Polo Insecticide,32
+2025-07,R0033,Polo Insecticide,44
+2025-06,R0033,Polo Insecticide,20
+2026-05,R0033,Cruiser Cotton Seed,30
+2026-04,R0033,Cruiser Cotton Seed,22
+2026-03,R0033,Cruiser Cotton Seed,68
+2026-01,R0033,Cruiser Cotton Seed,54
+2026-01,R0033,Cruiser Cotton Seed,81
+2025-12,R0033,Cruiser Cotton Seed,47
+2025-11,R0033,Cruiser Cotton Seed,43
+2025-10,R0033,Cruiser Cotton Seed,67
+2025-09,R0033,Cruiser Cotton Seed,41
+2025-08,R0033,Cruiser Cotton Seed,37
+2025-07,R0033,Cruiser Cotton Seed,23
+2025-06,R0033,Cruiser Cotton Seed,25
+2026-05,R0034,Tihan Insecticide,34
+2026-04,R0034,Tihan Insecticide,47
+2026-03,R0034,Tihan Insecticide,82
+2026-01,R0034,Tihan Insecticide,82
+2026-01,R0034,Tihan Insecticide,99
+2025-12,R0034,Tihan Insecticide,75
+2025-11,R0034,Tihan Insecticide,98
+2025-10,R0034,Tihan Insecticide,74
+2025-09,R0034,Tihan Insecticide,78
+2025-08,R0034,Tihan Insecticide,53
+2025-07,R0034,Tihan Insecticide,30
+2025-06,R0034,Tihan Insecticide,56
+2026-05,R0034,Polo Insecticide,31
+2026-04,R0034,Polo Insecticide,49
+2026-03,R0034,Polo Insecticide,48
+2026-01,R0034,Polo Insecticide,92
+2026-01,R0034,Polo Insecticide,80
+2025-12,R0034,Polo Insecticide,104
+2025-11,R0034,Polo Insecticide,113
+2025-10,R0034,Polo Insecticide,86
+2025-09,R0034,Polo Insecticide,56
+2025-08,R0034,Polo Insecticide,58
+2025-07,R0034,Polo Insecticide,58
+2025-06,R0034,Polo Insecticide,32
+2026-05,R0034,Cruiser Cotton Seed,50
+2026-04,R0034,Cruiser Cotton Seed,53
+2026-03,R0034,Cruiser Cotton Seed,70
+2026-01,R0034,Cruiser Cotton Seed,76
+2026-01,R0034,Cruiser Cotton Seed,75
+2025-12,R0034,Cruiser Cotton Seed,102
+2025-11,R0034,Cruiser Cotton Seed,93
+2025-10,R0034,Cruiser Cotton Seed,84
+2025-09,R0034,Cruiser Cotton Seed,73
+2025-08,R0034,Cruiser Cotton Seed,49
+2025-07,R0034,Cruiser Cotton Seed,42
+2025-06,R0034,Cruiser Cotton Seed,50
+2026-05,R0035,Tihan Insecticide,17
+2026-04,R0035,Tihan Insecticide,20
+2026-03,R0035,Tihan Insecticide,31
+2026-01,R0035,Tihan Insecticide,39
+2026-01,R0035,Tihan Insecticide,30
+2025-12,R0035,Tihan Insecticide,40
+2025-11,R0035,Tihan Insecticide,45
+2025-10,R0035,Tihan Insecticide,27
+2025-09,R0035,Tihan Insecticide,27
+2025-08,R0035,Tihan Insecticide,20
+2025-07,R0035,Tihan Insecticide,17
+2025-06,R0035,Tihan Insecticide,17
+2026-05,R0035,Polo Insecticide,21
+2026-04,R0035,Polo Insecticide,37
+2026-03,R0035,Polo Insecticide,20
+2026-01,R0035,Polo Insecticide,35
+2026-01,R0035,Polo Insecticide,34
+2025-12,R0035,Polo Insecticide,36
+2025-11,R0035,Polo Insecticide,27
+2025-10,R0035,Polo Insecticide,52
+2025-09,R0035,Polo Insecticide,28
+2025-08,R0035,Polo Insecticide,16
+2025-07,R0035,Polo Insecticide,12
+2025-06,R0035,Polo Insecticide,11
+2026-05,R0035,Cruiser Cotton Seed,25
+2026-04,R0035,Cruiser Cotton Seed,14
+2026-03,R0035,Cruiser Cotton Seed,26
+2026-01,R0035,Cruiser Cotton Seed,47
+2026-01,R0035,Cruiser Cotton Seed,23
+2025-12,R0035,Cruiser Cotton Seed,51
+2025-11,R0035,Cruiser Cotton Seed,31
+2025-10,R0035,Cruiser Cotton Seed,38
+2025-09,R0035,Cruiser Cotton Seed,28
+2025-08,R0035,Cruiser Cotton Seed,30
+2025-07,R0035,Cruiser Cotton Seed,17
+2025-06,R0035,Cruiser Cotton Seed,17
+2026-05,R0036,Amistar Top Fungicide,23
+2026-04,R0036,Amistar Top Fungicide,47
+2026-03,R0036,Amistar Top Fungicide,49
+2026-01,R0036,Amistar Top Fungicide,66
+2026-01,R0036,Amistar Top Fungicide,44
+2025-12,R0036,Amistar Top Fungicide,87
+2025-11,R0036,Amistar Top Fungicide,55
+2025-10,R0036,Amistar Top Fungicide,43
+2025-09,R0036,Amistar Top Fungicide,45
+2025-08,R0036,Amistar Top Fungicide,33
+2025-07,R0036,Amistar Top Fungicide,22
+2025-06,R0036,Amistar Top Fungicide,19
+2026-05,R0036,Karate Zeon Insecticide,30
+2026-04,R0036,Karate Zeon Insecticide,30
+2026-03,R0036,Karate Zeon Insecticide,39
+2026-01,R0036,Karate Zeon Insecticide,71
+2026-01,R0036,Karate Zeon Insecticide,56
+2025-12,R0036,Karate Zeon Insecticide,108
+2025-11,R0036,Karate Zeon Insecticide,65
+2025-10,R0036,Karate Zeon Insecticide,34
+2025-09,R0036,Karate Zeon Insecticide,32
+2025-08,R0036,Karate Zeon Insecticide,34
+2025-07,R0036,Karate Zeon Insecticide,32
+2025-06,R0036,Karate Zeon Insecticide,25
+2026-05,R0036,Cruiser Seed Treatment,20
+2026-04,R0036,Cruiser Seed Treatment,24
+2026-03,R0036,Cruiser Seed Treatment,37
+2026-01,R0036,Cruiser Seed Treatment,60
+2026-01,R0036,Cruiser Seed Treatment,50
+2025-12,R0036,Cruiser Seed Treatment,67
+2025-11,R0036,Cruiser Seed Treatment,37
+2025-10,R0036,Cruiser Seed Treatment,71
+2025-09,R0036,Cruiser Seed Treatment,31
+2025-08,R0036,Cruiser Seed Treatment,47
+2025-07,R0036,Cruiser Seed Treatment,26
+2025-06,R0036,Cruiser Seed Treatment,22
+2026-05,R0037,Amistar Top Fungicide,20
+2026-04,R0037,Amistar Top Fungicide,14
+2026-03,R0037,Amistar Top Fungicide,22
+2026-01,R0037,Amistar Top Fungicide,34
+2026-01,R0037,Amistar Top Fungicide,33
+2025-12,R0037,Amistar Top Fungicide,31
+2025-11,R0037,Amistar Top Fungicide,24
+2025-10,R0037,Amistar Top Fungicide,38
+2025-09,R0037,Amistar Top Fungicide,16
+2025-08,R0037,Amistar Top Fungicide,16
+2025-07,R0037,Amistar Top Fungicide,14
+2025-06,R0037,Amistar Top Fungicide,15
+2026-05,R0037,Karate Zeon Insecticide,20
+2026-04,R0037,Karate Zeon Insecticide,19
+2026-03,R0037,Karate Zeon Insecticide,19
+2026-01,R0037,Karate Zeon Insecticide,35
+2026-01,R0037,Karate Zeon Insecticide,34
+2025-12,R0037,Karate Zeon Insecticide,43
+2025-11,R0037,Karate Zeon Insecticide,32
+2025-10,R0037,Karate Zeon Insecticide,33
+2025-09,R0037,Karate Zeon Insecticide,29
+2025-08,R0037,Karate Zeon Insecticide,15
+2025-07,R0037,Karate Zeon Insecticide,20
+2025-06,R0037,Karate Zeon Insecticide,21
+2026-05,R0037,Cruiser Seed Treatment,15
+2026-04,R0037,Cruiser Seed Treatment,21
+2026-03,R0037,Cruiser Seed Treatment,28
+2026-01,R0037,Cruiser Seed Treatment,24
+2026-01,R0037,Cruiser Seed Treatment,35
+2025-12,R0037,Cruiser Seed Treatment,24
+2025-11,R0037,Cruiser Seed Treatment,26
+2025-10,R0037,Cruiser Seed Treatment,28
+2025-09,R0037,Cruiser Seed Treatment,27
+2025-08,R0037,Cruiser Seed Treatment,16
+2025-07,R0037,Cruiser Seed Treatment,21
+2025-06,R0037,Cruiser Seed Treatment,15
+2026-05,R0038,Amistar Top Fungicide,72
+2026-04,R0038,Amistar Top Fungicide,113
+2026-03,R0038,Amistar Top Fungicide,56
+2026-01,R0038,Amistar Top Fungicide,176
+2026-01,R0038,Amistar Top Fungicide,157
+2025-12,R0038,Amistar Top Fungicide,96
+2025-11,R0038,Amistar Top Fungicide,123
+2025-10,R0038,Amistar Top Fungicide,105
+2025-09,R0038,Amistar Top Fungicide,86
+2025-08,R0038,Amistar Top Fungicide,64
+2025-07,R0038,Amistar Top Fungicide,54
+2025-06,R0038,Amistar Top Fungicide,58
+2026-05,R0038,Karate Zeon Insecticide,74
+2026-04,R0038,Karate Zeon Insecticide,92
+2026-03,R0038,Karate Zeon Insecticide,83
+2026-01,R0038,Karate Zeon Insecticide,105
+2026-01,R0038,Karate Zeon Insecticide,107
+2025-12,R0038,Karate Zeon Insecticide,167
+2025-11,R0038,Karate Zeon Insecticide,124
+2025-10,R0038,Karate Zeon Insecticide,99
+2025-09,R0038,Karate Zeon Insecticide,101
+2025-08,R0038,Karate Zeon Insecticide,73
+2025-07,R0038,Karate Zeon Insecticide,72
+2025-06,R0038,Karate Zeon Insecticide,57
+2026-05,R0038,Cruiser Seed Treatment,55
+2026-04,R0038,Cruiser Seed Treatment,59
+2026-03,R0038,Cruiser Seed Treatment,95
+2026-01,R0038,Cruiser Seed Treatment,107
+2026-01,R0038,Cruiser Seed Treatment,143
+2025-12,R0038,Cruiser Seed Treatment,104
+2025-11,R0038,Cruiser Seed Treatment,143
+2025-10,R0038,Cruiser Seed Treatment,107
+2025-09,R0038,Cruiser Seed Treatment,65
+2025-08,R0038,Cruiser Seed Treatment,62
+2025-07,R0038,Cruiser Seed Treatment,56
+2025-06,R0038,Cruiser Seed Treatment,51
+2026-05,R0039,Amistar Top Fungicide,38
+2026-04,R0039,Amistar Top Fungicide,73
+2026-03,R0039,Amistar Top Fungicide,67
+2026-01,R0039,Amistar Top Fungicide,99
+2026-01,R0039,Amistar Top Fungicide,90
+2025-12,R0039,Amistar Top Fungicide,116
+2025-11,R0039,Amistar Top Fungicide,136
+2025-10,R0039,Amistar Top Fungicide,123
+2025-09,R0039,Amistar Top Fungicide,124
+2025-08,R0039,Amistar Top Fungicide,81
+2025-07,R0039,Amistar Top Fungicide,60
+2025-06,R0039,Amistar Top Fungicide,47
+2026-05,R0039,Karate Zeon Insecticide,83
+2026-04,R0039,Karate Zeon Insecticide,64
+2026-03,R0039,Karate Zeon Insecticide,93
+2026-01,R0039,Karate Zeon Insecticide,136
+2026-01,R0039,Karate Zeon Insecticide,118
+2025-12,R0039,Karate Zeon Insecticide,162
+2025-11,R0039,Karate Zeon Insecticide,90
+2025-10,R0039,Karate Zeon Insecticide,117
+2025-09,R0039,Karate Zeon Insecticide,102
+2025-08,R0039,Karate Zeon Insecticide,43
+2025-07,R0039,Karate Zeon Insecticide,73
+2025-06,R0039,Karate Zeon Insecticide,40
+2026-05,R0039,Cruiser Seed Treatment,47
+2026-04,R0039,Cruiser Seed Treatment,86
+2026-03,R0039,Cruiser Seed Treatment,108
+2026-01,R0039,Cruiser Seed Treatment,129
+2026-01,R0039,Cruiser Seed Treatment,103
+2025-12,R0039,Cruiser Seed Treatment,145
+2025-11,R0039,Cruiser Seed Treatment,103
+2025-10,R0039,Cruiser Seed Treatment,111
+2025-09,R0039,Cruiser Seed Treatment,83
+2025-08,R0039,Cruiser Seed Treatment,87
+2025-07,R0039,Cruiser Seed Treatment,41
+2025-06,R0039,Cruiser Seed Treatment,43
+2026-05,R0040,Amistar Top Fungicide,7
+2026-04,R0040,Amistar Top Fungicide,12
+2026-03,R0040,Amistar Top Fungicide,13
+2026-01,R0040,Amistar Top Fungicide,18
+2026-01,R0040,Amistar Top Fungicide,10
+2025-12,R0040,Amistar Top Fungicide,15
+2025-11,R0040,Amistar Top Fungicide,14
+2025-10,R0040,Amistar Top Fungicide,14
+2025-09,R0040,Amistar Top Fungicide,15
+2025-08,R0040,Amistar Top Fungicide,8
+2025-07,R0040,Amistar Top Fungicide,8
+2025-06,R0040,Amistar Top Fungicide,7
+2026-05,R0040,Karate Zeon Insecticide,7
+2026-04,R0040,Karate Zeon Insecticide,10
+2026-03,R0040,Karate Zeon Insecticide,10
+2026-01,R0040,Karate Zeon Insecticide,18
+2026-01,R0040,Karate Zeon Insecticide,18
+2025-12,R0040,Karate Zeon Insecticide,21
+2025-11,R0040,Karate Zeon Insecticide,18
+2025-10,R0040,Karate Zeon Insecticide,12
+2025-09,R0040,Karate Zeon Insecticide,9
+2025-08,R0040,Karate Zeon Insecticide,10
+2025-07,R0040,Karate Zeon Insecticide,5
+2025-06,R0040,Karate Zeon Insecticide,10
+2026-05,R0040,Cruiser Seed Treatment,9
+2026-04,R0040,Cruiser Seed Treatment,9
+2026-03,R0040,Cruiser Seed Treatment,11
+2026-01,R0040,Cruiser Seed Treatment,16
+2026-01,R0040,Cruiser Seed Treatment,16
+2025-12,R0040,Cruiser Seed Treatment,10
+2025-11,R0040,Cruiser Seed Treatment,14
+2025-10,R0040,Cruiser Seed Treatment,15
+2025-09,R0040,Cruiser Seed Treatment,10
+2025-08,R0040,Cruiser Seed Treatment,7
+2025-07,R0040,Cruiser Seed Treatment,5
+2025-06,R0040,Cruiser Seed Treatment,5
+2026-05,R0041,Amistar Top Fungicide,48
+2026-04,R0041,Amistar Top Fungicide,58
+2026-03,R0041,Amistar Top Fungicide,82
+2026-01,R0041,Amistar Top Fungicide,182
+2026-01,R0041,Amistar Top Fungicide,100
+2025-12,R0041,Amistar Top Fungicide,192
+2025-11,R0041,Amistar Top Fungicide,128
+2025-10,R0041,Amistar Top Fungicide,113
+2025-09,R0041,Amistar Top Fungicide,105
+2025-08,R0041,Amistar Top Fungicide,74
+2025-07,R0041,Amistar Top Fungicide,93
+2025-06,R0041,Amistar Top Fungicide,44
+2026-05,R0041,Karate Zeon Insecticide,53
+2026-04,R0041,Karate Zeon Insecticide,67
+2026-03,R0041,Karate Zeon Insecticide,104
+2026-01,R0041,Karate Zeon Insecticide,145
+2026-01,R0041,Karate Zeon Insecticide,148
+2025-12,R0041,Karate Zeon Insecticide,183
+2025-11,R0041,Karate Zeon Insecticide,121
+2025-10,R0041,Karate Zeon Insecticide,131
+2025-09,R0041,Karate Zeon Insecticide,92
+2025-08,R0041,Karate Zeon Insecticide,110
+2025-07,R0041,Karate Zeon Insecticide,71
+2025-06,R0041,Karate Zeon Insecticide,56
+2026-05,R0041,Cruiser Seed Treatment,51
+2026-04,R0041,Cruiser Seed Treatment,96
+2026-03,R0041,Cruiser Seed Treatment,122
+2026-01,R0041,Cruiser Seed Treatment,161
+2026-01,R0041,Cruiser Seed Treatment,134
+2025-12,R0041,Cruiser Seed Treatment,124
+2025-11,R0041,Cruiser Seed Treatment,133
+2025-10,R0041,Cruiser Seed Treatment,147
+2025-09,R0041,Cruiser Seed Treatment,110
+2025-08,R0041,Cruiser Seed Treatment,60
+2025-07,R0041,Cruiser Seed Treatment,75
+2025-06,R0041,Cruiser Seed Treatment,44
+2026-05,R0042,Tihan Insecticide,51
+2026-04,R0042,Tihan Insecticide,85
+2026-03,R0042,Tihan Insecticide,123
+2026-01,R0042,Tihan Insecticide,138
+2026-01,R0042,Tihan Insecticide,144
+2025-12,R0042,Tihan Insecticide,119
+2025-11,R0042,Tihan Insecticide,134
+2025-10,R0042,Tihan Insecticide,154
+2025-09,R0042,Tihan Insecticide,70
+2025-08,R0042,Tihan Insecticide,84
+2025-07,R0042,Tihan Insecticide,70
+2025-06,R0042,Tihan Insecticide,46
+2026-05,R0042,Polo Insecticide,55
+2026-04,R0042,Polo Insecticide,69
+2026-03,R0042,Polo Insecticide,108
+2026-01,R0042,Polo Insecticide,95
+2026-01,R0042,Polo Insecticide,109
+2025-12,R0042,Polo Insecticide,143
+2025-11,R0042,Polo Insecticide,112
+2025-10,R0042,Polo Insecticide,72
+2025-09,R0042,Polo Insecticide,89
+2025-08,R0042,Polo Insecticide,78
+2025-07,R0042,Polo Insecticide,58
+2025-06,R0042,Polo Insecticide,68
+2026-05,R0042,Cruiser Cotton Seed,56
+2026-04,R0042,Cruiser Cotton Seed,80
+2026-03,R0042,Cruiser Cotton Seed,127
+2026-01,R0042,Cruiser Cotton Seed,114
+2026-01,R0042,Cruiser Cotton Seed,88
+2025-12,R0042,Cruiser Cotton Seed,121
+2025-11,R0042,Cruiser Cotton Seed,91
+2025-10,R0042,Cruiser Cotton Seed,120
+2025-09,R0042,Cruiser Cotton Seed,145
+2025-08,R0042,Cruiser Cotton Seed,77
+2025-07,R0042,Cruiser Cotton Seed,51
+2025-06,R0042,Cruiser Cotton Seed,48
+2026-05,R0043,Callisto Herbicide,58
+2026-04,R0043,Callisto Herbicide,50
+2026-03,R0043,Callisto Herbicide,109
+2026-01,R0043,Callisto Herbicide,84
+2026-01,R0043,Callisto Herbicide,143
+2025-12,R0043,Callisto Herbicide,100
+2025-11,R0043,Callisto Herbicide,87
+2025-10,R0043,Callisto Herbicide,78
+2025-09,R0043,Callisto Herbicide,134
+2025-08,R0043,Callisto Herbicide,70
+2025-07,R0043,Callisto Herbicide,43
+2025-06,R0043,Callisto Herbicide,46
+2026-05,R0043,Force Insecticide,64
+2026-04,R0043,Force Insecticide,91
+2026-03,R0043,Force Insecticide,82
+2026-01,R0043,Force Insecticide,143
+2026-01,R0043,Force Insecticide,188
+2025-12,R0043,Force Insecticide,215
+2025-11,R0043,Force Insecticide,115
+2025-10,R0043,Force Insecticide,122
+2025-09,R0043,Force Insecticide,125
+2025-08,R0043,Force Insecticide,68
+2025-07,R0043,Force Insecticide,38
+2025-06,R0043,Force Insecticide,46
+2026-05,R0043,NK Maize Hybrid Seed,39
+2026-04,R0043,NK Maize Hybrid Seed,46
+2026-03,R0043,NK Maize Hybrid Seed,123
+2026-01,R0043,NK Maize Hybrid Seed,115
+2026-01,R0043,NK Maize Hybrid Seed,100
+2025-12,R0043,NK Maize Hybrid Seed,103
+2025-11,R0043,NK Maize Hybrid Seed,99
+2025-10,R0043,NK Maize Hybrid Seed,101
+2025-09,R0043,NK Maize Hybrid Seed,74
+2025-08,R0043,NK Maize Hybrid Seed,69
+2025-07,R0043,NK Maize Hybrid Seed,79
+2025-06,R0043,NK Maize Hybrid Seed,74
+2026-05,R0044,Amistar Top Fungicide,20
+2026-04,R0044,Amistar Top Fungicide,24
+2026-03,R0044,Amistar Top Fungicide,20
+2026-01,R0044,Amistar Top Fungicide,27
+2026-01,R0044,Amistar Top Fungicide,39
+2025-12,R0044,Amistar Top Fungicide,25
+2025-11,R0044,Amistar Top Fungicide,19
+2025-10,R0044,Amistar Top Fungicide,25
+2025-09,R0044,Amistar Top Fungicide,28
+2025-08,R0044,Amistar Top Fungicide,11
+2025-07,R0044,Amistar Top Fungicide,16
+2025-06,R0044,Amistar Top Fungicide,10
+2026-05,R0044,Karate Zeon Insecticide,18
+2026-04,R0044,Karate Zeon Insecticide,21
+2026-03,R0044,Karate Zeon Insecticide,25
+2026-01,R0044,Karate Zeon Insecticide,22
+2026-01,R0044,Karate Zeon Insecticide,30
+2025-12,R0044,Karate Zeon Insecticide,34
+2025-11,R0044,Karate Zeon Insecticide,40
+2025-10,R0044,Karate Zeon Insecticide,15
+2025-09,R0044,Karate Zeon Insecticide,25
+2025-08,R0044,Karate Zeon Insecticide,21
+2025-07,R0044,Karate Zeon Insecticide,15
+2025-06,R0044,Karate Zeon Insecticide,10
+2026-05,R0044,Cruiser Seed Treatment,15
+2026-04,R0044,Cruiser Seed Treatment,19
+2026-03,R0044,Cruiser Seed Treatment,28
+2026-01,R0044,Cruiser Seed Treatment,32
+2026-01,R0044,Cruiser Seed Treatment,34
+2025-12,R0044,Cruiser Seed Treatment,25
+2025-11,R0044,Cruiser Seed Treatment,22
+2025-10,R0044,Cruiser Seed Treatment,27
+2025-09,R0044,Cruiser Seed Treatment,26
+2025-08,R0044,Cruiser Seed Treatment,16
+2025-07,R0044,Cruiser Seed Treatment,10
+2025-06,R0044,Cruiser Seed Treatment,7
+2026-05,R0045,Amistar Top Fungicide,14
+2026-04,R0045,Amistar Top Fungicide,17
+2026-03,R0045,Amistar Top Fungicide,21
+2026-01,R0045,Amistar Top Fungicide,23
+2026-01,R0045,Amistar Top Fungicide,28
+2025-12,R0045,Amistar Top Fungicide,31
+2025-11,R0045,Amistar Top Fungicide,26
+2025-10,R0045,Amistar Top Fungicide,19
+2025-09,R0045,Amistar Top Fungicide,20
+2025-08,R0045,Amistar Top Fungicide,14
+2025-07,R0045,Amistar Top Fungicide,9
+2025-06,R0045,Amistar Top Fungicide,18
+2026-05,R0045,Karate Zeon Insecticide,11
+2026-04,R0045,Karate Zeon Insecticide,13
+2026-03,R0045,Karate Zeon Insecticide,18
+2026-01,R0045,Karate Zeon Insecticide,15
+2026-01,R0045,Karate Zeon Insecticide,30
+2025-12,R0045,Karate Zeon Insecticide,29
+2025-11,R0045,Karate Zeon Insecticide,28
+2025-10,R0045,Karate Zeon Insecticide,29
+2025-09,R0045,Karate Zeon Insecticide,17
+2025-08,R0045,Karate Zeon Insecticide,12
+2025-07,R0045,Karate Zeon Insecticide,13
+2025-06,R0045,Karate Zeon Insecticide,11
+2026-05,R0045,Cruiser Seed Treatment,11
+2026-04,R0045,Cruiser Seed Treatment,14
+2026-03,R0045,Cruiser Seed Treatment,11
+2026-01,R0045,Cruiser Seed Treatment,15
+2026-01,R0045,Cruiser Seed Treatment,19
+2025-12,R0045,Cruiser Seed Treatment,10
+2025-11,R0045,Cruiser Seed Treatment,21
+2025-10,R0045,Cruiser Seed Treatment,22
+2025-09,R0045,Cruiser Seed Treatment,16
+2025-08,R0045,Cruiser Seed Treatment,24
+2025-07,R0045,Cruiser Seed Treatment,10
+2025-06,R0045,Cruiser Seed Treatment,8
+2026-05,R0046,Amistar Top Fungicide,42
+2026-04,R0046,Amistar Top Fungicide,28
+2026-03,R0046,Amistar Top Fungicide,44
+2026-01,R0046,Amistar Top Fungicide,80
+2026-01,R0046,Amistar Top Fungicide,62
+2025-12,R0046,Amistar Top Fungicide,51
+2025-11,R0046,Amistar Top Fungicide,82
+2025-10,R0046,Amistar Top Fungicide,68
+2025-09,R0046,Amistar Top Fungicide,38
+2025-08,R0046,Amistar Top Fungicide,57
+2025-07,R0046,Amistar Top Fungicide,25
+2025-06,R0046,Amistar Top Fungicide,29
+2026-05,R0046,Karate Zeon Insecticide,31
+2026-04,R0046,Karate Zeon Insecticide,27
+2026-03,R0046,Karate Zeon Insecticide,55
+2026-01,R0046,Karate Zeon Insecticide,60
+2026-01,R0046,Karate Zeon Insecticide,63
+2025-12,R0046,Karate Zeon Insecticide,105
+2025-11,R0046,Karate Zeon Insecticide,87
+2025-10,R0046,Karate Zeon Insecticide,103
+2025-09,R0046,Karate Zeon Insecticide,47
+2025-08,R0046,Karate Zeon Insecticide,51
+2025-07,R0046,Karate Zeon Insecticide,42
+2025-06,R0046,Karate Zeon Insecticide,42
+2026-05,R0046,Cruiser Seed Treatment,33
+2026-04,R0046,Cruiser Seed Treatment,47
+2026-03,R0046,Cruiser Seed Treatment,59
+2026-01,R0046,Cruiser Seed Treatment,57
+2026-01,R0046,Cruiser Seed Treatment,64
+2025-12,R0046,Cruiser Seed Treatment,140
+2025-11,R0046,Cruiser Seed Treatment,59
+2025-10,R0046,Cruiser Seed Treatment,67
+2025-09,R0046,Cruiser Seed Treatment,38
+2025-08,R0046,Cruiser Seed Treatment,31
+2025-07,R0046,Cruiser Seed Treatment,31
+2025-06,R0046,Cruiser Seed Treatment,20
+2026-05,R0047,Callisto Herbicide,42
+2026-04,R0047,Callisto Herbicide,34
+2026-03,R0047,Callisto Herbicide,69
+2026-01,R0047,Callisto Herbicide,84
+2026-01,R0047,Callisto Herbicide,86
+2025-12,R0047,Callisto Herbicide,82
+2025-11,R0047,Callisto Herbicide,66
+2025-10,R0047,Callisto Herbicide,79
+2025-09,R0047,Callisto Herbicide,47
+2025-08,R0047,Callisto Herbicide,41
+2025-07,R0047,Callisto Herbicide,43
+2025-06,R0047,Callisto Herbicide,39
+2026-05,R0047,Force Insecticide,18
+2026-04,R0047,Force Insecticide,46
+2026-03,R0047,Force Insecticide,70
+2026-01,R0047,Force Insecticide,98
+2026-01,R0047,Force Insecticide,56
+2025-12,R0047,Force Insecticide,57
+2025-11,R0047,Force Insecticide,63
+2025-10,R0047,Force Insecticide,61
+2025-09,R0047,Force Insecticide,58
+2025-08,R0047,Force Insecticide,44
+2025-07,R0047,Force Insecticide,32
+2025-06,R0047,Force Insecticide,59
+2026-05,R0047,NK Maize Hybrid Seed,44
+2026-04,R0047,NK Maize Hybrid Seed,55
+2026-03,R0047,NK Maize Hybrid Seed,42
+2026-01,R0047,NK Maize Hybrid Seed,97
+2026-01,R0047,NK Maize Hybrid Seed,75
+2025-12,R0047,NK Maize Hybrid Seed,90
+2025-11,R0047,NK Maize Hybrid Seed,95
+2025-10,R0047,NK Maize Hybrid Seed,118
+2025-09,R0047,NK Maize Hybrid Seed,85
+2025-08,R0047,NK Maize Hybrid Seed,55
+2025-07,R0047,NK Maize Hybrid Seed,58
+2025-06,R0047,NK Maize Hybrid Seed,37
+2026-05,R0048,Amistar Top Fungicide,36
+2026-04,R0048,Amistar Top Fungicide,65
+2026-03,R0048,Amistar Top Fungicide,89
+2026-01,R0048,Amistar Top Fungicide,149
+2026-01,R0048,Amistar Top Fungicide,142
+2025-12,R0048,Amistar Top Fungicide,150
+2025-11,R0048,Amistar Top Fungicide,136
+2025-10,R0048,Amistar Top Fungicide,142
+2025-09,R0048,Amistar Top Fungicide,89
+2025-08,R0048,Amistar Top Fungicide,51
+2025-07,R0048,Amistar Top Fungicide,42
+2025-06,R0048,Amistar Top Fungicide,39
+2026-05,R0048,Karate Zeon Insecticide,55
+2026-04,R0048,Karate Zeon Insecticide,94
+2026-03,R0048,Karate Zeon Insecticide,77
+2026-01,R0048,Karate Zeon Insecticide,130
+2026-01,R0048,Karate Zeon Insecticide,156
+2025-12,R0048,Karate Zeon Insecticide,159
+2025-11,R0048,Karate Zeon Insecticide,110
+2025-10,R0048,Karate Zeon Insecticide,116
+2025-09,R0048,Karate Zeon Insecticide,75
+2025-08,R0048,Karate Zeon Insecticide,71
+2025-07,R0048,Karate Zeon Insecticide,50
+2025-06,R0048,Karate Zeon Insecticide,88
+2026-05,R0048,Cruiser Seed Treatment,59
+2026-04,R0048,Cruiser Seed Treatment,93
+2026-03,R0048,Cruiser Seed Treatment,79
+2026-01,R0048,Cruiser Seed Treatment,121
+2026-01,R0048,Cruiser Seed Treatment,184
+2025-12,R0048,Cruiser Seed Treatment,169
+2025-11,R0048,Cruiser Seed Treatment,130
+2025-10,R0048,Cruiser Seed Treatment,95
+2025-09,R0048,Cruiser Seed Treatment,171
+2025-08,R0048,Cruiser Seed Treatment,63
+2025-07,R0048,Cruiser Seed Treatment,65
+2025-06,R0048,Cruiser Seed Treatment,35
+2026-05,R0049,Tihan Insecticide,8
+2026-04,R0049,Tihan Insecticide,15
+2026-03,R0049,Tihan Insecticide,16
+2026-01,R0049,Tihan Insecticide,29
+2026-01,R0049,Tihan Insecticide,33
+2025-12,R0049,Tihan Insecticide,22
+2025-11,R0049,Tihan Insecticide,23
+2025-10,R0049,Tihan Insecticide,20
+2025-09,R0049,Tihan Insecticide,19
+2025-08,R0049,Tihan Insecticide,20
+2025-07,R0049,Tihan Insecticide,10
+2025-06,R0049,Tihan Insecticide,10
+2026-05,R0049,Polo Insecticide,18
+2026-04,R0049,Polo Insecticide,17
+2026-03,R0049,Polo Insecticide,18
+2026-01,R0049,Polo Insecticide,29
+2026-01,R0049,Polo Insecticide,35
+2025-12,R0049,Polo Insecticide,32
+2025-11,R0049,Polo Insecticide,37
+2025-10,R0049,Polo Insecticide,32
+2025-09,R0049,Polo Insecticide,23
+2025-08,R0049,Polo Insecticide,28
+2025-07,R0049,Polo Insecticide,15
+2025-06,R0049,Polo Insecticide,11
+2026-05,R0049,Cruiser Cotton Seed,16
+2026-04,R0049,Cruiser Cotton Seed,20
+2026-03,R0049,Cruiser Cotton Seed,25
+2026-01,R0049,Cruiser Cotton Seed,34
+2026-01,R0049,Cruiser Cotton Seed,26
+2025-12,R0049,Cruiser Cotton Seed,37
+2025-11,R0049,Cruiser Cotton Seed,34
+2025-10,R0049,Cruiser Cotton Seed,25
+2025-09,R0049,Cruiser Cotton Seed,18
+2025-08,R0049,Cruiser Cotton Seed,21
+2025-07,R0049,Cruiser Cotton Seed,20
+2025-06,R0049,Cruiser Cotton Seed,13
+2026-05,R0050,Tihan Insecticide,80
+2026-04,R0050,Tihan Insecticide,64
+2026-03,R0050,Tihan Insecticide,89
+2026-01,R0050,Tihan Insecticide,150
+2026-01,R0050,Tihan Insecticide,83
+2025-12,R0050,Tihan Insecticide,170
+2025-11,R0050,Tihan Insecticide,128
+2025-10,R0050,Tihan Insecticide,144
+2025-09,R0050,Tihan Insecticide,152
+2025-08,R0050,Tihan Insecticide,86
+2025-07,R0050,Tihan Insecticide,89
+2025-06,R0050,Tihan Insecticide,53
+2026-05,R0050,Polo Insecticide,55
+2026-04,R0050,Polo Insecticide,80
+2026-03,R0050,Polo Insecticide,113
+2026-01,R0050,Polo Insecticide,104
+2026-01,R0050,Polo Insecticide,218
+2025-12,R0050,Polo Insecticide,107
+2025-11,R0050,Polo Insecticide,78
+2025-10,R0050,Polo Insecticide,138
+2025-09,R0050,Polo Insecticide,77
+2025-08,R0050,Polo Insecticide,79
+2025-07,R0050,Polo Insecticide,55
+2025-06,R0050,Polo Insecticide,51
+2026-05,R0050,Cruiser Cotton Seed,88
+2026-04,R0050,Cruiser Cotton Seed,95
+2026-03,R0050,Cruiser Cotton Seed,77
+2026-01,R0050,Cruiser Cotton Seed,156
+2026-01,R0050,Cruiser Cotton Seed,145
+2025-12,R0050,Cruiser Cotton Seed,114
+2025-11,R0050,Cruiser Cotton Seed,128
+2025-10,R0050,Cruiser Cotton Seed,98
+2025-09,R0050,Cruiser Cotton Seed,75
+2025-08,R0050,Cruiser Cotton Seed,60
+2025-07,R0050,Cruiser Cotton Seed,72
+2025-06,R0050,Cruiser Cotton Seed,66
+2026-05,R0051,Amistar Top Fungicide,23
+2026-04,R0051,Amistar Top Fungicide,13
+2026-03,R0051,Amistar Top Fungicide,42
+2026-01,R0051,Amistar Top Fungicide,34
+2026-01,R0051,Amistar Top Fungicide,32
+2025-12,R0051,Amistar Top Fungicide,33
+2025-11,R0051,Amistar Top Fungicide,49
+2025-10,R0051,Amistar Top Fungicide,33
+2025-09,R0051,Amistar Top Fungicide,55
+2025-08,R0051,Amistar Top Fungicide,26
+2025-07,R0051,Amistar Top Fungicide,31
+2025-06,R0051,Amistar Top Fungicide,18
+2026-05,R0051,Karate Zeon Insecticide,14
+2026-04,R0051,Karate Zeon Insecticide,30
+2026-03,R0051,Karate Zeon Insecticide,43
+2026-01,R0051,Karate Zeon Insecticide,43
+2026-01,R0051,Karate Zeon Insecticide,51
+2025-12,R0051,Karate Zeon Insecticide,48
+2025-11,R0051,Karate Zeon Insecticide,30
+2025-10,R0051,Karate Zeon Insecticide,53
+2025-09,R0051,Karate Zeon Insecticide,42
+2025-08,R0051,Karate Zeon Insecticide,38
+2025-07,R0051,Karate Zeon Insecticide,29
+2025-06,R0051,Karate Zeon Insecticide,21
+2026-05,R0051,Cruiser Seed Treatment,18
+2026-04,R0051,Cruiser Seed Treatment,25
+2026-03,R0051,Cruiser Seed Treatment,35
+2026-01,R0051,Cruiser Seed Treatment,57
+2026-01,R0051,Cruiser Seed Treatment,59
+2025-12,R0051,Cruiser Seed Treatment,36
+2025-11,R0051,Cruiser Seed Treatment,31
+2025-10,R0051,Cruiser Seed Treatment,34
+2025-09,R0051,Cruiser Seed Treatment,26
+2025-08,R0051,Cruiser Seed Treatment,18
+2025-07,R0051,Cruiser Seed Treatment,20
+2025-06,R0051,Cruiser Seed Treatment,20
+2026-05,R0052,Amistar Top Fungicide,42
+2026-04,R0052,Amistar Top Fungicide,51
+2026-03,R0052,Amistar Top Fungicide,63
+2026-01,R0052,Amistar Top Fungicide,51
+2026-01,R0052,Amistar Top Fungicide,110
+2025-12,R0052,Amistar Top Fungicide,82
+2025-11,R0052,Amistar Top Fungicide,86
+2025-10,R0052,Amistar Top Fungicide,37
+2025-09,R0052,Amistar Top Fungicide,44
+2025-08,R0052,Amistar Top Fungicide,45
+2025-07,R0052,Amistar Top Fungicide,40
+2025-06,R0052,Amistar Top Fungicide,37
+2026-05,R0052,Karate Zeon Insecticide,23
+2026-04,R0052,Karate Zeon Insecticide,48
+2026-03,R0052,Karate Zeon Insecticide,76
+2026-01,R0052,Karate Zeon Insecticide,60
+2026-01,R0052,Karate Zeon Insecticide,73
+2025-12,R0052,Karate Zeon Insecticide,113
+2025-11,R0052,Karate Zeon Insecticide,95
+2025-10,R0052,Karate Zeon Insecticide,75
+2025-09,R0052,Karate Zeon Insecticide,74
+2025-08,R0052,Karate Zeon Insecticide,43
+2025-07,R0052,Karate Zeon Insecticide,25
+2025-06,R0052,Karate Zeon Insecticide,43
+2026-05,R0052,Cruiser Seed Treatment,38
+2026-04,R0052,Cruiser Seed Treatment,44
+2026-03,R0052,Cruiser Seed Treatment,59
+2026-01,R0052,Cruiser Seed Treatment,70
+2026-01,R0052,Cruiser Seed Treatment,85
+2025-12,R0052,Cruiser Seed Treatment,67
+2025-11,R0052,Cruiser Seed Treatment,57
+2025-10,R0052,Cruiser Seed Treatment,42
+2025-09,R0052,Cruiser Seed Treatment,44
+2025-08,R0052,Cruiser Seed Treatment,44
+2025-07,R0052,Cruiser Seed Treatment,40
+2025-06,R0052,Cruiser Seed Treatment,24
+2026-05,R0053,Tihan Insecticide,31
+2026-04,R0053,Tihan Insecticide,48
+2026-03,R0053,Tihan Insecticide,51
+2026-01,R0053,Tihan Insecticide,103
+2026-01,R0053,Tihan Insecticide,53
+2025-12,R0053,Tihan Insecticide,99
+2025-11,R0053,Tihan Insecticide,96
+2025-10,R0053,Tihan Insecticide,88
+2025-09,R0053,Tihan Insecticide,44
+2025-08,R0053,Tihan Insecticide,34
+2025-07,R0053,Tihan Insecticide,34
+2025-06,R0053,Tihan Insecticide,37
+2026-05,R0053,Polo Insecticide,26
+2026-04,R0053,Polo Insecticide,36
+2026-03,R0053,Polo Insecticide,71
+2026-01,R0053,Polo Insecticide,71
+2026-01,R0053,Polo Insecticide,87
+2025-12,R0053,Polo Insecticide,108
+2025-11,R0053,Polo Insecticide,67
+2025-10,R0053,Polo Insecticide,75
+2025-09,R0053,Polo Insecticide,38
+2025-08,R0053,Polo Insecticide,34
+2025-07,R0053,Polo Insecticide,32
+2025-06,R0053,Polo Insecticide,29
+2026-05,R0053,Cruiser Cotton Seed,37
+2026-04,R0053,Cruiser Cotton Seed,42
+2026-03,R0053,Cruiser Cotton Seed,37
+2026-01,R0053,Cruiser Cotton Seed,72
+2026-01,R0053,Cruiser Cotton Seed,49
+2025-12,R0053,Cruiser Cotton Seed,76
+2025-11,R0053,Cruiser Cotton Seed,67
+2025-10,R0053,Cruiser Cotton Seed,82
+2025-09,R0053,Cruiser Cotton Seed,44
+2025-08,R0053,Cruiser Cotton Seed,51
+2025-07,R0053,Cruiser Cotton Seed,26
+2025-06,R0053,Cruiser Cotton Seed,20
+2026-05,R0054,Tihan Insecticide,40
+2026-04,R0054,Tihan Insecticide,46
+2026-03,R0054,Tihan Insecticide,62
+2026-01,R0054,Tihan Insecticide,86
+2026-01,R0054,Tihan Insecticide,48
+2025-12,R0054,Tihan Insecticide,76
+2025-11,R0054,Tihan Insecticide,117
+2025-10,R0054,Tihan Insecticide,57
+2025-09,R0054,Tihan Insecticide,75
+2025-08,R0054,Tihan Insecticide,65
+2025-07,R0054,Tihan Insecticide,48
+2025-06,R0054,Tihan Insecticide,31
+2026-05,R0054,Polo Insecticide,42
+2026-04,R0054,Polo Insecticide,36
+2026-03,R0054,Polo Insecticide,59
+2026-01,R0054,Polo Insecticide,77
+2026-01,R0054,Polo Insecticide,68
+2025-12,R0054,Polo Insecticide,79
+2025-11,R0054,Polo Insecticide,76
+2025-10,R0054,Polo Insecticide,91
+2025-09,R0054,Polo Insecticide,55
+2025-08,R0054,Polo Insecticide,66
+2025-07,R0054,Polo Insecticide,26
+2025-06,R0054,Polo Insecticide,38
+2026-05,R0054,Cruiser Cotton Seed,31
+2026-04,R0054,Cruiser Cotton Seed,45
+2026-03,R0054,Cruiser Cotton Seed,62
+2026-01,R0054,Cruiser Cotton Seed,104
+2026-01,R0054,Cruiser Cotton Seed,89
+2025-12,R0054,Cruiser Cotton Seed,69
+2025-11,R0054,Cruiser Cotton Seed,67
+2025-10,R0054,Cruiser Cotton Seed,78
+2025-09,R0054,Cruiser Cotton Seed,80
+2025-08,R0054,Cruiser Cotton Seed,33
+2025-07,R0054,Cruiser Cotton Seed,46
+2025-06,R0054,Cruiser Cotton Seed,36
+2026-05,R0055,Tihan Insecticide,25
+2026-04,R0055,Tihan Insecticide,33
+2026-03,R0055,Tihan Insecticide,63
+2026-01,R0055,Tihan Insecticide,33
+2026-01,R0055,Tihan Insecticide,53
+2025-12,R0055,Tihan Insecticide,46
+2025-11,R0055,Tihan Insecticide,40
+2025-10,R0055,Tihan Insecticide,51
+2025-09,R0055,Tihan Insecticide,41
+2025-08,R0055,Tihan Insecticide,28
+2025-07,R0055,Tihan Insecticide,30
+2025-06,R0055,Tihan Insecticide,25
+2026-05,R0055,Polo Insecticide,30
+2026-04,R0055,Polo Insecticide,16
+2026-03,R0055,Polo Insecticide,34
+2026-01,R0055,Polo Insecticide,46
+2026-01,R0055,Polo Insecticide,46
+2025-12,R0055,Polo Insecticide,50
+2025-11,R0055,Polo Insecticide,65
+2025-10,R0055,Polo Insecticide,55
+2025-09,R0055,Polo Insecticide,32
+2025-08,R0055,Polo Insecticide,23
+2025-07,R0055,Polo Insecticide,11
+2025-06,R0055,Polo Insecticide,18
+2026-05,R0055,Cruiser Cotton Seed,15
+2026-04,R0055,Cruiser Cotton Seed,39
+2026-03,R0055,Cruiser Cotton Seed,26
+2026-01,R0055,Cruiser Cotton Seed,46
+2026-01,R0055,Cruiser Cotton Seed,44
+2025-12,R0055,Cruiser Cotton Seed,49
+2025-11,R0055,Cruiser Cotton Seed,50
+2025-10,R0055,Cruiser Cotton Seed,40
+2025-09,R0055,Cruiser Cotton Seed,42
+2025-08,R0055,Cruiser Cotton Seed,27
+2025-07,R0055,Cruiser Cotton Seed,33
+2025-06,R0055,Cruiser Cotton Seed,21
+2026-05,R0056,Amistar Top Fungicide,18
+2026-04,R0056,Amistar Top Fungicide,31
+2026-03,R0056,Amistar Top Fungicide,46
+2026-01,R0056,Amistar Top Fungicide,44
+2026-01,R0056,Amistar Top Fungicide,28
+2025-12,R0056,Amistar Top Fungicide,47
+2025-11,R0056,Amistar Top Fungicide,62
+2025-10,R0056,Amistar Top Fungicide,64
+2025-09,R0056,Amistar Top Fungicide,48
+2025-08,R0056,Amistar Top Fungicide,30
+2025-07,R0056,Amistar Top Fungicide,20
+2025-06,R0056,Amistar Top Fungicide,15
+2026-05,R0056,Karate Zeon Insecticide,19
+2026-04,R0056,Karate Zeon Insecticide,36
+2026-03,R0056,Karate Zeon Insecticide,32
+2026-01,R0056,Karate Zeon Insecticide,65
+2026-01,R0056,Karate Zeon Insecticide,53
+2025-12,R0056,Karate Zeon Insecticide,66
+2025-11,R0056,Karate Zeon Insecticide,55
+2025-10,R0056,Karate Zeon Insecticide,50
+2025-09,R0056,Karate Zeon Insecticide,42
+2025-08,R0056,Karate Zeon Insecticide,19
+2025-07,R0056,Karate Zeon Insecticide,20
+2025-06,R0056,Karate Zeon Insecticide,18
+2026-05,R0056,Cruiser Seed Treatment,25
+2026-04,R0056,Cruiser Seed Treatment,30
+2026-03,R0056,Cruiser Seed Treatment,28
+2026-01,R0056,Cruiser Seed Treatment,65
+2026-01,R0056,Cruiser Seed Treatment,50
+2025-12,R0056,Cruiser Seed Treatment,64
+2025-11,R0056,Cruiser Seed Treatment,36
+2025-10,R0056,Cruiser Seed Treatment,37
+2025-09,R0056,Cruiser Seed Treatment,27
+2025-08,R0056,Cruiser Seed Treatment,21
+2025-07,R0056,Cruiser Seed Treatment,25
+2025-06,R0056,Cruiser Seed Treatment,24
+2026-05,R0057,Amistar Top Fungicide,29
+2026-04,R0057,Amistar Top Fungicide,27
+2026-03,R0057,Amistar Top Fungicide,28
+2026-01,R0057,Amistar Top Fungicide,49
+2026-01,R0057,Amistar Top Fungicide,39
+2025-12,R0057,Amistar Top Fungicide,35
+2025-11,R0057,Amistar Top Fungicide,45
+2025-10,R0057,Amistar Top Fungicide,24
+2025-09,R0057,Amistar Top Fungicide,30
+2025-08,R0057,Amistar Top Fungicide,26
+2025-07,R0057,Amistar Top Fungicide,24
+2025-06,R0057,Amistar Top Fungicide,15
+2026-05,R0057,Karate Zeon Insecticide,17
+2026-04,R0057,Karate Zeon Insecticide,25
+2026-03,R0057,Karate Zeon Insecticide,29
+2026-01,R0057,Karate Zeon Insecticide,53
+2026-01,R0057,Karate Zeon Insecticide,50
+2025-12,R0057,Karate Zeon Insecticide,54
+2025-11,R0057,Karate Zeon Insecticide,45
+2025-10,R0057,Karate Zeon Insecticide,38
+2025-09,R0057,Karate Zeon Insecticide,24
+2025-08,R0057,Karate Zeon Insecticide,47
+2025-07,R0057,Karate Zeon Insecticide,20
+2025-06,R0057,Karate Zeon Insecticide,22
+2026-05,R0057,Cruiser Seed Treatment,24
+2026-04,R0057,Cruiser Seed Treatment,32
+2026-03,R0057,Cruiser Seed Treatment,27
+2026-01,R0057,Cruiser Seed Treatment,29
+2026-01,R0057,Cruiser Seed Treatment,38
+2025-12,R0057,Cruiser Seed Treatment,60
+2025-11,R0057,Cruiser Seed Treatment,38
+2025-10,R0057,Cruiser Seed Treatment,30
+2025-09,R0057,Cruiser Seed Treatment,45
+2025-08,R0057,Cruiser Seed Treatment,40
+2025-07,R0057,Cruiser Seed Treatment,14
+2025-06,R0057,Cruiser Seed Treatment,23
+2026-05,R0058,Tihan Insecticide,25
+2026-04,R0058,Tihan Insecticide,49
+2026-03,R0058,Tihan Insecticide,50
+2026-01,R0058,Tihan Insecticide,63
+2026-01,R0058,Tihan Insecticide,75
+2025-12,R0058,Tihan Insecticide,42
+2025-11,R0058,Tihan Insecticide,34
+2025-10,R0058,Tihan Insecticide,43
+2025-09,R0058,Tihan Insecticide,60
+2025-08,R0058,Tihan Insecticide,32
+2025-07,R0058,Tihan Insecticide,24
+2025-06,R0058,Tihan Insecticide,42
+2026-05,R0058,Polo Insecticide,32
+2026-04,R0058,Polo Insecticide,32
+2026-03,R0058,Polo Insecticide,60
+2026-01,R0058,Polo Insecticide,84
+2026-01,R0058,Polo Insecticide,41
+2025-12,R0058,Polo Insecticide,69
+2025-11,R0058,Polo Insecticide,58
+2025-10,R0058,Polo Insecticide,83
+2025-09,R0058,Polo Insecticide,42
+2025-08,R0058,Polo Insecticide,36
+2025-07,R0058,Polo Insecticide,29
+2025-06,R0058,Polo Insecticide,28
+2026-05,R0058,Cruiser Cotton Seed,27
+2026-04,R0058,Cruiser Cotton Seed,39
+2026-03,R0058,Cruiser Cotton Seed,56
+2026-01,R0058,Cruiser Cotton Seed,44
+2026-01,R0058,Cruiser Cotton Seed,64
+2025-12,R0058,Cruiser Cotton Seed,45
+2025-11,R0058,Cruiser Cotton Seed,71
+2025-10,R0058,Cruiser Cotton Seed,52
+2025-09,R0058,Cruiser Cotton Seed,64
+2025-08,R0058,Cruiser Cotton Seed,23
+2025-07,R0058,Cruiser Cotton Seed,23
+2025-06,R0058,Cruiser Cotton Seed,30
+2026-05,R0059,Tihan Insecticide,23
+2026-04,R0059,Tihan Insecticide,32
+2026-03,R0059,Tihan Insecticide,63
+2026-01,R0059,Tihan Insecticide,25
+2026-01,R0059,Tihan Insecticide,54
+2025-12,R0059,Tihan Insecticide,40
+2025-11,R0059,Tihan Insecticide,64
+2025-10,R0059,Tihan Insecticide,41
+2025-09,R0059,Tihan Insecticide,49
+2025-08,R0059,Tihan Insecticide,35
+2025-07,R0059,Tihan Insecticide,25
+2025-06,R0059,Tihan Insecticide,23
+2026-05,R0059,Polo Insecticide,16
+2026-04,R0059,Polo Insecticide,37
+2026-03,R0059,Polo Insecticide,40
+2026-01,R0059,Polo Insecticide,49
+2026-01,R0059,Polo Insecticide,50
+2025-12,R0059,Polo Insecticide,55
+2025-11,R0059,Polo Insecticide,49
+2025-10,R0059,Polo Insecticide,52
+2025-09,R0059,Polo Insecticide,41
+2025-08,R0059,Polo Insecticide,26
+2025-07,R0059,Polo Insecticide,20
+2025-06,R0059,Polo Insecticide,31
+2026-05,R0059,Cruiser Cotton Seed,38
+2026-04,R0059,Cruiser Cotton Seed,27
+2026-03,R0059,Cruiser Cotton Seed,43
+2026-01,R0059,Cruiser Cotton Seed,37
+2026-01,R0059,Cruiser Cotton Seed,36
+2025-12,R0059,Cruiser Cotton Seed,47
+2025-11,R0059,Cruiser Cotton Seed,59
+2025-10,R0059,Cruiser Cotton Seed,62
+2025-09,R0059,Cruiser Cotton Seed,41
+2025-08,R0059,Cruiser Cotton Seed,27
+2025-07,R0059,Cruiser Cotton Seed,19
+2025-06,R0059,Cruiser Cotton Seed,19
+2026-05,R0060,Tihan Insecticide,9
+2026-04,R0060,Tihan Insecticide,12
+2026-03,R0060,Tihan Insecticide,19
+2026-01,R0060,Tihan Insecticide,19
+2026-01,R0060,Tihan Insecticide,20
+2025-12,R0060,Tihan Insecticide,24
+2025-11,R0060,Tihan Insecticide,19
+2025-10,R0060,Tihan Insecticide,17
+2025-09,R0060,Tihan Insecticide,13
+2025-08,R0060,Tihan Insecticide,11
+2025-07,R0060,Tihan Insecticide,9
+2025-06,R0060,Tihan Insecticide,12
+2026-05,R0060,Polo Insecticide,8
+2026-04,R0060,Polo Insecticide,24
+2026-03,R0060,Polo Insecticide,20
+2026-01,R0060,Polo Insecticide,20
+2026-01,R0060,Polo Insecticide,16
+2025-12,R0060,Polo Insecticide,19
+2025-11,R0060,Polo Insecticide,18
+2025-10,R0060,Polo Insecticide,28
+2025-09,R0060,Polo Insecticide,10
+2025-08,R0060,Polo Insecticide,13
+2025-07,R0060,Polo Insecticide,14
+2025-06,R0060,Polo Insecticide,9
+2026-05,R0060,Cruiser Cotton Seed,7
+2026-04,R0060,Cruiser Cotton Seed,9
+2026-03,R0060,Cruiser Cotton Seed,18
+2026-01,R0060,Cruiser Cotton Seed,17
+2026-01,R0060,Cruiser Cotton Seed,19
+2025-12,R0060,Cruiser Cotton Seed,29
+2025-11,R0060,Cruiser Cotton Seed,24
+2025-10,R0060,Cruiser Cotton Seed,18
+2025-09,R0060,Cruiser Cotton Seed,13
+2025-08,R0060,Cruiser Cotton Seed,10
+2025-07,R0060,Cruiser Cotton Seed,7
+2025-06,R0060,Cruiser Cotton Seed,10
+2026-05,R0061,Tihan Insecticide,32
+2026-04,R0061,Tihan Insecticide,40
+2026-03,R0061,Tihan Insecticide,45
+2026-01,R0061,Tihan Insecticide,72
+2026-01,R0061,Tihan Insecticide,40
+2025-12,R0061,Tihan Insecticide,76
+2025-11,R0061,Tihan Insecticide,71
+2025-10,R0061,Tihan Insecticide,63
+2025-09,R0061,Tihan Insecticide,39
+2025-08,R0061,Tihan Insecticide,51
+2025-07,R0061,Tihan Insecticide,25
+2025-06,R0061,Tihan Insecticide,21
+2026-05,R0061,Polo Insecticide,31
+2026-04,R0061,Polo Insecticide,33
+2026-03,R0061,Polo Insecticide,49
+2026-01,R0061,Polo Insecticide,60
+2026-01,R0061,Polo Insecticide,59
+2025-12,R0061,Polo Insecticide,83
+2025-11,R0061,Polo Insecticide,100
+2025-10,R0061,Polo Insecticide,70
+2025-09,R0061,Polo Insecticide,61
+2025-08,R0061,Polo Insecticide,28
+2025-07,R0061,Polo Insecticide,42
+2025-06,R0061,Polo Insecticide,21
+2026-05,R0061,Cruiser Cotton Seed,35
+2026-04,R0061,Cruiser Cotton Seed,25
+2026-03,R0061,Cruiser Cotton Seed,45
+2026-01,R0061,Cruiser Cotton Seed,65
+2026-01,R0061,Cruiser Cotton Seed,63
+2025-12,R0061,Cruiser Cotton Seed,125
+2025-11,R0061,Cruiser Cotton Seed,70
+2025-10,R0061,Cruiser Cotton Seed,51
+2025-09,R0061,Cruiser Cotton Seed,53
+2025-08,R0061,Cruiser Cotton Seed,38
+2025-07,R0061,Cruiser Cotton Seed,51
+2025-06,R0061,Cruiser Cotton Seed,21
+2026-05,R0062,Tihan Insecticide,46
+2026-04,R0062,Tihan Insecticide,62
+2026-03,R0062,Tihan Insecticide,77
+2026-01,R0062,Tihan Insecticide,79
+2026-01,R0062,Tihan Insecticide,151
+2025-12,R0062,Tihan Insecticide,127
+2025-11,R0062,Tihan Insecticide,118
+2025-10,R0062,Tihan Insecticide,99
+2025-09,R0062,Tihan Insecticide,88
+2025-08,R0062,Tihan Insecticide,96
+2025-07,R0062,Tihan Insecticide,35
+2025-06,R0062,Tihan Insecticide,43
+2026-05,R0062,Polo Insecticide,57
+2026-04,R0062,Polo Insecticide,70
+2026-03,R0062,Polo Insecticide,121
+2026-01,R0062,Polo Insecticide,90
+2026-01,R0062,Polo Insecticide,90
+2025-12,R0062,Polo Insecticide,90
+2025-11,R0062,Polo Insecticide,113
+2025-10,R0062,Polo Insecticide,135
+2025-09,R0062,Polo Insecticide,75
+2025-08,R0062,Polo Insecticide,48
+2025-07,R0062,Polo Insecticide,54
+2025-06,R0062,Polo Insecticide,35
+2026-05,R0062,Cruiser Cotton Seed,51
+2026-04,R0062,Cruiser Cotton Seed,67
+2026-03,R0062,Cruiser Cotton Seed,77
+2026-01,R0062,Cruiser Cotton Seed,88
+2026-01,R0062,Cruiser Cotton Seed,127
+2025-12,R0062,Cruiser Cotton Seed,83
+2025-11,R0062,Cruiser Cotton Seed,203
+2025-10,R0062,Cruiser Cotton Seed,133
+2025-09,R0062,Cruiser Cotton Seed,84
+2025-08,R0062,Cruiser Cotton Seed,85
+2025-07,R0062,Cruiser Cotton Seed,65
+2025-06,R0062,Cruiser Cotton Seed,85
+2026-05,R0063,Amistar Top Fungicide,29
+2026-04,R0063,Amistar Top Fungicide,35
+2026-03,R0063,Amistar Top Fungicide,52
+2026-01,R0063,Amistar Top Fungicide,94
+2026-01,R0063,Amistar Top Fungicide,55
+2025-12,R0063,Amistar Top Fungicide,61
+2025-11,R0063,Amistar Top Fungicide,51
+2025-10,R0063,Amistar Top Fungicide,72
+2025-09,R0063,Amistar Top Fungicide,54
+2025-08,R0063,Amistar Top Fungicide,29
+2025-07,R0063,Amistar Top Fungicide,33
+2025-06,R0063,Amistar Top Fungicide,31
+2026-05,R0063,Karate Zeon Insecticide,39
+2026-04,R0063,Karate Zeon Insecticide,27
+2026-03,R0063,Karate Zeon Insecticide,39
+2026-01,R0063,Karate Zeon Insecticide,66
+2026-01,R0063,Karate Zeon Insecticide,93
+2025-12,R0063,Karate Zeon Insecticide,52
+2025-11,R0063,Karate Zeon Insecticide,88
+2025-10,R0063,Karate Zeon Insecticide,64
+2025-09,R0063,Karate Zeon Insecticide,54
+2025-08,R0063,Karate Zeon Insecticide,48
+2025-07,R0063,Karate Zeon Insecticide,35
+2025-06,R0063,Karate Zeon Insecticide,32
+2026-05,R0063,Cruiser Seed Treatment,38
+2026-04,R0063,Cruiser Seed Treatment,40
+2026-03,R0063,Cruiser Seed Treatment,39
+2026-01,R0063,Cruiser Seed Treatment,43
+2026-01,R0063,Cruiser Seed Treatment,47
+2025-12,R0063,Cruiser Seed Treatment,80
+2025-11,R0063,Cruiser Seed Treatment,72
+2025-10,R0063,Cruiser Seed Treatment,63
+2025-09,R0063,Cruiser Seed Treatment,45
+2025-08,R0063,Cruiser Seed Treatment,44
+2025-07,R0063,Cruiser Seed Treatment,28
+2025-06,R0063,Cruiser Seed Treatment,27
+2026-05,R0064,Amistar Top Fungicide,17
+2026-04,R0064,Amistar Top Fungicide,16
+2026-03,R0064,Amistar Top Fungicide,17
+2026-01,R0064,Amistar Top Fungicide,29
+2026-01,R0064,Amistar Top Fungicide,20
+2025-12,R0064,Amistar Top Fungicide,38
+2025-11,R0064,Amistar Top Fungicide,18
+2025-10,R0064,Amistar Top Fungicide,31
+2025-09,R0064,Amistar Top Fungicide,15
+2025-08,R0064,Amistar Top Fungicide,14
+2025-07,R0064,Amistar Top Fungicide,16
+2025-06,R0064,Amistar Top Fungicide,13
+2026-05,R0064,Karate Zeon Insecticide,14
+2026-04,R0064,Karate Zeon Insecticide,24
+2026-03,R0064,Karate Zeon Insecticide,27
+2026-01,R0064,Karate Zeon Insecticide,34
+2026-01,R0064,Karate Zeon Insecticide,46
+2025-12,R0064,Karate Zeon Insecticide,34
+2025-11,R0064,Karate Zeon Insecticide,31
+2025-10,R0064,Karate Zeon Insecticide,35
+2025-09,R0064,Karate Zeon Insecticide,15
+2025-08,R0064,Karate Zeon Insecticide,18
+2025-07,R0064,Karate Zeon Insecticide,14
+2025-06,R0064,Karate Zeon Insecticide,10
+2026-05,R0064,Cruiser Seed Treatment,14
+2026-04,R0064,Cruiser Seed Treatment,21
+2026-03,R0064,Cruiser Seed Treatment,13
+2026-01,R0064,Cruiser Seed Treatment,24
+2026-01,R0064,Cruiser Seed Treatment,32
+2025-12,R0064,Cruiser Seed Treatment,46
+2025-11,R0064,Cruiser Seed Treatment,33
+2025-10,R0064,Cruiser Seed Treatment,20
+2025-09,R0064,Cruiser Seed Treatment,20
+2025-08,R0064,Cruiser Seed Treatment,19
+2025-07,R0064,Cruiser Seed Treatment,18
+2025-06,R0064,Cruiser Seed Treatment,13
+2026-05,R0065,Amistar Top Fungicide,10
+2026-04,R0065,Amistar Top Fungicide,18
+2026-03,R0065,Amistar Top Fungicide,16
+2026-01,R0065,Amistar Top Fungicide,27
+2026-01,R0065,Amistar Top Fungicide,36
+2025-12,R0065,Amistar Top Fungicide,17
+2025-11,R0065,Amistar Top Fungicide,26
+2025-10,R0065,Amistar Top Fungicide,16
+2025-09,R0065,Amistar Top Fungicide,15
+2025-08,R0065,Amistar Top Fungicide,10
+2025-07,R0065,Amistar Top Fungicide,11
+2025-06,R0065,Amistar Top Fungicide,8
+2026-05,R0065,Karate Zeon Insecticide,10
+2026-04,R0065,Karate Zeon Insecticide,11
+2026-03,R0065,Karate Zeon Insecticide,24
+2026-01,R0065,Karate Zeon Insecticide,14
+2026-01,R0065,Karate Zeon Insecticide,25
+2025-12,R0065,Karate Zeon Insecticide,29
+2025-11,R0065,Karate Zeon Insecticide,22
+2025-10,R0065,Karate Zeon Insecticide,16
+2025-09,R0065,Karate Zeon Insecticide,15
+2025-08,R0065,Karate Zeon Insecticide,11
+2025-07,R0065,Karate Zeon Insecticide,18
+2025-06,R0065,Karate Zeon Insecticide,9
+2026-05,R0065,Cruiser Seed Treatment,14
+2026-04,R0065,Cruiser Seed Treatment,12
+2026-03,R0065,Cruiser Seed Treatment,14
+2026-01,R0065,Cruiser Seed Treatment,21
+2026-01,R0065,Cruiser Seed Treatment,25
+2025-12,R0065,Cruiser Seed Treatment,19
+2025-11,R0065,Cruiser Seed Treatment,23
+2025-10,R0065,Cruiser Seed Treatment,15
+2025-09,R0065,Cruiser Seed Treatment,19
+2025-08,R0065,Cruiser Seed Treatment,7
+2025-07,R0065,Cruiser Seed Treatment,8
+2025-06,R0065,Cruiser Seed Treatment,10
+2026-05,R0066,Tihan Insecticide,28
+2026-04,R0066,Tihan Insecticide,37
+2026-03,R0066,Tihan Insecticide,68
+2026-01,R0066,Tihan Insecticide,62
+2026-01,R0066,Tihan Insecticide,70
+2025-12,R0066,Tihan Insecticide,46
+2025-11,R0066,Tihan Insecticide,58
+2025-10,R0066,Tihan Insecticide,64
+2025-09,R0066,Tihan Insecticide,44
+2025-08,R0066,Tihan Insecticide,52
+2025-07,R0066,Tihan Insecticide,32
+2025-06,R0066,Tihan Insecticide,36
+2026-05,R0066,Polo Insecticide,39
+2026-04,R0066,Polo Insecticide,36
+2026-03,R0066,Polo Insecticide,54
+2026-01,R0066,Polo Insecticide,58
+2026-01,R0066,Polo Insecticide,57
+2025-12,R0066,Polo Insecticide,72
+2025-11,R0066,Polo Insecticide,74
+2025-10,R0066,Polo Insecticide,56
+2025-09,R0066,Polo Insecticide,58
+2025-08,R0066,Polo Insecticide,45
+2025-07,R0066,Polo Insecticide,36
+2025-06,R0066,Polo Insecticide,26
+2026-05,R0066,Cruiser Cotton Seed,29
+2026-04,R0066,Cruiser Cotton Seed,36
+2026-03,R0066,Cruiser Cotton Seed,74
+2026-01,R0066,Cruiser Cotton Seed,96
+2026-01,R0066,Cruiser Cotton Seed,82
+2025-12,R0066,Cruiser Cotton Seed,102
+2025-11,R0066,Cruiser Cotton Seed,77
+2025-10,R0066,Cruiser Cotton Seed,64
+2025-09,R0066,Cruiser Cotton Seed,65
+2025-08,R0066,Cruiser Cotton Seed,55
+2025-07,R0066,Cruiser Cotton Seed,27
+2025-06,R0066,Cruiser Cotton Seed,29
+2026-05,R0067,Callisto Herbicide,59
+2026-04,R0067,Callisto Herbicide,69
+2026-03,R0067,Callisto Herbicide,98
+2026-01,R0067,Callisto Herbicide,155
+2026-01,R0067,Callisto Herbicide,94
+2025-12,R0067,Callisto Herbicide,152
+2025-11,R0067,Callisto Herbicide,92
+2025-10,R0067,Callisto Herbicide,130
+2025-09,R0067,Callisto Herbicide,102
+2025-08,R0067,Callisto Herbicide,64
+2025-07,R0067,Callisto Herbicide,59
+2025-06,R0067,Callisto Herbicide,69
+2026-05,R0067,Force Insecticide,62
+2026-04,R0067,Force Insecticide,94
+2026-03,R0067,Force Insecticide,99
+2026-01,R0067,Force Insecticide,97
+2026-01,R0067,Force Insecticide,118
+2025-12,R0067,Force Insecticide,117
+2025-11,R0067,Force Insecticide,128
+2025-10,R0067,Force Insecticide,106
+2025-09,R0067,Force Insecticide,121
+2025-08,R0067,Force Insecticide,109
+2025-07,R0067,Force Insecticide,52
+2025-06,R0067,Force Insecticide,62
+2026-05,R0067,NK Maize Hybrid Seed,63
+2026-04,R0067,NK Maize Hybrid Seed,59
+2026-03,R0067,NK Maize Hybrid Seed,101
+2026-01,R0067,NK Maize Hybrid Seed,127
+2026-01,R0067,NK Maize Hybrid Seed,181
+2025-12,R0067,NK Maize Hybrid Seed,92
+2025-11,R0067,NK Maize Hybrid Seed,122
+2025-10,R0067,NK Maize Hybrid Seed,117
+2025-09,R0067,NK Maize Hybrid Seed,135
+2025-08,R0067,NK Maize Hybrid Seed,54
+2025-07,R0067,NK Maize Hybrid Seed,75
+2025-06,R0067,NK Maize Hybrid Seed,53
+2026-05,R0068,Amistar Top Fungicide,77
+2026-04,R0068,Amistar Top Fungicide,77
+2026-03,R0068,Amistar Top Fungicide,50
+2026-01,R0068,Amistar Top Fungicide,73
+2026-01,R0068,Amistar Top Fungicide,100
+2025-12,R0068,Amistar Top Fungicide,138
+2025-11,R0068,Amistar Top Fungicide,87
+2025-10,R0068,Amistar Top Fungicide,101
+2025-09,R0068,Amistar Top Fungicide,80
+2025-08,R0068,Amistar Top Fungicide,26
+2025-07,R0068,Amistar Top Fungicide,61
+2025-06,R0068,Amistar Top Fungicide,46
+2026-05,R0068,Karate Zeon Insecticide,42
+2026-04,R0068,Karate Zeon Insecticide,54
+2026-03,R0068,Karate Zeon Insecticide,76
+2026-01,R0068,Karate Zeon Insecticide,69
+2026-01,R0068,Karate Zeon Insecticide,97
+2025-12,R0068,Karate Zeon Insecticide,175
+2025-11,R0068,Karate Zeon Insecticide,128
+2025-10,R0068,Karate Zeon Insecticide,81
+2025-09,R0068,Karate Zeon Insecticide,122
+2025-08,R0068,Karate Zeon Insecticide,67
+2025-07,R0068,Karate Zeon Insecticide,37
+2025-06,R0068,Karate Zeon Insecticide,41
+2026-05,R0068,Cruiser Seed Treatment,50
+2026-04,R0068,Cruiser Seed Treatment,52
+2026-03,R0068,Cruiser Seed Treatment,67
+2026-01,R0068,Cruiser Seed Treatment,86
+2026-01,R0068,Cruiser Seed Treatment,61
+2025-12,R0068,Cruiser Seed Treatment,116
+2025-11,R0068,Cruiser Seed Treatment,103
+2025-10,R0068,Cruiser Seed Treatment,109
+2025-09,R0068,Cruiser Seed Treatment,57
+2025-08,R0068,Cruiser Seed Treatment,51
+2025-07,R0068,Cruiser Seed Treatment,54
+2025-06,R0068,Cruiser Seed Treatment,44
+2026-05,R0069,Tihan Insecticide,26
+2026-04,R0069,Tihan Insecticide,39
+2026-03,R0069,Tihan Insecticide,33
+2026-01,R0069,Tihan Insecticide,93
+2026-01,R0069,Tihan Insecticide,53
+2025-12,R0069,Tihan Insecticide,47
+2025-11,R0069,Tihan Insecticide,45
+2025-10,R0069,Tihan Insecticide,50
+2025-09,R0069,Tihan Insecticide,42
+2025-08,R0069,Tihan Insecticide,47
+2025-07,R0069,Tihan Insecticide,35
+2025-06,R0069,Tihan Insecticide,42
+2026-05,R0069,Polo Insecticide,26
+2026-04,R0069,Polo Insecticide,25
+2026-03,R0069,Polo Insecticide,51
+2026-01,R0069,Polo Insecticide,53
+2026-01,R0069,Polo Insecticide,58
+2025-12,R0069,Polo Insecticide,36
+2025-11,R0069,Polo Insecticide,85
+2025-10,R0069,Polo Insecticide,50
+2025-09,R0069,Polo Insecticide,44
+2025-08,R0069,Polo Insecticide,32
+2025-07,R0069,Polo Insecticide,41
+2025-06,R0069,Polo Insecticide,20
+2026-05,R0069,Cruiser Cotton Seed,23
+2026-04,R0069,Cruiser Cotton Seed,25
+2026-03,R0069,Cruiser Cotton Seed,47
+2026-01,R0069,Cruiser Cotton Seed,66
+2026-01,R0069,Cruiser Cotton Seed,77
+2025-12,R0069,Cruiser Cotton Seed,43
+2025-11,R0069,Cruiser Cotton Seed,33
+2025-10,R0069,Cruiser Cotton Seed,68
+2025-09,R0069,Cruiser Cotton Seed,48
+2025-08,R0069,Cruiser Cotton Seed,28
+2025-07,R0069,Cruiser Cotton Seed,30
+2025-06,R0069,Cruiser Cotton Seed,24
+2026-05,R0070,Tihan Insecticide,13
+2026-04,R0070,Tihan Insecticide,26
+2026-03,R0070,Tihan Insecticide,22
+2026-01,R0070,Tihan Insecticide,63
+2026-01,R0070,Tihan Insecticide,46
+2025-12,R0070,Tihan Insecticide,42
+2025-11,R0070,Tihan Insecticide,44
+2025-10,R0070,Tihan Insecticide,32
+2025-09,R0070,Tihan Insecticide,24
+2025-08,R0070,Tihan Insecticide,23
+2025-07,R0070,Tihan Insecticide,22
+2025-06,R0070,Tihan Insecticide,24
+2026-05,R0070,Polo Insecticide,20
+2026-04,R0070,Polo Insecticide,21
+2026-03,R0070,Polo Insecticide,21
+2026-01,R0070,Polo Insecticide,32
+2026-01,R0070,Polo Insecticide,69
+2025-12,R0070,Polo Insecticide,33
+2025-11,R0070,Polo Insecticide,42
+2025-10,R0070,Polo Insecticide,36
+2025-09,R0070,Polo Insecticide,39
+2025-08,R0070,Polo Insecticide,26
+2025-07,R0070,Polo Insecticide,22
+2025-06,R0070,Polo Insecticide,12
+2026-05,R0070,Cruiser Cotton Seed,19
+2026-04,R0070,Cruiser Cotton Seed,26
+2026-03,R0070,Cruiser Cotton Seed,26
+2026-01,R0070,Cruiser Cotton Seed,29
+2026-01,R0070,Cruiser Cotton Seed,35
+2025-12,R0070,Cruiser Cotton Seed,36
+2025-11,R0070,Cruiser Cotton Seed,41
+2025-10,R0070,Cruiser Cotton Seed,53
+2025-09,R0070,Cruiser Cotton Seed,38
+2025-08,R0070,Cruiser Cotton Seed,30
+2025-07,R0070,Cruiser Cotton Seed,23
+2025-06,R0070,Cruiser Cotton Seed,13
+2026-05,R0071,Callisto Herbicide,45
+2026-04,R0071,Callisto Herbicide,60
+2026-03,R0071,Callisto Herbicide,57
+2026-01,R0071,Callisto Herbicide,122
+2026-01,R0071,Callisto Herbicide,106
+2025-12,R0071,Callisto Herbicide,73
+2025-11,R0071,Callisto Herbicide,90
+2025-10,R0071,Callisto Herbicide,71
+2025-09,R0071,Callisto Herbicide,40
+2025-08,R0071,Callisto Herbicide,47
+2025-07,R0071,Callisto Herbicide,33
+2025-06,R0071,Callisto Herbicide,31
+2026-05,R0071,Force Insecticide,25
+2026-04,R0071,Force Insecticide,56
+2026-03,R0071,Force Insecticide,49
+2026-01,R0071,Force Insecticide,104
+2026-01,R0071,Force Insecticide,71
+2025-12,R0071,Force Insecticide,110
+2025-11,R0071,Force Insecticide,51
+2025-10,R0071,Force Insecticide,88
+2025-09,R0071,Force Insecticide,51
+2025-08,R0071,Force Insecticide,45
+2025-07,R0071,Force Insecticide,38
+2025-06,R0071,Force Insecticide,35
+2026-05,R0071,NK Maize Hybrid Seed,44
+2026-04,R0071,NK Maize Hybrid Seed,51
+2026-03,R0071,NK Maize Hybrid Seed,65
+2026-01,R0071,NK Maize Hybrid Seed,66
+2026-01,R0071,NK Maize Hybrid Seed,55
+2025-12,R0071,NK Maize Hybrid Seed,76
+2025-11,R0071,NK Maize Hybrid Seed,52
+2025-10,R0071,NK Maize Hybrid Seed,92
+2025-09,R0071,NK Maize Hybrid Seed,45
+2025-08,R0071,NK Maize Hybrid Seed,67
+2025-07,R0071,NK Maize Hybrid Seed,36
+2025-06,R0071,NK Maize Hybrid Seed,37
+2026-05,R0072,Tihan Insecticide,20
+2026-04,R0072,Tihan Insecticide,31
+2026-03,R0072,Tihan Insecticide,45
+2026-01,R0072,Tihan Insecticide,43
+2026-01,R0072,Tihan Insecticide,60
+2025-12,R0072,Tihan Insecticide,48
+2025-11,R0072,Tihan Insecticide,51
+2025-10,R0072,Tihan Insecticide,47
+2025-09,R0072,Tihan Insecticide,43
+2025-08,R0072,Tihan Insecticide,24
+2025-07,R0072,Tihan Insecticide,20
+2025-06,R0072,Tihan Insecticide,16
+2026-05,R0072,Polo Insecticide,23
+2026-04,R0072,Polo Insecticide,24
+2026-03,R0072,Polo Insecticide,34
+2026-01,R0072,Polo Insecticide,46
+2026-01,R0072,Polo Insecticide,63
+2025-12,R0072,Polo Insecticide,59
+2025-11,R0072,Polo Insecticide,41
+2025-10,R0072,Polo Insecticide,42
+2025-09,R0072,Polo Insecticide,39
+2025-08,R0072,Polo Insecticide,42
+2025-07,R0072,Polo Insecticide,25
+2025-06,R0072,Polo Insecticide,20
+2026-05,R0072,Cruiser Cotton Seed,28
+2026-04,R0072,Cruiser Cotton Seed,37
+2026-03,R0072,Cruiser Cotton Seed,43
+2026-01,R0072,Cruiser Cotton Seed,52
+2026-01,R0072,Cruiser Cotton Seed,46
+2025-12,R0072,Cruiser Cotton Seed,44
+2025-11,R0072,Cruiser Cotton Seed,70
+2025-10,R0072,Cruiser Cotton Seed,39
+2025-09,R0072,Cruiser Cotton Seed,37
+2025-08,R0072,Cruiser Cotton Seed,25
+2025-07,R0072,Cruiser Cotton Seed,25
+2025-06,R0072,Cruiser Cotton Seed,28
+2026-05,R0073,Amistar Top Fungicide,27
+2026-04,R0073,Amistar Top Fungicide,48
+2026-03,R0073,Amistar Top Fungicide,27
+2026-01,R0073,Amistar Top Fungicide,67
+2026-01,R0073,Amistar Top Fungicide,90
+2025-12,R0073,Amistar Top Fungicide,75
+2025-11,R0073,Amistar Top Fungicide,79
+2025-10,R0073,Amistar Top Fungicide,42
+2025-09,R0073,Amistar Top Fungicide,37
+2025-08,R0073,Amistar Top Fungicide,36
+2025-07,R0073,Amistar Top Fungicide,16
+2025-06,R0073,Amistar Top Fungicide,23
+2026-05,R0073,Karate Zeon Insecticide,20
+2026-04,R0073,Karate Zeon Insecticide,42
+2026-03,R0073,Karate Zeon Insecticide,36
+2026-01,R0073,Karate Zeon Insecticide,48
+2026-01,R0073,Karate Zeon Insecticide,82
+2025-12,R0073,Karate Zeon Insecticide,45
+2025-11,R0073,Karate Zeon Insecticide,63
+2025-10,R0073,Karate Zeon Insecticide,75
+2025-09,R0073,Karate Zeon Insecticide,43
+2025-08,R0073,Karate Zeon Insecticide,33
+2025-07,R0073,Karate Zeon Insecticide,30
+2025-06,R0073,Karate Zeon Insecticide,32
+2026-05,R0073,Cruiser Seed Treatment,31
+2026-04,R0073,Cruiser Seed Treatment,42
+2026-03,R0073,Cruiser Seed Treatment,33
+2026-01,R0073,Cruiser Seed Treatment,46
+2026-01,R0073,Cruiser Seed Treatment,66
+2025-12,R0073,Cruiser Seed Treatment,51
+2025-11,R0073,Cruiser Seed Treatment,51
+2025-10,R0073,Cruiser Seed Treatment,52
+2025-09,R0073,Cruiser Seed Treatment,39
+2025-08,R0073,Cruiser Seed Treatment,36
+2025-07,R0073,Cruiser Seed Treatment,41
+2025-06,R0073,Cruiser Seed Treatment,41
+2026-05,R0074,Callisto Herbicide,56
+2026-04,R0074,Callisto Herbicide,61
+2026-03,R0074,Callisto Herbicide,72
+2026-01,R0074,Callisto Herbicide,135
+2026-01,R0074,Callisto Herbicide,91
+2025-12,R0074,Callisto Herbicide,124
+2025-11,R0074,Callisto Herbicide,96
+2025-10,R0074,Callisto Herbicide,80
+2025-09,R0074,Callisto Herbicide,64
+2025-08,R0074,Callisto Herbicide,36
+2025-07,R0074,Callisto Herbicide,78
+2025-06,R0074,Callisto Herbicide,57
+2026-05,R0074,Force Insecticide,47
+2026-04,R0074,Force Insecticide,65
+2026-03,R0074,Force Insecticide,77
+2026-01,R0074,Force Insecticide,156
+2026-01,R0074,Force Insecticide,125
+2025-12,R0074,Force Insecticide,92
+2025-11,R0074,Force Insecticide,72
+2025-10,R0074,Force Insecticide,120
+2025-09,R0074,Force Insecticide,72
+2025-08,R0074,Force Insecticide,76
+2025-07,R0074,Force Insecticide,53
+2025-06,R0074,Force Insecticide,63
+2026-05,R0074,NK Maize Hybrid Seed,35
+2026-04,R0074,NK Maize Hybrid Seed,70
+2026-03,R0074,NK Maize Hybrid Seed,111
+2026-01,R0074,NK Maize Hybrid Seed,134
+2026-01,R0074,NK Maize Hybrid Seed,120
+2025-12,R0074,NK Maize Hybrid Seed,124
+2025-11,R0074,NK Maize Hybrid Seed,89
+2025-10,R0074,NK Maize Hybrid Seed,54
+2025-09,R0074,NK Maize Hybrid Seed,108
+2025-08,R0074,NK Maize Hybrid Seed,90
+2025-07,R0074,NK Maize Hybrid Seed,64
+2025-06,R0074,NK Maize Hybrid Seed,51
+2026-05,R0075,Tihan Insecticide,31
+2026-04,R0075,Tihan Insecticide,49
+2026-03,R0075,Tihan Insecticide,56
+2026-01,R0075,Tihan Insecticide,65
+2026-01,R0075,Tihan Insecticide,84
+2025-12,R0075,Tihan Insecticide,68
+2025-11,R0075,Tihan Insecticide,79
+2025-10,R0075,Tihan Insecticide,70
+2025-09,R0075,Tihan Insecticide,47
+2025-08,R0075,Tihan Insecticide,38
+2025-07,R0075,Tihan Insecticide,28
+2025-06,R0075,Tihan Insecticide,42
+2026-05,R0075,Polo Insecticide,41
+2026-04,R0075,Polo Insecticide,68
+2026-03,R0075,Polo Insecticide,39
+2026-01,R0075,Polo Insecticide,73
+2026-01,R0075,Polo Insecticide,88
+2025-12,R0075,Polo Insecticide,72
+2025-11,R0075,Polo Insecticide,85
+2025-10,R0075,Polo Insecticide,101
+2025-09,R0075,Polo Insecticide,53
+2025-08,R0075,Polo Insecticide,72
+2025-07,R0075,Polo Insecticide,34
+2025-06,R0075,Polo Insecticide,28
+2026-05,R0075,Cruiser Cotton Seed,50
+2026-04,R0075,Cruiser Cotton Seed,46
+2026-03,R0075,Cruiser Cotton Seed,69
+2026-01,R0075,Cruiser Cotton Seed,112
+2026-01,R0075,Cruiser Cotton Seed,62
+2025-12,R0075,Cruiser Cotton Seed,129
+2025-11,R0075,Cruiser Cotton Seed,109
+2025-10,R0075,Cruiser Cotton Seed,65
+2025-09,R0075,Cruiser Cotton Seed,52
+2025-08,R0075,Cruiser Cotton Seed,40
+2025-07,R0075,Cruiser Cotton Seed,34
+2025-06,R0075,Cruiser Cotton Seed,34
+2026-05,R0076,Tihan Insecticide,40
+2026-04,R0076,Tihan Insecticide,35
+2026-03,R0076,Tihan Insecticide,70
+2026-01,R0076,Tihan Insecticide,51
+2026-01,R0076,Tihan Insecticide,57
+2025-12,R0076,Tihan Insecticide,70
+2025-11,R0076,Tihan Insecticide,52
+2025-10,R0076,Tihan Insecticide,49
+2025-09,R0076,Tihan Insecticide,52
+2025-08,R0076,Tihan Insecticide,25
+2025-07,R0076,Tihan Insecticide,22
+2025-06,R0076,Tihan Insecticide,27
+2026-05,R0076,Polo Insecticide,36
+2026-04,R0076,Polo Insecticide,52
+2026-03,R0076,Polo Insecticide,39
+2026-01,R0076,Polo Insecticide,63
+2026-01,R0076,Polo Insecticide,59
+2025-12,R0076,Polo Insecticide,73
+2025-11,R0076,Polo Insecticide,47
+2025-10,R0076,Polo Insecticide,68
+2025-09,R0076,Polo Insecticide,31
+2025-08,R0076,Polo Insecticide,35
+2025-07,R0076,Polo Insecticide,27
+2025-06,R0076,Polo Insecticide,29
+2026-05,R0076,Cruiser Cotton Seed,32
+2026-04,R0076,Cruiser Cotton Seed,25
+2026-03,R0076,Cruiser Cotton Seed,66
+2026-01,R0076,Cruiser Cotton Seed,62
+2026-01,R0076,Cruiser Cotton Seed,51
+2025-12,R0076,Cruiser Cotton Seed,64
+2025-11,R0076,Cruiser Cotton Seed,89
+2025-10,R0076,Cruiser Cotton Seed,51
+2025-09,R0076,Cruiser Cotton Seed,28
+2025-08,R0076,Cruiser Cotton Seed,38
+2025-07,R0076,Cruiser Cotton Seed,32
+2025-06,R0076,Cruiser Cotton Seed,31
+2026-05,R0077,Amistar Top Fungicide,76
+2026-04,R0077,Amistar Top Fungicide,62
+2026-03,R0077,Amistar Top Fungicide,61
+2026-01,R0077,Amistar Top Fungicide,140
+2026-01,R0077,Amistar Top Fungicide,111
+2025-12,R0077,Amistar Top Fungicide,112
+2025-11,R0077,Amistar Top Fungicide,115
+2025-10,R0077,Amistar Top Fungicide,157
+2025-09,R0077,Amistar Top Fungicide,130
+2025-08,R0077,Amistar Top Fungicide,81
+2025-07,R0077,Amistar Top Fungicide,47
+2025-06,R0077,Amistar Top Fungicide,31
+2026-05,R0077,Karate Zeon Insecticide,52
+2026-04,R0077,Karate Zeon Insecticide,67
+2026-03,R0077,Karate Zeon Insecticide,83
+2026-01,R0077,Karate Zeon Insecticide,158
+2026-01,R0077,Karate Zeon Insecticide,111
+2025-12,R0077,Karate Zeon Insecticide,102
+2025-11,R0077,Karate Zeon Insecticide,97
+2025-10,R0077,Karate Zeon Insecticide,135
+2025-09,R0077,Karate Zeon Insecticide,99
+2025-08,R0077,Karate Zeon Insecticide,69
+2025-07,R0077,Karate Zeon Insecticide,70
+2025-06,R0077,Karate Zeon Insecticide,42
+2026-05,R0077,Cruiser Seed Treatment,84
+2026-04,R0077,Cruiser Seed Treatment,76
+2026-03,R0077,Cruiser Seed Treatment,92
+2026-01,R0077,Cruiser Seed Treatment,100
+2026-01,R0077,Cruiser Seed Treatment,139
+2025-12,R0077,Cruiser Seed Treatment,105
+2025-11,R0077,Cruiser Seed Treatment,88
+2025-10,R0077,Cruiser Seed Treatment,76
+2025-09,R0077,Cruiser Seed Treatment,78
+2025-08,R0077,Cruiser Seed Treatment,87
+2025-07,R0077,Cruiser Seed Treatment,40
+2025-06,R0077,Cruiser Seed Treatment,61
+2026-05,R0078,Tihan Insecticide,98
+2026-04,R0078,Tihan Insecticide,59
+2026-03,R0078,Tihan Insecticide,67
+2026-01,R0078,Tihan Insecticide,124
+2026-01,R0078,Tihan Insecticide,106
+2025-12,R0078,Tihan Insecticide,183
+2025-11,R0078,Tihan Insecticide,95
+2025-10,R0078,Tihan Insecticide,94
+2025-09,R0078,Tihan Insecticide,78
+2025-08,R0078,Tihan Insecticide,90
+2025-07,R0078,Tihan Insecticide,70
+2025-06,R0078,Tihan Insecticide,61
+2026-05,R0078,Polo Insecticide,61
+2026-04,R0078,Polo Insecticide,93
+2026-03,R0078,Polo Insecticide,60
+2026-01,R0078,Polo Insecticide,147
+2026-01,R0078,Polo Insecticide,204
+2025-12,R0078,Polo Insecticide,148
+2025-11,R0078,Polo Insecticide,107
+2025-10,R0078,Polo Insecticide,92
+2025-09,R0078,Polo Insecticide,127
+2025-08,R0078,Polo Insecticide,86
+2025-07,R0078,Polo Insecticide,50
+2025-06,R0078,Polo Insecticide,64
+2026-05,R0078,Cruiser Cotton Seed,61
+2026-04,R0078,Cruiser Cotton Seed,65
+2026-03,R0078,Cruiser Cotton Seed,90
+2026-01,R0078,Cruiser Cotton Seed,123
+2026-01,R0078,Cruiser Cotton Seed,126
+2025-12,R0078,Cruiser Cotton Seed,155
+2025-11,R0078,Cruiser Cotton Seed,234
+2025-10,R0078,Cruiser Cotton Seed,115
+2025-09,R0078,Cruiser Cotton Seed,90
+2025-08,R0078,Cruiser Cotton Seed,76
+2025-07,R0078,Cruiser Cotton Seed,88
+2025-06,R0078,Cruiser Cotton Seed,50
+2026-05,R0079,Amistar Top Fungicide,11
+2026-04,R0079,Amistar Top Fungicide,12
+2026-03,R0079,Amistar Top Fungicide,9
+2026-01,R0079,Amistar Top Fungicide,15
+2026-01,R0079,Amistar Top Fungicide,12
+2025-12,R0079,Amistar Top Fungicide,21
+2025-11,R0079,Amistar Top Fungicide,16
+2025-10,R0079,Amistar Top Fungicide,11
+2025-09,R0079,Amistar Top Fungicide,15
+2025-08,R0079,Amistar Top Fungicide,12
+2025-07,R0079,Amistar Top Fungicide,7
+2025-06,R0079,Amistar Top Fungicide,6
+2026-05,R0079,Karate Zeon Insecticide,6
+2026-04,R0079,Karate Zeon Insecticide,8
+2026-03,R0079,Karate Zeon Insecticide,14
+2026-01,R0079,Karate Zeon Insecticide,10
+2026-01,R0079,Karate Zeon Insecticide,28
+2025-12,R0079,Karate Zeon Insecticide,17
+2025-11,R0079,Karate Zeon Insecticide,18
+2025-10,R0079,Karate Zeon Insecticide,10
+2025-09,R0079,Karate Zeon Insecticide,10
+2025-08,R0079,Karate Zeon Insecticide,10
+2025-07,R0079,Karate Zeon Insecticide,8
+2025-06,R0079,Karate Zeon Insecticide,8
+2026-05,R0079,Cruiser Seed Treatment,6
+2026-04,R0079,Cruiser Seed Treatment,9
+2026-03,R0079,Cruiser Seed Treatment,13
+2026-01,R0079,Cruiser Seed Treatment,15
+2026-01,R0079,Cruiser Seed Treatment,18
+2025-12,R0079,Cruiser Seed Treatment,23
+2025-11,R0079,Cruiser Seed Treatment,25
+2025-10,R0079,Cruiser Seed Treatment,15
+2025-09,R0079,Cruiser Seed Treatment,8
+2025-08,R0079,Cruiser Seed Treatment,9
+2025-07,R0079,Cruiser Seed Treatment,11
+2025-06,R0079,Cruiser Seed Treatment,8
+2026-05,R0080,Callisto Herbicide,14
+2026-04,R0080,Callisto Herbicide,18
+2026-03,R0080,Callisto Herbicide,17
+2026-01,R0080,Callisto Herbicide,31
+2026-01,R0080,Callisto Herbicide,37
+2025-12,R0080,Callisto Herbicide,30
+2025-11,R0080,Callisto Herbicide,32
+2025-10,R0080,Callisto Herbicide,40
+2025-09,R0080,Callisto Herbicide,15
+2025-08,R0080,Callisto Herbicide,12
+2025-07,R0080,Callisto Herbicide,17
+2025-06,R0080,Callisto Herbicide,11
+2026-05,R0080,Force Insecticide,11
+2026-04,R0080,Force Insecticide,19
+2026-03,R0080,Force Insecticide,17
+2026-01,R0080,Force Insecticide,22
+2026-01,R0080,Force Insecticide,38
+2025-12,R0080,Force Insecticide,21
+2025-11,R0080,Force Insecticide,38
+2025-10,R0080,Force Insecticide,25
+2025-09,R0080,Force Insecticide,29
+2025-08,R0080,Force Insecticide,15
+2025-07,R0080,Force Insecticide,15
+2025-06,R0080,Force Insecticide,11
+2026-05,R0080,NK Maize Hybrid Seed,12
+2026-04,R0080,NK Maize Hybrid Seed,16
+2026-03,R0080,NK Maize Hybrid Seed,22
+2026-01,R0080,NK Maize Hybrid Seed,23
+2026-01,R0080,NK Maize Hybrid Seed,34
+2025-12,R0080,NK Maize Hybrid Seed,22
+2025-11,R0080,NK Maize Hybrid Seed,17
+2025-10,R0080,NK Maize Hybrid Seed,23
+2025-09,R0080,NK Maize Hybrid Seed,33
+2025-08,R0080,NK Maize Hybrid Seed,17
+2025-07,R0080,NK Maize Hybrid Seed,15
+2025-06,R0080,NK Maize Hybrid Seed,9
+2026-05,R0081,Amistar Top Fungicide,50
+2026-04,R0081,Amistar Top Fungicide,88
+2026-03,R0081,Amistar Top Fungicide,93
+2026-01,R0081,Amistar Top Fungicide,77
+2026-01,R0081,Amistar Top Fungicide,157
+2025-12,R0081,Amistar Top Fungicide,122
+2025-11,R0081,Amistar Top Fungicide,75
+2025-10,R0081,Amistar Top Fungicide,119
+2025-09,R0081,Amistar Top Fungicide,87
+2025-08,R0081,Amistar Top Fungicide,50
+2025-07,R0081,Amistar Top Fungicide,36
+2025-06,R0081,Amistar Top Fungicide,55
+2026-05,R0081,Karate Zeon Insecticide,49
+2026-04,R0081,Karate Zeon Insecticide,69
+2026-03,R0081,Karate Zeon Insecticide,74
+2026-01,R0081,Karate Zeon Insecticide,72
+2026-01,R0081,Karate Zeon Insecticide,71
+2025-12,R0081,Karate Zeon Insecticide,115
+2025-11,R0081,Karate Zeon Insecticide,109
+2025-10,R0081,Karate Zeon Insecticide,119
+2025-09,R0081,Karate Zeon Insecticide,113
+2025-08,R0081,Karate Zeon Insecticide,56
+2025-07,R0081,Karate Zeon Insecticide,47
+2025-06,R0081,Karate Zeon Insecticide,44
+2026-05,R0081,Cruiser Seed Treatment,61
+2026-04,R0081,Cruiser Seed Treatment,56
+2026-03,R0081,Cruiser Seed Treatment,119
+2026-01,R0081,Cruiser Seed Treatment,113
+2026-01,R0081,Cruiser Seed Treatment,104
+2025-12,R0081,Cruiser Seed Treatment,80
+2025-11,R0081,Cruiser Seed Treatment,116
+2025-10,R0081,Cruiser Seed Treatment,83
+2025-09,R0081,Cruiser Seed Treatment,82
+2025-08,R0081,Cruiser Seed Treatment,112
+2025-07,R0081,Cruiser Seed Treatment,36
+2025-06,R0081,Cruiser Seed Treatment,47
+2026-05,R0082,Tihan Insecticide,41
+2026-04,R0082,Tihan Insecticide,76
+2026-03,R0082,Tihan Insecticide,78
+2026-01,R0082,Tihan Insecticide,140
+2026-01,R0082,Tihan Insecticide,104
+2025-12,R0082,Tihan Insecticide,139
+2025-11,R0082,Tihan Insecticide,117
+2025-10,R0082,Tihan Insecticide,99
+2025-09,R0082,Tihan Insecticide,75
+2025-08,R0082,Tihan Insecticide,68
+2025-07,R0082,Tihan Insecticide,72
+2025-06,R0082,Tihan Insecticide,87
+2026-05,R0082,Polo Insecticide,59
+2026-04,R0082,Polo Insecticide,65
+2026-03,R0082,Polo Insecticide,70
+2026-01,R0082,Polo Insecticide,130
+2026-01,R0082,Polo Insecticide,117
+2025-12,R0082,Polo Insecticide,145
+2025-11,R0082,Polo Insecticide,142
+2025-10,R0082,Polo Insecticide,96
+2025-09,R0082,Polo Insecticide,98
+2025-08,R0082,Polo Insecticide,45
+2025-07,R0082,Polo Insecticide,85
+2025-06,R0082,Polo Insecticide,90
+2026-05,R0082,Cruiser Cotton Seed,56
+2026-04,R0082,Cruiser Cotton Seed,71
+2026-03,R0082,Cruiser Cotton Seed,88
+2026-01,R0082,Cruiser Cotton Seed,142
+2026-01,R0082,Cruiser Cotton Seed,93
+2025-12,R0082,Cruiser Cotton Seed,139
+2025-11,R0082,Cruiser Cotton Seed,143
+2025-10,R0082,Cruiser Cotton Seed,87
+2025-09,R0082,Cruiser Cotton Seed,73
+2025-08,R0082,Cruiser Cotton Seed,106
+2025-07,R0082,Cruiser Cotton Seed,62
+2025-06,R0082,Cruiser Cotton Seed,80
+2026-05,R0083,Tihan Insecticide,56
+2026-04,R0083,Tihan Insecticide,82
+2026-03,R0083,Tihan Insecticide,93
+2026-01,R0083,Tihan Insecticide,144
+2026-01,R0083,Tihan Insecticide,131
+2025-12,R0083,Tihan Insecticide,80
+2025-11,R0083,Tihan Insecticide,116
+2025-10,R0083,Tihan Insecticide,90
+2025-09,R0083,Tihan Insecticide,67
+2025-08,R0083,Tihan Insecticide,61
+2025-07,R0083,Tihan Insecticide,61
+2025-06,R0083,Tihan Insecticide,57
+2026-05,R0083,Polo Insecticide,57
+2026-04,R0083,Polo Insecticide,67
+2026-03,R0083,Polo Insecticide,105
+2026-01,R0083,Polo Insecticide,97
+2026-01,R0083,Polo Insecticide,126
+2025-12,R0083,Polo Insecticide,116
+2025-11,R0083,Polo Insecticide,104
+2025-10,R0083,Polo Insecticide,85
+2025-09,R0083,Polo Insecticide,90
+2025-08,R0083,Polo Insecticide,60
+2025-07,R0083,Polo Insecticide,37
+2025-06,R0083,Polo Insecticide,58
+2026-05,R0083,Cruiser Cotton Seed,61
+2026-04,R0083,Cruiser Cotton Seed,106
+2026-03,R0083,Cruiser Cotton Seed,66
+2026-01,R0083,Cruiser Cotton Seed,88
+2026-01,R0083,Cruiser Cotton Seed,90
+2025-12,R0083,Cruiser Cotton Seed,113
+2025-11,R0083,Cruiser Cotton Seed,89
+2025-10,R0083,Cruiser Cotton Seed,128
+2025-09,R0083,Cruiser Cotton Seed,87
+2025-08,R0083,Cruiser Cotton Seed,59
+2025-07,R0083,Cruiser Cotton Seed,46
+2025-06,R0083,Cruiser Cotton Seed,39
+2026-05,R0084,Tihan Insecticide,66
+2026-04,R0084,Tihan Insecticide,61
+2026-03,R0084,Tihan Insecticide,98
+2026-01,R0084,Tihan Insecticide,78
+2026-01,R0084,Tihan Insecticide,110
+2025-12,R0084,Tihan Insecticide,128
+2025-11,R0084,Tihan Insecticide,122
+2025-10,R0084,Tihan Insecticide,126
+2025-09,R0084,Tihan Insecticide,106
+2025-08,R0084,Tihan Insecticide,105
+2025-07,R0084,Tihan Insecticide,79
+2025-06,R0084,Tihan Insecticide,75
+2026-05,R0084,Polo Insecticide,51
+2026-04,R0084,Polo Insecticide,78
+2026-03,R0084,Polo Insecticide,61
+2026-01,R0084,Polo Insecticide,109
+2026-01,R0084,Polo Insecticide,136
+2025-12,R0084,Polo Insecticide,149
+2025-11,R0084,Polo Insecticide,137
+2025-10,R0084,Polo Insecticide,84
+2025-09,R0084,Polo Insecticide,86
+2025-08,R0084,Polo Insecticide,68
+2025-07,R0084,Polo Insecticide,48
+2025-06,R0084,Polo Insecticide,57
+2026-05,R0084,Cruiser Cotton Seed,64
+2026-04,R0084,Cruiser Cotton Seed,40
+2026-03,R0084,Cruiser Cotton Seed,89
+2026-01,R0084,Cruiser Cotton Seed,110
+2026-01,R0084,Cruiser Cotton Seed,182
+2025-12,R0084,Cruiser Cotton Seed,135
+2025-11,R0084,Cruiser Cotton Seed,125
+2025-10,R0084,Cruiser Cotton Seed,106
+2025-09,R0084,Cruiser Cotton Seed,111
+2025-08,R0084,Cruiser Cotton Seed,108
+2025-07,R0084,Cruiser Cotton Seed,73
+2025-06,R0084,Cruiser Cotton Seed,50
+2026-05,R0085,Tihan Insecticide,23
+2026-04,R0085,Tihan Insecticide,34
+2026-03,R0085,Tihan Insecticide,35
+2026-01,R0085,Tihan Insecticide,51
+2026-01,R0085,Tihan Insecticide,99
+2025-12,R0085,Tihan Insecticide,69
+2025-11,R0085,Tihan Insecticide,56
+2025-10,R0085,Tihan Insecticide,59
+2025-09,R0085,Tihan Insecticide,43
+2025-08,R0085,Tihan Insecticide,35
+2025-07,R0085,Tihan Insecticide,28
+2025-06,R0085,Tihan Insecticide,34
+2026-05,R0085,Polo Insecticide,32
+2026-04,R0085,Polo Insecticide,38
+2026-03,R0085,Polo Insecticide,63
+2026-01,R0085,Polo Insecticide,64
+2026-01,R0085,Polo Insecticide,50
+2025-12,R0085,Polo Insecticide,47
+2025-11,R0085,Polo Insecticide,69
+2025-10,R0085,Polo Insecticide,36
+2025-09,R0085,Polo Insecticide,51
+2025-08,R0085,Polo Insecticide,46
+2025-07,R0085,Polo Insecticide,43
+2025-06,R0085,Polo Insecticide,12
+2026-05,R0085,Cruiser Cotton Seed,46
+2026-04,R0085,Cruiser Cotton Seed,41
+2026-03,R0085,Cruiser Cotton Seed,78
+2026-01,R0085,Cruiser Cotton Seed,65
+2026-01,R0085,Cruiser Cotton Seed,60
+2025-12,R0085,Cruiser Cotton Seed,57
+2025-11,R0085,Cruiser Cotton Seed,64
+2025-10,R0085,Cruiser Cotton Seed,58
+2025-09,R0085,Cruiser Cotton Seed,33
+2025-08,R0085,Cruiser Cotton Seed,43
+2025-07,R0085,Cruiser Cotton Seed,24
+2025-06,R0085,Cruiser Cotton Seed,43
+2026-05,R0086,Amistar Top Fungicide,43
+2026-04,R0086,Amistar Top Fungicide,23
+2026-03,R0086,Amistar Top Fungicide,48
+2026-01,R0086,Amistar Top Fungicide,41
+2026-01,R0086,Amistar Top Fungicide,53
+2025-12,R0086,Amistar Top Fungicide,88
+2025-11,R0086,Amistar Top Fungicide,53
+2025-10,R0086,Amistar Top Fungicide,61
+2025-09,R0086,Amistar Top Fungicide,48
+2025-08,R0086,Amistar Top Fungicide,29
+2025-07,R0086,Amistar Top Fungicide,22
+2025-06,R0086,Amistar Top Fungicide,26
+2026-05,R0086,Karate Zeon Insecticide,43
+2026-04,R0086,Karate Zeon Insecticide,27
+2026-03,R0086,Karate Zeon Insecticide,50
+2026-01,R0086,Karate Zeon Insecticide,90
+2026-01,R0086,Karate Zeon Insecticide,74
+2025-12,R0086,Karate Zeon Insecticide,57
+2025-11,R0086,Karate Zeon Insecticide,59
+2025-10,R0086,Karate Zeon Insecticide,64
+2025-09,R0086,Karate Zeon Insecticide,48
+2025-08,R0086,Karate Zeon Insecticide,51
+2025-07,R0086,Karate Zeon Insecticide,25
+2025-06,R0086,Karate Zeon Insecticide,31
+2026-05,R0086,Cruiser Seed Treatment,40
+2026-04,R0086,Cruiser Seed Treatment,29
+2026-03,R0086,Cruiser Seed Treatment,76
+2026-01,R0086,Cruiser Seed Treatment,60
+2026-01,R0086,Cruiser Seed Treatment,67
+2025-12,R0086,Cruiser Seed Treatment,76
+2025-11,R0086,Cruiser Seed Treatment,37
+2025-10,R0086,Cruiser Seed Treatment,74
+2025-09,R0086,Cruiser Seed Treatment,58
+2025-08,R0086,Cruiser Seed Treatment,44
+2025-07,R0086,Cruiser Seed Treatment,30
+2025-06,R0086,Cruiser Seed Treatment,32
+2026-05,R0087,Callisto Herbicide,64
+2026-04,R0087,Callisto Herbicide,54
+2026-03,R0087,Callisto Herbicide,82
+2026-01,R0087,Callisto Herbicide,72
+2026-01,R0087,Callisto Herbicide,63
+2025-12,R0087,Callisto Herbicide,87
+2025-11,R0087,Callisto Herbicide,73
+2025-10,R0087,Callisto Herbicide,68
+2025-09,R0087,Callisto Herbicide,37
+2025-08,R0087,Callisto Herbicide,44
+2025-07,R0087,Callisto Herbicide,59
+2025-06,R0087,Callisto Herbicide,34
+2026-05,R0087,Force Insecticide,46
+2026-04,R0087,Force Insecticide,54
+2026-03,R0087,Force Insecticide,51
+2026-01,R0087,Force Insecticide,99
+2026-01,R0087,Force Insecticide,62
+2025-12,R0087,Force Insecticide,106
+2025-11,R0087,Force Insecticide,96
+2025-10,R0087,Force Insecticide,87
+2025-09,R0087,Force Insecticide,57
+2025-08,R0087,Force Insecticide,43
+2025-07,R0087,Force Insecticide,55
+2025-06,R0087,Force Insecticide,42
+2026-05,R0087,NK Maize Hybrid Seed,32
+2026-04,R0087,NK Maize Hybrid Seed,35
+2026-03,R0087,NK Maize Hybrid Seed,109
+2026-01,R0087,NK Maize Hybrid Seed,88
+2026-01,R0087,NK Maize Hybrid Seed,81
+2025-12,R0087,NK Maize Hybrid Seed,78
+2025-11,R0087,NK Maize Hybrid Seed,107
+2025-10,R0087,NK Maize Hybrid Seed,74
+2025-09,R0087,NK Maize Hybrid Seed,61
+2025-08,R0087,NK Maize Hybrid Seed,65
+2025-07,R0087,NK Maize Hybrid Seed,36
+2025-06,R0087,NK Maize Hybrid Seed,49
+2026-05,R0088,Callisto Herbicide,79
+2026-04,R0088,Callisto Herbicide,84
+2026-03,R0088,Callisto Herbicide,102
+2026-01,R0088,Callisto Herbicide,143
+2026-01,R0088,Callisto Herbicide,148
+2025-12,R0088,Callisto Herbicide,150
+2025-11,R0088,Callisto Herbicide,110
+2025-10,R0088,Callisto Herbicide,116
+2025-09,R0088,Callisto Herbicide,123
+2025-08,R0088,Callisto Herbicide,102
+2025-07,R0088,Callisto Herbicide,54
+2025-06,R0088,Callisto Herbicide,58
+2026-05,R0088,Force Insecticide,59
+2026-04,R0088,Force Insecticide,74
+2026-03,R0088,Force Insecticide,66
+2026-01,R0088,Force Insecticide,192
+2026-01,R0088,Force Insecticide,177
+2025-12,R0088,Force Insecticide,179
+2025-11,R0088,Force Insecticide,162
+2025-10,R0088,Force Insecticide,105
+2025-09,R0088,Force Insecticide,115
+2025-08,R0088,Force Insecticide,66
+2025-07,R0088,Force Insecticide,55
+2025-06,R0088,Force Insecticide,43
+2026-05,R0088,NK Maize Hybrid Seed,80
+2026-04,R0088,NK Maize Hybrid Seed,62
+2026-03,R0088,NK Maize Hybrid Seed,95
+2026-01,R0088,NK Maize Hybrid Seed,157
+2026-01,R0088,NK Maize Hybrid Seed,149
+2025-12,R0088,NK Maize Hybrid Seed,166
+2025-11,R0088,NK Maize Hybrid Seed,134
+2025-10,R0088,NK Maize Hybrid Seed,95
+2025-09,R0088,NK Maize Hybrid Seed,81
+2025-08,R0088,NK Maize Hybrid Seed,74
+2025-07,R0088,NK Maize Hybrid Seed,50
+2025-06,R0088,NK Maize Hybrid Seed,47
+2026-05,R0089,Callisto Herbicide,43
+2026-04,R0089,Callisto Herbicide,38
+2026-03,R0089,Callisto Herbicide,59
+2026-01,R0089,Callisto Herbicide,142
+2026-01,R0089,Callisto Herbicide,99
+2025-12,R0089,Callisto Herbicide,108
+2025-11,R0089,Callisto Herbicide,55
+2025-10,R0089,Callisto Herbicide,83
+2025-09,R0089,Callisto Herbicide,71
+2025-08,R0089,Callisto Herbicide,51
+2025-07,R0089,Callisto Herbicide,47
+2025-06,R0089,Callisto Herbicide,33
+2026-05,R0089,Force Insecticide,61
+2026-04,R0089,Force Insecticide,60
+2026-03,R0089,Force Insecticide,75
+2026-01,R0089,Force Insecticide,87
+2026-01,R0089,Force Insecticide,79
+2025-12,R0089,Force Insecticide,102
+2025-11,R0089,Force Insecticide,59
+2025-10,R0089,Force Insecticide,103
+2025-09,R0089,Force Insecticide,69
+2025-08,R0089,Force Insecticide,73
+2025-07,R0089,Force Insecticide,43
+2025-06,R0089,Force Insecticide,63
+2026-05,R0089,NK Maize Hybrid Seed,35
+2026-04,R0089,NK Maize Hybrid Seed,46
+2026-03,R0089,NK Maize Hybrid Seed,90
+2026-01,R0089,NK Maize Hybrid Seed,78
+2026-01,R0089,NK Maize Hybrid Seed,84
+2025-12,R0089,NK Maize Hybrid Seed,77
+2025-11,R0089,NK Maize Hybrid Seed,82
+2025-10,R0089,NK Maize Hybrid Seed,75
+2025-09,R0089,NK Maize Hybrid Seed,71
+2025-08,R0089,NK Maize Hybrid Seed,53
+2025-07,R0089,NK Maize Hybrid Seed,34
+2025-06,R0089,NK Maize Hybrid Seed,24
+2026-05,R0090,Tihan Insecticide,52
+2026-04,R0090,Tihan Insecticide,59
+2026-03,R0090,Tihan Insecticide,106
+2026-01,R0090,Tihan Insecticide,92
+2026-01,R0090,Tihan Insecticide,150
+2025-12,R0090,Tihan Insecticide,121
+2025-11,R0090,Tihan Insecticide,161
+2025-10,R0090,Tihan Insecticide,103
+2025-09,R0090,Tihan Insecticide,108
+2025-08,R0090,Tihan Insecticide,54
+2025-07,R0090,Tihan Insecticide,85
+2025-06,R0090,Tihan Insecticide,75
+2026-05,R0090,Polo Insecticide,58
+2026-04,R0090,Polo Insecticide,62
+2026-03,R0090,Polo Insecticide,100
+2026-01,R0090,Polo Insecticide,131
+2026-01,R0090,Polo Insecticide,126
+2025-12,R0090,Polo Insecticide,104
+2025-11,R0090,Polo Insecticide,117
+2025-10,R0090,Polo Insecticide,163
+2025-09,R0090,Polo Insecticide,113
+2025-08,R0090,Polo Insecticide,59
+2025-07,R0090,Polo Insecticide,102
+2025-06,R0090,Polo Insecticide,53
+2026-05,R0090,Cruiser Cotton Seed,54
+2026-04,R0090,Cruiser Cotton Seed,81
+2026-03,R0090,Cruiser Cotton Seed,89
+2026-01,R0090,Cruiser Cotton Seed,122
+2026-01,R0090,Cruiser Cotton Seed,113
+2025-12,R0090,Cruiser Cotton Seed,146
+2025-11,R0090,Cruiser Cotton Seed,115
+2025-10,R0090,Cruiser Cotton Seed,91
+2025-09,R0090,Cruiser Cotton Seed,83
+2025-08,R0090,Cruiser Cotton Seed,72
+2025-07,R0090,Cruiser Cotton Seed,77
+2025-06,R0090,Cruiser Cotton Seed,52
+2026-05,R0091,Callisto Herbicide,6
+2026-04,R0091,Callisto Herbicide,16
+2026-03,R0091,Callisto Herbicide,14
+2026-01,R0091,Callisto Herbicide,25
+2026-01,R0091,Callisto Herbicide,21
+2025-12,R0091,Callisto Herbicide,26
+2025-11,R0091,Callisto Herbicide,29
+2025-10,R0091,Callisto Herbicide,17
+2025-09,R0091,Callisto Herbicide,12
+2025-08,R0091,Callisto Herbicide,12
+2025-07,R0091,Callisto Herbicide,10
+2025-06,R0091,Callisto Herbicide,15
+2026-05,R0091,Force Insecticide,9
+2026-04,R0091,Force Insecticide,11
+2026-03,R0091,Force Insecticide,14
+2026-01,R0091,Force Insecticide,30
+2026-01,R0091,Force Insecticide,26
+2025-12,R0091,Force Insecticide,17
+2025-11,R0091,Force Insecticide,27
+2025-10,R0091,Force Insecticide,14
+2025-09,R0091,Force Insecticide,15
+2025-08,R0091,Force Insecticide,12
+2025-07,R0091,Force Insecticide,8
+2025-06,R0091,Force Insecticide,8
+2026-05,R0091,NK Maize Hybrid Seed,9
+2026-04,R0091,NK Maize Hybrid Seed,13
+2026-03,R0091,NK Maize Hybrid Seed,14
+2026-01,R0091,NK Maize Hybrid Seed,29
+2026-01,R0091,NK Maize Hybrid Seed,21
+2025-12,R0091,NK Maize Hybrid Seed,37
+2025-11,R0091,NK Maize Hybrid Seed,19
+2025-10,R0091,NK Maize Hybrid Seed,24
+2025-09,R0091,NK Maize Hybrid Seed,18
+2025-08,R0091,NK Maize Hybrid Seed,10
+2025-07,R0091,NK Maize Hybrid Seed,15
+2025-06,R0091,NK Maize Hybrid Seed,7
+2026-05,R0092,Tihan Insecticide,49
+2026-04,R0092,Tihan Insecticide,77
+2026-03,R0092,Tihan Insecticide,90
+2026-01,R0092,Tihan Insecticide,72
+2026-01,R0092,Tihan Insecticide,86
+2025-12,R0092,Tihan Insecticide,152
+2025-11,R0092,Tihan Insecticide,90
+2025-10,R0092,Tihan Insecticide,118
+2025-09,R0092,Tihan Insecticide,87
+2025-08,R0092,Tihan Insecticide,42
+2025-07,R0092,Tihan Insecticide,56
+2025-06,R0092,Tihan Insecticide,31
+2026-05,R0092,Polo Insecticide,61
+2026-04,R0092,Polo Insecticide,94
+2026-03,R0092,Polo Insecticide,91
+2026-01,R0092,Polo Insecticide,93
+2026-01,R0092,Polo Insecticide,65
+2025-12,R0092,Polo Insecticide,125
+2025-11,R0092,Polo Insecticide,122
+2025-10,R0092,Polo Insecticide,117
+2025-09,R0092,Polo Insecticide,74
+2025-08,R0092,Polo Insecticide,62
+2025-07,R0092,Polo Insecticide,44
+2025-06,R0092,Polo Insecticide,37
+2026-05,R0092,Cruiser Cotton Seed,56
+2026-04,R0092,Cruiser Cotton Seed,80
+2026-03,R0092,Cruiser Cotton Seed,70
+2026-01,R0092,Cruiser Cotton Seed,149
+2026-01,R0092,Cruiser Cotton Seed,95
+2025-12,R0092,Cruiser Cotton Seed,104
+2025-11,R0092,Cruiser Cotton Seed,111
+2025-10,R0092,Cruiser Cotton Seed,74
+2025-09,R0092,Cruiser Cotton Seed,138
+2025-08,R0092,Cruiser Cotton Seed,55
+2025-07,R0092,Cruiser Cotton Seed,39
+2025-06,R0092,Cruiser Cotton Seed,58
+2026-05,R0093,Tihan Insecticide,10
+2026-04,R0093,Tihan Insecticide,10
+2026-03,R0093,Tihan Insecticide,14
+2026-01,R0093,Tihan Insecticide,24
+2026-01,R0093,Tihan Insecticide,18
+2025-12,R0093,Tihan Insecticide,25
+2025-11,R0093,Tihan Insecticide,25
+2025-10,R0093,Tihan Insecticide,18
+2025-09,R0093,Tihan Insecticide,14
+2025-08,R0093,Tihan Insecticide,11
+2025-07,R0093,Tihan Insecticide,8
+2025-06,R0093,Tihan Insecticide,11
+2026-05,R0093,Polo Insecticide,14
+2026-04,R0093,Polo Insecticide,11
+2026-03,R0093,Polo Insecticide,13
+2026-01,R0093,Polo Insecticide,23
+2026-01,R0093,Polo Insecticide,15
+2025-12,R0093,Polo Insecticide,20
+2025-11,R0093,Polo Insecticide,16
+2025-10,R0093,Polo Insecticide,29
+2025-09,R0093,Polo Insecticide,11
+2025-08,R0093,Polo Insecticide,8
+2025-07,R0093,Polo Insecticide,9
+2025-06,R0093,Polo Insecticide,12
+2026-05,R0093,Cruiser Cotton Seed,10
+2026-04,R0093,Cruiser Cotton Seed,11
+2026-03,R0093,Cruiser Cotton Seed,19
+2026-01,R0093,Cruiser Cotton Seed,17
+2026-01,R0093,Cruiser Cotton Seed,20
+2025-12,R0093,Cruiser Cotton Seed,23
+2025-11,R0093,Cruiser Cotton Seed,23
+2025-10,R0093,Cruiser Cotton Seed,14
+2025-09,R0093,Cruiser Cotton Seed,12
+2025-08,R0093,Cruiser Cotton Seed,10
+2025-07,R0093,Cruiser Cotton Seed,11
+2025-06,R0093,Cruiser Cotton Seed,11
+2026-05,R0094,Amistar Top Fungicide,37
+2026-04,R0094,Amistar Top Fungicide,29
+2026-03,R0094,Amistar Top Fungicide,61
+2026-01,R0094,Amistar Top Fungicide,65
+2026-01,R0094,Amistar Top Fungicide,51
+2025-12,R0094,Amistar Top Fungicide,60
+2025-11,R0094,Amistar Top Fungicide,81
+2025-10,R0094,Amistar Top Fungicide,32
+2025-09,R0094,Amistar Top Fungicide,50
+2025-08,R0094,Amistar Top Fungicide,30
+2025-07,R0094,Amistar Top Fungicide,47
+2025-06,R0094,Amistar Top Fungicide,21
+2026-05,R0094,Karate Zeon Insecticide,31
+2026-04,R0094,Karate Zeon Insecticide,44
+2026-03,R0094,Karate Zeon Insecticide,68
+2026-01,R0094,Karate Zeon Insecticide,73
+2026-01,R0094,Karate Zeon Insecticide,71
+2025-12,R0094,Karate Zeon Insecticide,77
+2025-11,R0094,Karate Zeon Insecticide,49
+2025-10,R0094,Karate Zeon Insecticide,57
+2025-09,R0094,Karate Zeon Insecticide,58
+2025-08,R0094,Karate Zeon Insecticide,35
+2025-07,R0094,Karate Zeon Insecticide,27
+2025-06,R0094,Karate Zeon Insecticide,28
+2026-05,R0094,Cruiser Seed Treatment,44
+2026-04,R0094,Cruiser Seed Treatment,72
+2026-03,R0094,Cruiser Seed Treatment,48
+2026-01,R0094,Cruiser Seed Treatment,45
+2026-01,R0094,Cruiser Seed Treatment,117
+2025-12,R0094,Cruiser Seed Treatment,66
+2025-11,R0094,Cruiser Seed Treatment,76
+2025-10,R0094,Cruiser Seed Treatment,70
+2025-09,R0094,Cruiser Seed Treatment,41
+2025-08,R0094,Cruiser Seed Treatment,45
+2025-07,R0094,Cruiser Seed Treatment,33
+2025-06,R0094,Cruiser Seed Treatment,35
+2026-05,R0095,Tihan Insecticide,68
+2026-04,R0095,Tihan Insecticide,40
+2026-03,R0095,Tihan Insecticide,39
+2026-01,R0095,Tihan Insecticide,87
+2026-01,R0095,Tihan Insecticide,89
+2025-12,R0095,Tihan Insecticide,128
+2025-11,R0095,Tihan Insecticide,88
+2025-10,R0095,Tihan Insecticide,82
+2025-09,R0095,Tihan Insecticide,52
+2025-08,R0095,Tihan Insecticide,47
+2025-07,R0095,Tihan Insecticide,43
+2025-06,R0095,Tihan Insecticide,51
+2026-05,R0095,Polo Insecticide,58
+2026-04,R0095,Polo Insecticide,56
+2026-03,R0095,Polo Insecticide,86
+2026-01,R0095,Polo Insecticide,90
+2026-01,R0095,Polo Insecticide,82
+2025-12,R0095,Polo Insecticide,105
+2025-11,R0095,Polo Insecticide,71
+2025-10,R0095,Polo Insecticide,93
+2025-09,R0095,Polo Insecticide,73
+2025-08,R0095,Polo Insecticide,70
+2025-07,R0095,Polo Insecticide,45
+2025-06,R0095,Polo Insecticide,49
+2026-05,R0095,Cruiser Cotton Seed,34
+2026-04,R0095,Cruiser Cotton Seed,53
+2026-03,R0095,Cruiser Cotton Seed,49
+2026-01,R0095,Cruiser Cotton Seed,119
+2026-01,R0095,Cruiser Cotton Seed,132
+2025-12,R0095,Cruiser Cotton Seed,143
+2025-11,R0095,Cruiser Cotton Seed,77
+2025-10,R0095,Cruiser Cotton Seed,53
+2025-09,R0095,Cruiser Cotton Seed,59
+2025-08,R0095,Cruiser Cotton Seed,73
+2025-07,R0095,Cruiser Cotton Seed,45
+2025-06,R0095,Cruiser Cotton Seed,36
+2026-05,R0096,Tihan Insecticide,50
+2026-04,R0096,Tihan Insecticide,29
+2026-03,R0096,Tihan Insecticide,77
+2026-01,R0096,Tihan Insecticide,82
+2026-01,R0096,Tihan Insecticide,133
+2025-12,R0096,Tihan Insecticide,124
+2025-11,R0096,Tihan Insecticide,78
+2025-10,R0096,Tihan Insecticide,95
+2025-09,R0096,Tihan Insecticide,106
+2025-08,R0096,Tihan Insecticide,68
+2025-07,R0096,Tihan Insecticide,73
+2025-06,R0096,Tihan Insecticide,49
+2026-05,R0096,Polo Insecticide,66
+2026-04,R0096,Polo Insecticide,77
+2026-03,R0096,Polo Insecticide,84
+2026-01,R0096,Polo Insecticide,74
+2026-01,R0096,Polo Insecticide,98
+2025-12,R0096,Polo Insecticide,107
+2025-11,R0096,Polo Insecticide,119
+2025-10,R0096,Polo Insecticide,93
+2025-09,R0096,Polo Insecticide,113
+2025-08,R0096,Polo Insecticide,54
+2025-07,R0096,Polo Insecticide,35
+2025-06,R0096,Polo Insecticide,48
+2026-05,R0096,Cruiser Cotton Seed,43
+2026-04,R0096,Cruiser Cotton Seed,119
+2026-03,R0096,Cruiser Cotton Seed,72
+2026-01,R0096,Cruiser Cotton Seed,95
+2026-01,R0096,Cruiser Cotton Seed,130
+2025-12,R0096,Cruiser Cotton Seed,101
+2025-11,R0096,Cruiser Cotton Seed,108
+2025-10,R0096,Cruiser Cotton Seed,107
+2025-09,R0096,Cruiser Cotton Seed,83
+2025-08,R0096,Cruiser Cotton Seed,74
+2025-07,R0096,Cruiser Cotton Seed,78
+2025-06,R0096,Cruiser Cotton Seed,64

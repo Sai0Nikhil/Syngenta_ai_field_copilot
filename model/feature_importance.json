@@ -1,0 +1,42 @@
+[
+  {
+    "feature": "avg_monthly_sales_inr",
+    "importance": 0.2702232957863472
+  },
+  {
+    "feature": "days_since_visit",
+    "importance": 0.2031510401298885
+  },
+  {
+    "feature": "recent_humidity_pct",
+    "importance": 0.1769495593106525
+  },
+  {
+    "feature": "recent_rain_7d_mm",
+    "importance": 0.14767931592875294
+  },
+  {
+    "feature": "credit_score",
+    "importance": 0.08821898577037306
+  },
+  {
+    "feature": "tier_score",
+    "importance": 0.04137271721939029
+  },
+  {
+    "feature": "crop_cotton",
+    "importance": 0.02498408678230039
+  },
+  {
+    "feature": "pest_pressure_14d",
+    "importance": 0.022606595985620082
+  },
+  {
+    "feature": "crop_chilli",
+    "importance": 0.019042815071647415
+  },
+  {
+    "feature": "crop_maize",
+    "importance": 0.005771588015027476
+  }
+]
