@@ -30,6 +30,18 @@ df["crop_chilli"] = (df["primary_crop"] == "chilli").astype(int)
 df["crop_maize"]  = (df["primary_crop"] == "maize").astype(int)
 df["crop_cotton"] = (df["primary_crop"] == "cotton").astype(int)
 
+# NDVI feature: merge latest weekly NDVI per district as of each training date.
+ndvi = pd.read_csv(ROOT / "data" / "ndvi.csv", parse_dates=["week_start"])
+ndvi = ndvi.sort_values("week_start")
+df = df.copy()
+df["date_dt"] = pd.to_datetime(df["date"])
+df_sorted = df.sort_values("date_dt")
+# Merge_asof gets the NDVI for the most recent week_start <= date for each district.
+df = pd.merge_asof(df_sorted, ndvi, left_on="date_dt", right_on="week_start",
+                   by="district", direction="backward")
+df["ndvi"] = df["ndvi"].fillna(0.3)  # fallback if no NDVI record found
+df.drop(columns=["date_dt", "week_start"], inplace=True)
+
 FEATURES = [
     "avg_monthly_sales_inr",
     "credit_score",
@@ -37,6 +49,7 @@ FEATURES = [
     "recent_rain_7d_mm",
     "recent_humidity_pct",
     "pest_pressure_14d",
+    "ndvi",
     "tier_score",
     "crop_chilli",
     "crop_maize",
