@@ -42,6 +42,9 @@ df = pd.merge_asof(df_sorted, ndvi, left_on="date_dt", right_on="week_start",
 df["ndvi"] = df["ndvi"].fillna(0.3)  # fallback if no NDVI record found
 df.drop(columns=["date_dt", "week_start"], inplace=True)
 
+# Month (seasonality).
+df["month"] = pd.to_datetime(df["date"]).dt.month
+
 FEATURES = [
     "avg_monthly_sales_inr",
     "credit_score",
@@ -50,6 +53,7 @@ FEATURES = [
     "recent_humidity_pct",
     "pest_pressure_14d",
     "ndvi",
+    "month",
     "tier_score",
     "crop_chilli",
     "crop_maize",

@@ -124,6 +124,9 @@ def build_today_features(today: date) -> pd.DataFrame:
     df = df.merge(ndvi_latest[["district", "ndvi"]], on="district", how="left")
     df["ndvi"] = df["ndvi"].fillna(0.3)
 
+    # Season / month.
+    df["month"] = today.month
+
     # Encodings.
     df["tier_score"] = df["tier"].map({"A": 3, "B": 2, "C": 1})
     df["crop_chilli"] = (df["primary_crop"] == "chilli").astype(int)
@@ -157,6 +160,8 @@ def reason_chips(row: pd.Series) -> str:
         chips.append(f'<span class="reason-chip">💰 ₹{row["avg_monthly_sales_inr"]/1000:.0f}k/mo</span>')
     if row.get("ndvi", 1) < 0.3:
         chips.append(f'<span class="reason-chip chip-danger">🌱 crop stress (NDVI {row["ndvi"]:.2f})</span>')
+    if row.get("month", 0) in {6, 7, 8, 9, 10}:
+        chips.append('<span class="reason-chip">🌾 peak kharif season</span>')
     if not chips:
         chips.append('<span class="reason-chip">Routine check-in</span>')
     return " ".join(chips)

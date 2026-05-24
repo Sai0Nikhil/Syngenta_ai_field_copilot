@@ -1,46 +1,50 @@
 [
   {
     "feature": "avg_monthly_sales_inr",
-    "importance": 0.2472836976593949
-  },
-  {
-    "feature": "days_since_visit",
-    "importance": 0.17349921690444145
+    "importance": 0.24957695686680487
   },
   {
     "feature": "ndvi",
-    "importance": 0.17135777580564338
+    "importance": 0.17556586837805951
   },
   {
-    "feature": "recent_humidity_pct",
-    "importance": 0.11738457715489958
-  },
-  {
-    "feature": "recent_rain_7d_mm",
-    "importance": 0.11185438052274688
+    "feature": "days_since_visit",
+    "importance": 0.16959931272767081
   },
   {
     "feature": "credit_score",
-    "importance": 0.08691290987172658
+    "importance": 0.10057522854842149
+  },
+  {
+    "feature": "recent_rain_7d_mm",
+    "importance": 0.09615401506220388
+  },
+  {
+    "feature": "recent_humidity_pct",
+    "importance": 0.09016473792497887
   },
   {
     "feature": "tier_score",
-    "importance": 0.03786630406783379
+    "importance": 0.03881952192289079
+  },
+  {
+    "feature": "month",
+    "importance": 0.026193033380506072
   },
   {
     "feature": "crop_cotton",
-    "importance": 0.024090996600113004
+    "importance": 0.017976751174265778
   },
   {
     "feature": "pest_pressure_14d",
-    "importance": 0.013635095424916649
+    "importance": 0.015932077387294023
   },
   {
     "feature": "crop_chilli",
-    "importance": 0.013375590978049818
+    "importance": 0.014055361179218904
   },
   {
     "feature": "crop_maize",
-    "importance": 0.002739455010234019
+    "importance": 0.005387135447684874
   }
 ]
